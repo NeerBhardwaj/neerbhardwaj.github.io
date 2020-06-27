@@ -14,9 +14,11 @@ The additive groups of ℤ and ℚ with predicates for being square-free. [<a hr
 A reproof of the Pila-Wilkie theorem.
 : with Lou van den Dries.
  
- 
+
+<br><br>
+
 ### Useful Links
-* <a href="https://arxiv.org/list/math.LO/recent" target="_blank"> Logic arXiv</a>.
-* <a href="http://forkinganddividing.com/" target="_blank"> Map of the model theoretic universe</a>. 
-* <a href="https://ffbandf.wordpress.com/about/" target="_blank"> A collective blog on model theory</a>.
-* <a href="https://modeltheory.fandom.com/wiki/Special:AllPages" target="_blank"> Model theory wiki</a>.
+* <a href="https://arxiv.org/list/math.LO/recent" target="_blank"> Logic arXiv</a>
+* <a href="http://forkinganddividing.com/" target="_blank"> Map of the model theoretic universe</a>
+* <a href="https://ffbandf.wordpress.com/about/" target="_blank"> A collective blog on model theory</a>
+* <a href="https://modeltheory.fandom.com/wiki/Special:AllPages" target="_blank"> Model theory wiki</a>
