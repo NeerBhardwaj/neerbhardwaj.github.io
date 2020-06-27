@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Neer Bhardwaj"
   avatar           : "logo2.jpg"
-  bio              : "PhD Candidate, Mathematics"
-  location         : "University of Illinois "
-  employer         :  "Urbana-Champaign"
+  bio              : "PhD candidate, Mathematics <br><br>University of Illinois,<br>Urbana-Champaign"
+  location         : 
+  employer         :  
   pubmed           : 
   googlescholar    : 
   email            : nbhard4@illinois.edu
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
+  linkedin         : "neer-bhardwaj"
   orcid            : 
   pinterest        :
   soundcloud       :
