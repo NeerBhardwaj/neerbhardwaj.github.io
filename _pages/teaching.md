@@ -18,3 +18,6 @@ None
 
 ##### * On the list of Teachers ranked as <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations(ices)/teachers-ranked-as-excellent" target="_blank"> Excellent</a>.<br> ** Ranked <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> Excellent</a> with <i>Outstanding</i> rating - (top 10% of instructors university-wide).</h5>
 
+### TA Mentor, Department of Mathematics, UIUC
+   * Co-organized the annual departmental TA orientation.
+   * Advised 5 graduate students though their first semester of teaching.
