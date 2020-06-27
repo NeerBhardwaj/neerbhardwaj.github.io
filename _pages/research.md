@@ -17,7 +17,7 @@ A reproof of the Pila-Wilkie theorem.
 
 <br><br><br><br>
 
-### Useful Links
+### Useful links
 * <a href="https://arxiv.org/list/math.LO/recent" target="_blank"> Logic arXiv</a>
 * <a href="http://forkinganddividing.com/" target="_blank"> Map of the model theoretic universe</a>
 * <a href="https://ffbandf.wordpress.com/about/" target="_blank"> A collective blog on model theory</a>
