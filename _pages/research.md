@@ -12,5 +12,5 @@ I am currently interested in o-minimality and its interactions with other areas 
 : View one of our structures in the <a href="http://forkinganddividing.com/#_02_54" target="blank"> model theory universe</a>.
 <br><br>
 A reproof of the Pila-Wilkie theorem.
-:   with Lou van den Dries.
+: with Lou van den Dries.
  
