@@ -1,15 +1,16 @@
 ---
-title: "Paper Title Number 1"
+title: "The additive groups of ℤ and ℚ with predicates for being square-free"
 collection: publications
 permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
-date: 2009-10-01
-venue: 'Journal 1'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+date: 
+venue: ''
+paperurl: 'neerbhardwaj.github.io/files/The additive groups of ℤ and ℚ with predicates for being square-free.pdf'
 citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
-This paper is about the number 1. The number 2 is left for future work.
+with <a href="https://faculty.math.illinois.edu/~mctran2/" target="_blank"> Minh Chieu Tran</a>, Accepted, <i>Journal of Symbolic Logic</i>.
 
-[Download paper here](http://academicpages.github.io/files/paper1.pdf)
+View one of our structures in the <a href="http://forkinganddividing.com/#_02_54" target="blank"> model theory universe</a>.
 
-Recommended citation: Your Name, You. (2009). "Paper Title Number 1." <i>Journal 1</i>. 1(1).
+[Download paper here](neerbhardwaj.github.io/files/The additive groups of ℤ and ℚ with predicates for being square-free.pdf
+)
