@@ -13,6 +13,6 @@ I am currently interested in o-minimality and its interactions with other areas 
    
 ## Preprints  
 
-   * A reproof of the Pila-Wilkie theorem
+   * A reproof of the Pila-Wilkie theorem.
         * with Lou van den Dries.
  
