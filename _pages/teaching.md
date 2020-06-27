@@ -3,9 +3,13 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+### Courses taught
 
-I am currently interested in o-minimality and its interactions with other areas of mathematics.
-## Publications
-   * <a href="https://arxiv.org/abs/1707.00096" target="_blank"> The additive groups of ℤ and ℚ with predicates for being square-free</a>.<br>
-        * with <a href="https://faculty.math.illinois.edu/~mctran2/" target="_blank"> Minh Chieu Tran</a>, Accepted, <i>Journal of Symbolic Logic</i>.
-        * View one of our structures in the <a href="http://forkinganddividing.com/#_02_54" target="blank"> model theory universe</a>.
+<ul>
+        <li>Caluclus III, Fall 2019<sup>*</sup></li>
+        <li>Calculus II,  Spring 2019<sup>**</sup></li>
+        <li>Calculus I,   Fall 2018<sup>*</sup></li>
+        <li>Calculus II,  Spring 2018<sup>**</sup></li>
+        <li>Calculus III, Fall 2017
+</ul>
+
