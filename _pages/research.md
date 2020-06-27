@@ -15,7 +15,7 @@ A reproof of the Pila-Wilkie theorem.
 : with Lou van den Dries.
  
 
-<br><br>
+<br><br><br><br>
 
 ### Useful Links
 * <a href="https://arxiv.org/list/math.LO/recent" target="_blank"> Logic arXiv</a>
