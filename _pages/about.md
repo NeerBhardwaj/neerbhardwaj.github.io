@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am fifth year mathematics PhD candidate at UIUC. My research interests lie primarily in model theory and its applications. I am part of the <a href="https://math.illinois.edu/research/faculty-research/logic" target="_blank">Logic</a> group, and my advisor is <a href="https://math.illinois.edu/directory/profile/vddries" target="_blank">Lou van den Dries</a>. 
+I am 5<sup>th</sup> year mathematics PhD candidate at UIUC. My research interests lie primarily in model theory and its applications. I am part of the <a href="https://math.illinois.edu/research/faculty-research/logic" target="_blank">Logic</a> group, and my advisor is <a href="https://math.illinois.edu/directory/profile/vddries" target="_blank">Lou van den Dries</a>. 
         
 I received my undergraduate education at the <a href="http://www.iitk.ac.in" target="_blank"> Indian Institute of Technology, Kanpur</a>.
 
