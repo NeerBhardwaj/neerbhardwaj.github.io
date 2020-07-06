@@ -12,7 +12,7 @@ The additive groups of ℤ and ℚ with predicates for being square-free. [<a hr
 : View one of our structures in the <a href="http://forkinganddividing.com/#_02_54" target="blank"> model theory universe</a>.
 
 A reproof of the Pila-Wilkie theorem.
-: with Lou van den Dries.
+: <a href="https://math.illinois.edu/directory/profile/vddries" target="_blank">Lou van den Dries</a>.
  
 
 <br><br><br><br>
