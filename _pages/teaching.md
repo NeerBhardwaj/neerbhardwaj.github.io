@@ -3,13 +3,12 @@ title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
-#Department of Mathematics, UIUC
 
 ## Current 
 
 None
 
-## Past
+## Past (UIUC)
 
    * Caluclus III, Fall 2019<sup>*</sup>
    * Calculus II,  Spring 2019<sup>**</sup>
