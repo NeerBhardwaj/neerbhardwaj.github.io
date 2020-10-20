@@ -11,7 +11,7 @@ redirect_from:
 I am a doctoral candidate in mathematics at UIUC. My research interests lie primarily in model theory and its applications. I am part of the <a href="https://math.illinois.edu/research/faculty-research/logic" target="_blank">Logic</a> group, and my advisor is Lou van den Dries. 
         
 Before coming over to Illinois, I received my undergraduate education at <a href="https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Kanpur" target="_blank"> IIT Kanpur</a>.<br>
-Please look at my LinkedIn page for a more industry oriented profile.
+I was an NSF sponsored intern at the Argonne National Lab for summer 2020. Please look at my LinkedIn page for a more industry oriented profile.
 
 Email: nbhard4 [at] illinois.edu 
 
