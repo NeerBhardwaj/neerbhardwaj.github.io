@@ -5,11 +5,11 @@ author_profile: true
 ---
 
 * F20: Calc III (current)
-* F19: Calc III, <sup>*</sup>
-* S19: Calc II,  <sup>**</sup>
-* F18: Calc I,   <sup>*</sup>    
-* S18: Calc II,   <sup>**</sup>
-* F17: Calc III,         
+* F19: Calc III <sup>*</sup>
+* S19: Calc II <sup>**</sup>
+* F18: Calc I <sup>*</sup>    
+* S18: Calc II <sup>**</sup>
+* F17: Calc III       
 
   
 
