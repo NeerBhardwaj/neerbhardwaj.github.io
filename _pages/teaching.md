@@ -7,11 +7,11 @@ I am currently teaching Math 241: Calculus III, here is the <a href="https://fac
 
 ### Past semesters
 
-* Fall &nbsp; &nbsp; &nbsp; &nbsp; 2019: Calc III <sup>*</sup>
-* Spring &nbsp; 2019: Calc II <sup>**</sup>
-* Fall &nbsp; &nbsp; &nbsp; &nbsp; 2018: Calc I <sup>*</sup>    
-* Spring &nbsp; 2018: Calc II <sup>**</sup>
-* Fall &nbsp; &nbsp; &nbsp; &nbsp; 2017: Calc III       
+* F19: Calc III <sup>*</sup>
+* S19: Calc II <sup>**</sup>
+* F18: Calc I <sup>*</sup>    
+* S18: Calc II <sup>**</sup>
+* F17: Calc III       
 
   
 
