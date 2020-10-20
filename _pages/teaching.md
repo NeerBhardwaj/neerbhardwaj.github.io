@@ -1,8 +1,12 @@
 ---
-title: "UIUC"
+title: ""
 permalink: /teaching/
 author_profile: true
 ---
+
+I have been a TA for a wide range of undegraduate courses.
+
+## UIUC
 
 * F20: Calc III (current)
 * F19: Calc III <sup>*</sup>
