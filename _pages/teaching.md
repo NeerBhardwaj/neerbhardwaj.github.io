@@ -1,5 +1,5 @@
 ---
-title: "Teaching"
+title: "At UIUC"
 permalink: /teaching/
 author_profile: true
 ---
@@ -8,7 +8,7 @@ author_profile: true
 
 * Calculus III, Fall 2020
 
-## Past (UIUC)
+## Past
 
    * Caluclus III, Fall 2019<sup>*</sup>
    * Calculus II,  Spring 2019<sup>**</sup>
