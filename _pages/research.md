@@ -21,6 +21,8 @@ A reproof of the Pila-Wilkie theorem.
 
 <a href="https://www.msri.org/web/msri/scientific/colloquia-seminars/fall-2020-seminars/ddc-2020-diophantine-problems" target="_blank"> DDC: Diophantine Problems
  </a>, <i> MSRI Berkeley</i>, October 2020.
+ 
+<a href="http://www.ams.org/meetings/sectional/2280_program_ss41.html#title" target="_blank"> AMS sectional meeting
 
 
 
