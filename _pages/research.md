@@ -16,14 +16,14 @@ A reproof of the Pila-Wilkie theorem.
  
 
 ## Talks
-* <a href="http://www.fields.utoronto.ca/activities/20-21/geometry-and-model-theory-seminar" target="_blank">The Fields Institute: University of Toronto</a>, <i>Geometry and Model Theory Seminar</i>, Nov 2020.
+* <a href="http://www.fields.utoronto.ca/activities/20-21/geometry-and-model-theory-seminar" target="_blank">The Fields Institute, University of Toronto</a>, <i>Geometry and Model Theory Seminar</i>, Nov 2020.
 
-* <a href="https://www.msri.org/web/msri/scientific/colloquia-seminars/fall-2020-seminars/ddc-2020-diophantine-problems" target="_blank"> MSRI: University of California at Berkeley</a>, <i> DDC: Diophantine Problems</i>, Oct 2020.
+* <a href="https://www.msri.org/web/msri/scientific/colloquia-seminars/fall-2020-seminars/ddc-2020-diophantine-problems" target="_blank"> MSRI, University of California at Berkeley</a>, <i> DDC: Diophantine Problems</i>, Oct 2020.
  
-* <a href="http://www.ams.org/meetings/sectional/2280_program_ss41.html#title" target="_blank"> AMS sectional meeting (Purdue)</a>, <i> Model Theory Special session</i>, Apr 2020.<br>
+* <a href="http://www.ams.org/meetings/sectional/2280_program_ss41.html#title" target="_blank"> AMS sectional meeting, Purdue Uiversity </a>, <i> Model Theory Special session</i>, Apr 2020.<br>
 (cancelled because of COVID-19)
 
-* <a href="https://math.iiitd.ac.in/math-msems19.html" target="_blank"> IIIT Delhi</a>, <i> Mathematics Seminar</i>, May 2019.
+* <a href="https://math.iiitd.ac.in/math-msems19.html" target="_blank"> Indraprastha Institute of Information Technology, Delhi</a>, <i> Mathematics Seminar</i>, May 2019.
 
 
 
