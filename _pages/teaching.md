@@ -4,15 +4,13 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Current 
+* F20: Calc III (current)
+* F19: Calc III, <sup>*</sup>
+* S19: Calc II,  <sup>**</sup>
+* F18: Calc I,   <sup>*</sup>    
+* S18: Calc II,   <sup>**</sup>
+* F17: Calc III,         
 
-* Calculus III, Fall 2020
-
-## Past
-
-   * Calc III, F19<sup>*</sup>
-   * Calc I,   F18<sup>*</sup> &nbsp;  &nbsp;  &nbsp;  &nbsp;    Calc II,  S19<sup>**</sup>
-   * Calc III, F17   &nbsp;  &nbsp;  &nbsp;  &nbsp;      Calc II,  S18 <sup>**</sup>
   
 
 ##### * On the list of Teachers ranked as <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations(ices)/teachers-ranked-as-excellent" target="_blank"> Excellent</a>.<br> ** Ranked Excellent with <i>Outstanding</i> rating - (top 10% of instructors university-wide).
