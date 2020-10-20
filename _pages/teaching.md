@@ -5,7 +5,7 @@ author_profile: true
 ---
 I am teaching Math 241: Calculus III for the Fall 2020 semester, here is the <a href="https://faculty.math.illinois.edu/~iahmed8/classes/2020/Fall/241/schedule.html" target="_blank"> course diary</a>.
 
-### Past
+### Past Semesters
 
 * F19: Calc III <sup>*</sup>
 * S19: Calc II <sup>**</sup>
