@@ -1,9 +1,8 @@
 ---
-title: ""
+title: "UIUC"
 permalink: /teaching/
 author_profile: true
 ---
-## UIUC
 
 * F20: Calc III (current)
 * F19: Calc III <sup>*</sup>
