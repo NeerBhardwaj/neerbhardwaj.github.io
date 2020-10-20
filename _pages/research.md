@@ -16,7 +16,7 @@ A reproof of the Pila-Wilkie theorem.
  
 
 ## Talks
-* <a href="http://www.fields.utoronto.ca/activities/20-21/geometry-and-model-theory-seminar" target="_blank">The Fields Institute, University of Toronto</a>, <i>Geometry and Model Theory Seminar</i>, Nov 2020.
+* <a href="http://www.fields.utoronto.ca/activities/20-21/geometry-and-model-theory-seminar" target="_blank">Fields Institute, University of Toronto</a>, <i>Geometry and Model Theory Seminar</i>, Nov 2020.
 
 * <a href="https://www.msri.org/web/msri/scientific/colloquia-seminars/fall-2020-seminars/ddc-2020-diophantine-problems" target="_blank"> MSRI, University of California at Berkeley</a>, <i> DDC: Diophantine Problems</i>, Oct 2020.
  
