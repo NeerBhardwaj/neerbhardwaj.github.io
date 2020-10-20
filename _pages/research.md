@@ -15,8 +15,6 @@ A reproof of the Pila-Wilkie theorem.
 : with <a href="https://math.illinois.edu/directory/profile/vddries" target="_blank">Lou van den Dries</a>.
  
 
-<br><br>
-
 ## Talks
 <a href="http://www.fields.utoronto.ca/activities/20-21/geometry-and-model-theory-seminar" target="_blank">Geometry and Model Theory Seminar </a>, <i> The Fields Institute</i>, November 2020.
 <br>
@@ -28,8 +26,3 @@ A reproof of the Pila-Wilkie theorem.
 
 
 
-### Useful links
-* <a href="https://arxiv.org/list/math.LO/recent" target="_blank"> Logic arXiv</a>
-* <a href="http://forkinganddividing.com/" target="_blank"> Map of the model theoretic universe</a>
-* <a href="https://ffbandf.wordpress.com/about/" target="_blank"> A collective blog on model theory</a>
-* <a href="https://modeltheory.fandom.com/wiki/Special:AllPages" target="_blank"> Model theory wiki</a>
