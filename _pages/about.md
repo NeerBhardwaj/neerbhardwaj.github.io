@@ -12,7 +12,7 @@ I am a doctoral candidate in mathematics at UIUC. My research interests lie prim
         
 Before coming over to Illinois, I received my undergraduate education at <a href="https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Kanpur" target="_blank"> IIT Kanpur</a>.
 
-Please at look my linkedin page for a more industry oriented profile.
+Please at look my LinkedIn page for a more industry oriented profile.
 
 Email: nbhard4 [at] illinois.edu 
 
