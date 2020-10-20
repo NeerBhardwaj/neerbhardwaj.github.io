@@ -20,7 +20,7 @@ A reproof of the Pila-Wilkie theorem.
 <br>
 
 <a href="https://www.msri.org/web/msri/scientific/colloquia-seminars/fall-2020-seminars/ddc-2020-diophantine-problems" target="_blank"> DDC: Diophantine Problems
- </a>, <i> MSRI</i>, October 2020.
+ </a>, <i> MSRI Berkeley</i>, October 2020.
 
 
 
