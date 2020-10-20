@@ -15,7 +15,7 @@ A reproof of the Pila-Wilkie theorem.
 : with <a href="https://math.illinois.edu/directory/profile/vddries" target="_blank">Lou van den Dries</a>.
  
 
-## Selected Talks
+## Talks
 * <a href="http://www.fields.utoronto.ca/activities/20-21/geometry-and-model-theory-seminar" target="_blank">The Fields Institute</a>, <i>Geometry and Model Theory Seminar</i>, Nov 2020.
 
 * <a href="https://www.msri.org/web/msri/scientific/colloquia-seminars/fall-2020-seminars/ddc-2020-diophantine-problems" target="_blank"> MSRI Berkeley</a>, <i> DDC: Diophantine Problems</i>, Oct 2020.
