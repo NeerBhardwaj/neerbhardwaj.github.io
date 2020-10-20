@@ -3,7 +3,7 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
-* F20: Calc III 
+I am teaching Math 241: Calculus III for the Fall 2020 semester. <a href="https://faculty.math.illinois.edu/~iahmed8/classes/2020/Fall/241/schedule.html" target="_blank"> Course diary</a>.
 
 ### Past
 
