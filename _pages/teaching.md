@@ -3,8 +3,9 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
+I have been a TA for a wide range of undergraduate courses at the dept. of mathematics, UIUC.
 
-## UIUC
+### Classroom
 
 * F20: Calc III (current)
 * F19: Calc III <sup>*</sup>
