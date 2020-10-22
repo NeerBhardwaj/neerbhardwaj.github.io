@@ -3,7 +3,7 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
-I am currently teaching Math 241: Calculus III, here is the <a href="https://faculty.math.illinois.edu/~iahmed8/classes/2020/Fall/241/schedule.html" target="_blank"> course diary</a>.
+Currently teaching Math 241: Calculus III, here is the <a href="https://faculty.math.illinois.edu/~iahmed8/classes/2020/Fall/241/schedule.html" target="_blank"> course diary</a>.
 
 ### Past semesters
 
