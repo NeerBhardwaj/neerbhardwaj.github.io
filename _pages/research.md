@@ -23,7 +23,7 @@ A reproof of the Pila-Wilkie theorem.
 * <b> AMS sectional meeting, Purdue University</b>, <a href="http://www.ams.org/meetings/sectional/2280_program_ss41.html#title" target="_blank"><i>Model Theory Special session</i></a>, Apr 2020.<br>
 (cancelled because of COVID-19)
 
-* <b>Indraprastha Institute of Information Technology Delhi</b>, <a href="https://math.iiitd.ac.in/math-msems19.html" target="_blank"><i> Mathematics Seminar</i></a>, May 2019.
+* <b>Indraprastha Institute of Information Technology, Delhi</b>, <a href="https://math.iiitd.ac.in/math-msems19.html" target="_blank"><i> Mathematics Seminar</i></a>, May 2019.
 
 
 
