@@ -11,7 +11,7 @@ The additive groups of ℤ and ℚ with predicates for being square-free. [<a hr
 : with <a href="https://faculty.math.illinois.edu/~mctran2/" target="_blank"> Minh Chieu Tran</a>, <i>Journal of Symbolic Logic</i>, vol. 85 (2020).
 : View one of our structures in the <a href="http://forkinganddividing.com/#_02_54" target="blank">model theory universe</a>.
 
-The Pila-Wilkie theorem: a partial reproof.
+On the Pila-Wilkie theorem.
 : with <a href="https://math.illinois.edu/directory/profile/vddries" target="_blank">Lou van den Dries</a>.
  
 
