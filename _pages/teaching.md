@@ -9,7 +9,7 @@ Currently teaching Math 241: Calculus III, here is the <a href="https://faculty.
 
 * F19: Calc III <sup>*</sup>
 * S19: Calc II <sup>**</sup>
-* F18: Calc <span>&#8544;</span> <sup>*</sup>    
+* F18: Calc I.uppercase <sup>*</sup>    
 * S18: Calc II <sup>**</sup>
 * F17: Calc III       
 
