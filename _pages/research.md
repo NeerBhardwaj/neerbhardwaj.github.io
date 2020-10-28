@@ -11,10 +11,10 @@ The additive groups of ℤ and ℚ with predicates for being square-free. [<a hr
 : with <a href="https://faculty.math.illinois.edu/~mctran2/" target="_blank"> Minh Chieu Tran</a>, <i>Journal of Symbolic Logic</i>, vol. 85 (2020).
 : View one of our structures in the <a href="http://forkinganddividing.com/#_02_54" target="blank">model theory universe</a>.
 
-On the Pila-Wilkie theorem. [[pdf](https://drive.google.com/file/d/1lP0yGs2fo-kxyYKCXcw7Z4b2k0EL4Rqv/view?usp=sharing), [arXiv](https://arxiv.org/abs/2010.14046)]
+On the Pila-Wilkie theorem. [[pdf](neerbhardwaj.github.io/files/On%20the%20Pila-Wilkie%20theorem.pdf), [arXiv](https://arxiv.org/abs/2010.14046)]
 : with <a href="https://math.illinois.edu/directory/profile/vddries" target="_blank">Lou van den Dries</a>.
 
-[link](http://neerbhardwaj.github.io/files/On%20the%20Pila-Wilkie%20theorem.pdf)
+[link]
 
 ## Talks
 * <b>Fields Institute, University of Toronto</b>, <a href="http://www.fields.utoronto.ca/activities/20-21/geometry-and-model-theory-seminar" target="_blank"><i>Geometry and Model Theory Seminar</i></a>, Nov 2020.
