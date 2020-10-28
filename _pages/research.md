@@ -13,7 +13,8 @@ The additive groups of ℤ and ℚ with predicates for being square-free. [<a hr
 
 On the Pila-Wilkie theorem. [[pdf](https://drive.google.com/file/d/1lP0yGs2fo-kxyYKCXcw7Z4b2k0EL4Rqv/view?usp=sharing), [arXiv](https://arxiv.org/abs/2010.14046)]
 : with <a href="https://math.illinois.edu/directory/profile/vddries" target="_blank">Lou van den Dries</a>.
- 
+
+[link](http://neerbhardwaj.github.io/files/paper1.pdf)
 
 ## Talks
 * <b>Fields Institute, University of Toronto</b>, <a href="http://www.fields.utoronto.ca/activities/20-21/geometry-and-model-theory-seminar" target="_blank"><i>Geometry and Model Theory Seminar</i></a>, Nov 2020.
