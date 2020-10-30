@@ -7,7 +7,7 @@ author_profile: true
 I am currently interested in o-minimality and its interactions with other areas of mathematics.
 
 ## Papers
-The additive groups of ℤ and ℚ with predicates for being square-free. [<a href="http://neerbhardwaj.github.io/files/The%20additive%20groups%20of%20ℤ%20and%20%20ℚ%20with%20predicates%20for%20being%20square-free.pdf" target="_blank">pdf</a>, <a href="https://arxiv.org/abs/1707.00096" target="_blank">arXiv</a>]
+The additive groups of ℤ and ℚ with predicates for being square-free. [<a href="http://neerbhardwaj.github.io/files/The%20additive%20groups%20of%20ℤ%20and%20%20ℚ%20with%20predicates%20for%20being%20square-free.pdf" target="_blank">pdf</a>, <a href="https://arxiv.org/abs/1707.00096" target="_blank">arXiv</a>, <a href=https://www.cambridge.org/core/journals/journal-of-symbolic-logic/article/additive-groups-of-and-with-predicates-for-being-squarefree/4F65402C37735F979618A54E6869DEBA target="_blank">Journal</a>]
 : with <a href="https://faculty.math.illinois.edu/~mctran2/" target="_blank"> Minh Chieu Tran</a>, <i>Journal of Symbolic Logic</i>, vol. 85 (2020).
 : View one of our structures in the <a href="http://forkinganddividing.com/#_02_54" target="blank">model theory universe</a>.
 
