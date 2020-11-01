@@ -8,7 +8,7 @@ Currently teaching Math 241: Calculus III, here is the <a href="https://faculty.
 ### Past semesters
 
 * Calculus III: Fall 2017, Fall 2019 <sup>*</sup>
-* Calculus II: Srping 2018 <sup>**</sup>, Spring 2019 <sup>**</sup>
+* Calculus II: Spring 2018 <sup>**</sup>, Spring 2019 <sup>**</sup>
 * Calculus I: Fall 2017 <sup>*</sup>    
 
 
