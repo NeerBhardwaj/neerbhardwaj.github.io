@@ -7,13 +7,10 @@ Currently teaching Math 241: Calculus III, here is the <a href="https://faculty.
 
 ### Past semesters
 
-* F19: Calc III <sup>*</sup>
-* S19: Calc II <sup>**</sup>
-* F18: Calc I <sup>*</sup>    
-* S18: Calc II <sup>**</sup>
-* F17: Calc III       
+* Calculus III: Fall 2017, Fall 2019 <sup>*</sup>
+* Calculus II: Srping 2018 <sup>**</sup>, Spring 2019 <sup>**</sup>
+* Calculus I: Fall 2017 <sup>*</sup>    
 
-  
 
 ##### * On the list of Teachers ranked as <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> Excellent</a>.<br> ** Ranked Excellent with _Outstanding_ rating - (top 10% of instructors university-wide).
 
