@@ -6,7 +6,7 @@ author_profile: true
 
 I am currently interested in o-minimality and its interactions with other areas of mathematics.
 
-## Papers
+## Publications
 
 On the Pila-Wilkie theorem. [<a href="http://neerbhardwaj.github.io/files/On%20the%20Pila-Wilkie%20theorem.pdf" target="_blank">pdf</a>, <a href="https://arxiv.org/abs/2010.14046" target=_blank>arXiv</a>]
 : with <a href="https://math.illinois.edu/directory/profile/vddries" target="_blank">Lou van den Dries</a>.
@@ -17,7 +17,7 @@ The additive groups of ℤ and ℚ with predicates for being square-free. [<a hr
 
 
 
-## Talks
+## Selected talks
 * <b>Fields Institute, University of Toronto</b>, <a href="http://www.fields.utoronto.ca/activities/20-21/geometry-and-model-theory-seminar" target="_blank"><i>Geometry and Model Theory Seminar</i></a>, Nov 2020.
 
 *  <b>MSRI, University of California at Berkeley</b>, <a href="https://www.msri.org/web/msri/scientific/colloquia-seminars/fall-2020-seminars/ddc-2020-diophantine-problems" target="_blank"><i>DDC: Diophantine Problems</i></a>, Oct 2020.
