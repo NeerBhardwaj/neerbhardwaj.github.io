@@ -4,7 +4,7 @@ permalink: /research/
 author_profile: true
 ---
 
-I am currently interested in o-minimality and its interactions with other areas of mathematics.
+I am currently interested in the model theory of valued fields. 
 
 ## Publications
 
