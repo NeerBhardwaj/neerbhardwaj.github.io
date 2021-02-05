@@ -18,15 +18,17 @@ The additive groups of ℤ and ℚ with predicates for being square-free. [<a hr
 
 
 ## Talks
-Fields Institute, University of Toronto
+Fields Institute, University of Toronto.
 : <a href="http://www.fields.utoronto.ca/activities/20-21/geometry-and-model-theory-seminar" target="_blank"> <i>Geometry and Model Theory Seminar</i></a>, Nov 2020.
 
-*  <b>MSRI, University of California at Berkeley</b>, <a href="https://www.msri.org/web/msri/scientific/colloquia-seminars/fall-2020-seminars/ddc-2020-diophantine-problems" target="_blank"><i>DDC: Diophantine Problems</i></a>, Oct 2020.
+MSRI, University of California at Berkeley,
+: <a href="https://www.msri.org/web/msri/scientific/colloquia-seminars/fall-2020-seminars/ddc-2020-diophantine-problems" target="_blank"><i>DDC: Diophantine Problems</i></a>, Oct 2020.
  
-* <b> AMS sectional meeting, Purdue University</b>, <a href="http://www.ams.org/meetings/sectional/2280_program_ss41.html#title" target="_blank"><i>Model Theory Special session</i></a>, Apr 2020.<br>
-(cancelled due to COVID-19)
+AMS sectional meeting, Purdue University. 
+: <a href="http://www.ams.org/meetings/sectional/2280_program_ss41.html#title" target="_blank"><i>Model Theory Special session</i></a>, Apr 2020. (cancelled due to COVID-19)
 
-* <b>Indraprastha Institute of Information Technology</b>, <a href="https://math.iiitd.ac.in/math-msems19.html" target="_blank"><i>Mathematics Seminar</i></a>, May 2019.
+Indraprastha Institute of Information Technology
+: <a href="https://math.iiitd.ac.in/math-msems19.html" target="_blank"><i>Mathematics Seminar</i></a>, May 2019.
 
 
 
