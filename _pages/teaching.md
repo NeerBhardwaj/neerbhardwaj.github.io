@@ -8,7 +8,7 @@ Not teaching currently
 ### Past semesters
 
 * Calculus III: Fall 2017, Fall 2019, Fall 2020.
-* Calculus II: Spring 2018, Spring 2019<sup>**</sup>.
+* Calculus II: Spring 2018, Spring 2019.
 * Calculus I: Fall 2018.    
 
 
