@@ -27,7 +27,7 @@ MSRI, University of California at Berkeley,
 AMS sectional meeting, Purdue University. 
 : <a href="http://www.ams.org/meetings/sectional/2280_program_ss41.html#title" target="_blank"><i>Model Theory Special session</i></a>, Apr 2020. (cancelled due to COVID-19)
 
-Indraprastha Institute of Information Technology
+Indraprastha Institute of Information Technology.
 : <a href="https://math.iiitd.ac.in/math-msems19.html" target="_blank"><i>Mathematics Seminar</i></a>, May 2019.
 
 
