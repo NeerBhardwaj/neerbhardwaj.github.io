@@ -12,7 +12,7 @@ I have taught several courses as a TA at UIUC.
 * Calculus I: Fall 2018.    
 
 
-Appeared On the <b>list of teachers ranked as <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> Excellent</a></b> four times.<br> Ranked Excellent with <b>_Outstanding_</b> rating - (top 10% of instructors university-wide) twice.
+Appeared On the <b>list of teachers ranked as <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> Excellent</a></b> four times; twice ranked Excellent with <b>_Outstanding_</b> rating - (top 10% of instructors university-wide).
 
 ### TA Mentor, Fall 2018
    * Co-organized the annual departmental TA orientation.
