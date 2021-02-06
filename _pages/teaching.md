@@ -10,10 +10,10 @@ I have had several oppurtunities to teach and mentor as a TA at UIUC.
 Math 241, Calculus III
 : Fall 2017, Fall 2019, Fall 2020.
 
-Calculus II
+Math 231, Calculus II
 : Spring 2018, Spring 2019.
 
-Calculus I
+Math 221, Calculus I
 : Fall 2018.
 
 ## Achievements
