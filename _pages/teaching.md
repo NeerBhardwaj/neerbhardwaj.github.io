@@ -18,7 +18,7 @@ Calculus I
 
 ## Achievements
 
-Four times on the <b>list of teachers ranked as <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> Excellent</a></b>
+Four times on the  <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> List of Teachers Ranked as Excellent</a>
 : Twice ranked Excellent with <b>_Outstanding_</b> rating - (top 10% of instructors university-wide).
 
 TA Mentor, Fall 2018
