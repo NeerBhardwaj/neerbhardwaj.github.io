@@ -7,7 +7,8 @@ I have taught several courses as a TA at UIUC.
 
 ### Past semesters
 
-* Calculus III: Fall 2017, Fall 2019, Fall 2020.
+Calculus III,
+: Fall 2017, Fall 2019, Fall 2020.
 * Calculus II: Spring 2018, Spring 2019.
 * Calculus I: Fall 2018.    
 
