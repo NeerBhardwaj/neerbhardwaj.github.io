@@ -3,7 +3,7 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
-I have taught several courses as a TA at UIUC.
+I have taught several courses as a TA at UIUC. Not teaching in the Spring 2022 semester.
 
 ### Past semesters
 
