@@ -3,7 +3,7 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
-Not teaching currently
+I have taught several courses as a TA at UIUC.
 
 ### Past semesters
 
