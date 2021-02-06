@@ -12,7 +12,7 @@ Not teaching currently
 * Calculus I: Fall 2018.    
 
 
-##### * On the list of Teachers ranked as <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> Excellent</a>.<br> ** Ranked Excellent with _Outstanding_ rating - (top 10% of instructors university-wide).
+Appeared four times on the list of teachers ranked as <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> Excellent</a>.<br> Twice ranked Excellent with _Outstanding_ rating - (top 10% of instructors university-wide) twice.
 
 ### TA Mentor, Fall 2018
    * Co-organized the annual departmental TA orientation.
