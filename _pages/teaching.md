@@ -7,10 +7,14 @@ I have taught several courses as a TA at UIUC.
 
 ### Past semesters
 
-Calculus III,
+Calculus III.
 : Fall 2017, Fall 2019, Fall 2020.
-* Calculus II: Spring 2018, Spring 2019.
-* Calculus I: Fall 2018.    
+
+Calculus II.
+: Spring 2018, Spring 2019.
+
+Calculus I.
+: Fall 2018.    
 
 
 Appeared On the <b>list of teachers ranked as <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> Excellent</a></b> four times; twice ranked Excellent with <b>_Outstanding_</b> rating - (top 10% of instructors university-wide).
