@@ -7,7 +7,7 @@ I have had several oppurtunities to teach and mentor as a TA at UIUC.
 
 ## Past semesters
 
-Calculus III
+Math 241, Calculus III
 : Fall 2017, Fall 2019, Fall 2020.
 
 Calculus II
