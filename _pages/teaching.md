@@ -5,7 +5,7 @@ author_profile: true
 ---
 I have had several oppurtunities to teach and mentor at UIUC.
 
-## Past semesters
+## Courses taught
 
 Math 241, Calculus III
 : Fall 2017, Fall 2019, Fall 2020.
