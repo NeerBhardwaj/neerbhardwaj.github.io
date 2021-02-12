@@ -3,7 +3,7 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
-I have had several oppurtunities to teach and mentor as a TA at UIUC.
+I have had several oppurtunities to teach and mentor at UIUC.
 
 ## Past semesters
 
