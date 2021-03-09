@@ -11,7 +11,7 @@ I am currently working in the area of model theory of valued fields.
 
 ## Publications
 
-On the Pila-Wilkie theorem. [<a href="http://neerbhardwaj.github.io/files/On_the_Pila-Wilkie_theorem.pdf" target="_blank">pdf</a>, <a href="https://arxiv.org/abs/2010.14046" target=_blank>arXiv</a>]
+On the Pila-Wilkie theorem. [<a href="http://neerbhardwaj.github.io/files/On%20the%20Pila-Wilkie%20theorem" target="_blank">pdf</a>, <a href="https://arxiv.org/abs/2010.14046" target=_blank>arXiv</a>]
 : with <a href="https://math.illinois.edu/directory/profile/vddries" target="_blank">Lou van den Dries</a>. <!-- , <i>Submitted</i>. --> 
 : <br>
 : This expository paper gives an account of the Pila-Wilkie counting theorem and some of its extensions and generalizations. We use semialgebraic cell decomposition to simplify part of the original proof. Included are complete treatments of a result due to Pila and Bombieri and of the o-minimal Yomdin-Gromov theorem that are used in this proof. 
