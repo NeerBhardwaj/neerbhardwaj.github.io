@@ -7,7 +7,7 @@ author_profile: true
   src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js">
  </script>
 
-I am currently working in the area of model theory of valued fields. 
+I am currently working with the model theory of valued fields. 
 
 ## Publications
 
