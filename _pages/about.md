@@ -1,12 +1,13 @@
 ---
 permalink: /
-title: "About me"
+<!-- title: "About me" -->
 excerpt: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
+# About
 
 I am a doctoral candidate in mathematics at UIUC. My research interests lie primarily in model theory and its applications. I am part of the <a href="https://math.illinois.edu/research/faculty-research/logic" target="_blank">Logic</a> group, and my advisor is Lou van den Dries. 
         
