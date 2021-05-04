@@ -26,7 +26,7 @@ Email: nbhard4 [at] illinois.edu
 My current work is with the model theory of valued fields. 
 
 
-## Publications
+## Papers
 
 On the Pila-Wilkie theorem. [<a href="http://neerbhardwaj.github.io/files/On%20the%20Pila-Wilkie%20theorem.pdf" target="_blank">pdf</a>, <a href="https://arxiv.org/abs/2010.14046" target=_blank>arXiv</a>]
 : with <a href="https://math.illinois.edu/directory/profile/vddries" target="_blank">Lou van den Dries</a>, <i>Submitted</i>.
