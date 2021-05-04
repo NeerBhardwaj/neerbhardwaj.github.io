@@ -21,11 +21,10 @@ Email: nbhard4 [at] illinois.edu
  </script>
 
 
-# <i>Research</i>
+# <ins><i>Research</i></ins>
 
 <br>
 My current work is with the model theory of valued fields. 
-
 ## Papers
 
 On the Pila-Wilkie theorem. [<a href="http://neerbhardwaj.github.io/files/On%20the%20Pila-Wilkie%20theorem.pdf" target="_blank">pdf</a>, <a href="https://arxiv.org/abs/2010.14046" target=_blank>arXiv</a>]
@@ -55,11 +54,10 @@ Indraprastha Institute of Information Technology,
 
 <br><br>
 
-# TEACHING
+# <ins><i>Teaching</i></ins>
 
 <br>
 I have had several oppurtunities to teach and mentor at UIUC.
-
 ## Courses
 
 Math 241, Calculus III
