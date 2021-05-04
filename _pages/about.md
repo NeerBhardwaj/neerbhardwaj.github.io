@@ -14,6 +14,13 @@ I was an NSF sponsored intern at the Argonne National Lab for summer 2020. Befor
 
 Email: nbhard4 [at] illinois.edu 
 
+<br> 
+### Useful links
+* <a href="https://arxiv.org/list/math.LO/recent" target="_blank"> Logic arXiv</a>
+* <a href="http://forkinganddividing.com/" target="_blank"> Map of the model theoretic universe</a>
+* <a href="https://ffbandf.wordpress.com/about/" target="_blank"> A collective blog on model theory</a>
+* <a href="https://modeltheory.fandom.com/wiki/Special:AllPages" target="_blank"> Model theory wiki</a>
+
 <br><br>
 
 <script type="text/javascript"
@@ -52,12 +59,6 @@ AMS sectional meeting, Purdue University,
 Indraprastha Institute of Information Technology,
 : <a href="https://math.iiitd.ac.in/math-msems19.html" target="_blank"><i>Mathematics Seminar</i></a>, May 2019.
 
-<br> 
-### Useful links
-* <a href="https://arxiv.org/list/math.LO/recent" target="_blank"> Logic arXiv</a>
-* <a href="http://forkinganddividing.com/" target="_blank"> Map of the model theoretic universe</a>
-* <a href="https://ffbandf.wordpress.com/about/" target="_blank"> A collective blog on model theory</a>
-* <a href="https://modeltheory.fandom.com/wiki/Special:AllPages" target="_blank"> Model theory wiki</a>
 
 <br><br>
 
@@ -65,7 +66,7 @@ Indraprastha Institute of Information Technology,
 
 I have had several oppurtunities to teach and mentor at UIUC.
 
-### Past courses:
+## Courses:
 * Math 241, Calculus III
   : Fall 2017, Fall 2019, Fall 2020.
 
