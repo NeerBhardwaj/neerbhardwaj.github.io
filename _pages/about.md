@@ -21,9 +21,8 @@ Email: nbhard4 [at] illinois.edu
  </script>
 
 
-### <i>Research</i>
+## <i>Research</i>
 
-<br>
 My current work is with the model theory of valued fields. 
 
 ## Papers
@@ -55,9 +54,8 @@ Indraprastha Institute of Information Technology,
 
 <br><br>
 
-### <i>Teaching</i>
+## <i>Teaching</i>
 
-<br>
 I have had several oppurtunities to teach and mentor at UIUC.
 
 ## Courses
