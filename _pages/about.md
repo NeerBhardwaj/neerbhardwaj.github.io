@@ -21,7 +21,7 @@ Email: nbhard4 [at] illinois.edu
  </script>
 
 
-## RESEARCH
+## <kbd>Research</kbd>
 
 My current work is with the model theory of valued fields. 
 
