@@ -14,15 +14,17 @@ I was an NSF sponsored intern at the Argonne National Lab for summer 2020. Befor
 
 Email: nbhard4 [at] illinois.edu 
 
-<br><br><br><br>
+<br><br>
 
 <script type="text/javascript"
   src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js">
  </script>
 
-<!--I am currently working with the model theory of valued fields.--> 
 
 # Research
+
+My current is with the model theory of valued fields. 
+
 
 ## Publications
 
@@ -51,7 +53,13 @@ AMS sectional meeting, Purdue University,
 Indraprastha Institute of Information Technology,
 : <a href="https://math.iiitd.ac.in/math-msems19.html" target="_blank"><i>Mathematics Seminar</i></a>, May 2019.
 
-## Teaching at UIUC
+<br><br>
+
+# Teaching
+
+I have had several oppurtunities to teach and mentor at UIUC.
+
+## Courses
 
 Math 241, Calculus III
 : Fall 2017, Fall 2019, Fall 2020.
@@ -62,7 +70,7 @@ Math 231, Calculus II
 Math 221, Calculus I
 : Fall 2018.
 
-### Achievements
+## Achievements
 
 On the  <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> List of Teachers Ranked as Excellent</a> four times.
 : Twice ranked Excellent with <b>_Outstanding_</b> rating - (top 10% of instructors university-wide).
