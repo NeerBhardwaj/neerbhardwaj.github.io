@@ -52,7 +52,7 @@ AMS sectional meeting, Purdue University,
 Indraprastha Institute of Information Technology,
 : <a href="https://math.iiitd.ac.in/math-msems19.html" target="_blank"><i>Mathematics Seminar</i></a>, May 2019.
 
-
+<br> 
 ### Useful links
 * <a href="https://arxiv.org/list/math.LO/recent" target="_blank"> Logic arXiv</a>
 * <a href="http://forkinganddividing.com/" target="_blank"> Map of the model theoretic universe</a>
@@ -65,7 +65,7 @@ Indraprastha Institute of Information Technology,
 
 I have had several oppurtunities to teach and mentor at UIUC.
 
-### Courses
+### Past courses:
 * Math 241, Calculus III
   : Fall 2017, Fall 2019, Fall 2020.
 
