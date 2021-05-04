@@ -23,7 +23,7 @@ Email: nbhard4 [at] illinois.edu
 
 # Research
 
-My current is with the model theory of valued fields. 
+My current work is with the model theory of valued fields. 
 
 
 ## Publications
