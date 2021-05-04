@@ -62,7 +62,7 @@ Indraprastha Institute of Information Technology,
 
 <br><br>
 
-## TEACHING
+## <kbd id="Teaching"><a href="#Teaching" style="text-decoration: none">Teaching</a></kbd>
 
 I have had several oppurtunities to teach and mentor at UIUC.
 
