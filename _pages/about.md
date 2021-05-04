@@ -52,13 +52,19 @@ AMS sectional meeting, Purdue University,
 Indraprastha Institute of Information Technology,
 : <a href="https://math.iiitd.ac.in/math-msems19.html" target="_blank"><i>Mathematics Seminar</i></a>, May 2019.
 
+<br><br><br><br>
+
+### Useful links
+* <a href="https://arxiv.org/list/math.LO/recent" target="_blank"> Logic arXiv</a>
+* <a href="http://forkinganddividing.com/" target="_blank"> Map of the model theoretic universe</a>
+* <a href="https://ffbandf.wordpress.com/about/" target="_blank"> A collective blog on model theory</a>
+* <a href="https://modeltheory.fandom.com/wiki/Special:AllPages" target="_blank"> Model theory wiki</a>
+
 <br><br>
 
-## <i>Teaching</i>
+## TEACHING
 
 I have had several oppurtunities to teach and mentor at UIUC.
-
-## Courses
 
 Math 241, Calculus III
 : Fall 2017, Fall 2019, Fall 2020.
@@ -69,7 +75,7 @@ Math 231, Calculus II
 Math 221, Calculus I
 : Fall 2018.
 
-## Achievements
+<br><br>
 
 On the  <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> List of Teachers Ranked as Excellent</a> four times.
 : Twice ranked Excellent with <b>_Outstanding_</b> rating - (top 10% of instructors university-wide).
@@ -77,11 +83,5 @@ On the  <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teach
 TA Mentor, Fall 2018
 : Co-organized the annual departmental TA orientation.<br> Advised 5 graduate students though their first semester of teaching.
 
-<br><br><br><br>
 
-### Useful links
-* <a href="https://arxiv.org/list/math.LO/recent" target="_blank"> Logic arXiv</a>
-* <a href="http://forkinganddividing.com/" target="_blank"> Map of the model theoretic universe</a>
-* <a href="https://ffbandf.wordpress.com/about/" target="_blank"> A collective blog on model theory</a>
-* <a href="https://modeltheory.fandom.com/wiki/Special:AllPages" target="_blank"> Model theory wiki</a>
 
