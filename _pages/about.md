@@ -14,11 +14,15 @@ I was an NSF sponsored intern at the Argonne National Lab for summer 2020. Befor
 
 Email: nbhard4 [at] illinois.edu 
 
+<br><br><br><br>
+
 <script type="text/javascript"
   src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js">
  </script>
 
 <!--I am currently working with the model theory of valued fields.--> 
+
+# Research
 
 ## Publications
 
@@ -32,10 +36,6 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free. [<
 : View one of our structures in the <a href="http://forkinganddividing.com/#_02_54" target="blank">model theory universe</a>.
 : <br>
 : We consider the four structures $(ℤ;\mbox{Sqf}^ℤ)$, $(ℤ;<,\mbox{Sqf}^ℤ)$, $(ℚ;\mbox{Sqf}^ℚ)$, and $(ℚ;<,\mbox{Sqf}^ℚ)$ where $ℤ$ is the additive group of integers, $\mbox{Sqf}^ℤ$ is the set of $a\in ℤ$ such that $v_p(a)<2$ for every prime $p$ and corresponding $p$-adic valuation $v_p$, $ℚ$ and $\mbox{Sqf}^ℚ$ are defined likewise for rational numbers, and $<$ denotes the natural ordering on each of these domains. We prove that the second structure is model-theoretically wild while the other three structures are model-theoretically tame. Moreover, all these results can be seen as examples where number-theoretic randomness yields model-theoretic consequences.
-
-
-
-
 
 
 ## Talks
