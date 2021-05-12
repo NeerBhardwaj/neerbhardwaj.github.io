@@ -12,8 +12,7 @@
           animation-delay: 0.15s;
   z-index: 20;
   width: 100%;
-  background: white; 
-  height: 85px; 
+  background: white;  
 
   &__inner-wrap {
     @include container;
