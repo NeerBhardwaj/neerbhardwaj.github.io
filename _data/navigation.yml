@@ -4,7 +4,7 @@ main:
     url: /about/
     
   - title: "Research"
-    url: https://neerbhardwaj.github.io/about/#Research/
+    url: https://neerbhardwaj.github.io/#Research/
 
   #- title: "Talks"
     #url: /talks/    
