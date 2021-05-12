@@ -4,13 +4,13 @@ main:
     url: /about/
     
   - title: "Research"
-    url: https://neerbhardwaj.github.io/#Research
+    url: /#Research
 
   #- title: "Talks"
     #url: /talks/    
 
   - title: "Teaching"
-    url:  /#Teaching   
+    url: /#Teaching   
     
   #- title: "Portfolio"
    # url: /portfolio/
