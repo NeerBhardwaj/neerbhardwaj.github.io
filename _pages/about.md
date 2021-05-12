@@ -37,6 +37,8 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free. [<
 : View one of our structures in the <a href="http://forkinganddividing.com/#_02_54" target="blank">model theory universe</a>.
 : <br>
 : <i>We consider the four structures $(ℤ;\mbox{Sqf}^ℤ)$, $(ℤ;<,\mbox{Sqf}^ℤ)$, $(ℚ;\mbox{Sqf}^ℚ)$, and $(ℚ;<,\mbox{Sqf}^ℚ)$ where $ℤ$ is the additive group of integers, $\mbox{Sqf}^ℤ$ is the set of $a\in ℤ$ such that $v_p(a)<2$ for every prime $p$ and corresponding $p$-adic valuation $v_p$, $ℚ$ and $\mbox{Sqf}^ℚ$ are defined likewise for rational numbers, and $<$ denotes the natural ordering on each of these domains. We prove that the second structure is model-theoretically wild while the other three structures are model-theoretically tame. Moreover, all these results can be seen as examples where number-theoretic randomness yields model-theoretic consequences.</i>
+: <br>
+: View one of our structures in the <a href="http://forkinganddividing.com/#_02_54" target="blank">model theory universe</a>.
 
 
 ## Recorded talks
@@ -45,6 +47,7 @@ Fields Institute, University of Toronto,
 
 MSRI, University of California at Berkeley,
 : <a href="https://www.msri.org/web/msri/scientific/colloquia-seminars/fall-2020-seminars/ddc-2020-diophantine-problems" target="_blank"><i>DDC: Diophantine Problems</i></a>, Oct 2020.
+
 <!-- 
 AMS sectional meeting, Purdue University,
 : <a href="http://www.ams.org/meetings/sectional/2280_program_ss41.html#title" target="_blank"><i>Model Theory Special session</i></a>, Apr 2020. (cancelled due to COVID-19)
