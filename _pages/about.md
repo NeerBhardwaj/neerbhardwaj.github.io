@@ -34,7 +34,7 @@ On the Pila-Wilkie theorem. [<a href="http://neerbhardwaj.github.io/files/On%20t
 : Recorded talks:
 : Fields Institute, University of Toronto,
     : <a href="http://www.fields.utoronto.ca/activities/20-21/geometry-and-model-theory-seminar" target="_blank"> <i>Geometry and Model Theory Seminar</i></a>, Nov 2020.
-:MSRI, University of California at Berkeley,
+: MSRI, University of California at Berkeley,
   : <a href="https://www.msri.org/web/msri/scientific/colloquia-seminars/fall-2020-seminars/ddc-2020-diophantine-problems" target="_blank"><i>DDC: Diophantine Problems</i></a>, Oct 2020.
 
 
