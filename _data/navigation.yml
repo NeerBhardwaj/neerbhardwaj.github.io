@@ -4,7 +4,7 @@ main:
     url: /about/
     
   - title: "Research"
-    url: /about/Research/
+    url: /about/#Research/
 
   #- title: "Talks"
     #url: /talks/    
