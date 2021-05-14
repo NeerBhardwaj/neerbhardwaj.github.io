@@ -83,7 +83,7 @@ On the  <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teach
 : Twice ranked Excellent with <b>_Outstanding_</b> rating - (top 10% of instructors university-wide).
 
 TA Mentor, Fall 2018
-: Co-organized the annual departmental TA orientation.<br> Advised 5 graduate students though their first semester of teaching.
+: Advised 5 graduate students though their first semester of teaching.<br> Co-organized the annual departmental TA orientation.
 
 
 
