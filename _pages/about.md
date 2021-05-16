@@ -13,7 +13,7 @@ I am a doctoral candidate in mathematics at UIUC. My research interests lie prim
 Before coming over to Illinois, I received my undergraduate education at <a href="https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Kanpur" target="_blank"> IIT Kanpur</a>.<br>
 <!--I was an NSF sponsored intern at the Argonne National Lab for summer 2020. -->
 
-Email: `nbhard4 [at] illinois.edu` 
+Email: nbhard4 [at] illinois.edu
 
 <br><br>
 
