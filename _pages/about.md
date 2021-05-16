@@ -49,6 +49,7 @@ Fields Institute, University of Toronto,
 MSRI, University of California at Berkeley,
 : <a href="https://www.msri.org/web/msri/scientific/colloquia-seminars/fall-2020-seminars/ddc-2020-diophantine-problems" target="_blank"><i>DDC: Diophantine Problems</i></a>, Oct 2020.
 
+<br>
 `The talks above were recorded.` 
 
 <!-- 
