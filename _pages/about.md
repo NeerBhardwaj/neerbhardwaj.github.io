@@ -48,6 +48,7 @@ MSRI, University of California at Berkeley,
 
 <br>
 `The talks above were recorded.` 
+
 <!-- 
 AMS sectional meeting, Purdue University,
 : <a href="http://www.ams.org/meetings/sectional/2280_program_ss41.html#title" target="_blank"><i>Model Theory Special session</i></a>, Apr 2020. (cancelled due to COVID-19)
