@@ -47,7 +47,7 @@ Fields Institute, University of Toronto,
 MSRI, University of California at Berkeley,
 : <a href="https://www.msri.org/web/msri/scientific/colloquia-seminars/fall-2020-seminars/ddc-2020-diophantine-problems" target="_blank"><i>DDC: Diophantine Problems</i></a>, Oct 2020.
 
-###### <i>*The talks above were recorded</i>
+<i>*The talks above were recorded</i>
 
 <!-- 
 AMS sectional meeting, Purdue University,
@@ -70,6 +70,12 @@ Indraprastha Institute of Information Technology,
 
 Below is a brief profile of my teaching at UIUC.
 
+On the  <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> List of Teachers Ranked as Excellent</a> four times.
+: Twice ranked Excellent with <b>_Outstanding_</b> rating - (top 10% of instructors university-wide).
+
+TA Mentor, Fall 2018
+: Advised 5 graduate students though their first semester of teaching.<br> Co-organized the annual departmental TA orientation.
+
 ## Courses
 * Math 241, Calculus III
   : Fall 2017, Fall 2019, Fall 2020.
@@ -79,13 +85,8 @@ Below is a brief profile of my teaching at UIUC.
 
 * Math 221, Calculus I
   : Fall 2018.
-  
-<br>
-On the  <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> List of Teachers Ranked as Excellent</a> four times.
-: Twice ranked Excellent with <b>_Outstanding_</b> rating - (top 10% of instructors university-wide).
 
-TA Mentor, Fall 2018
-: Advised 5 graduate students though their first semester of teaching.<br> Co-organized the annual departmental TA orientation.
+
 
 
 
