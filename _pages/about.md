@@ -16,7 +16,7 @@ Email: nbhard4 [at] illinois.edu
 <script type="text/javascript"
   src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js">
  </script>
-<br><br>
+<br>
 ##  <kbd id="Research"><a href="#Research" style="text-decoration: none; color: #326496">Research</a></kbd>
 
 My recent work is with the model theory of valued fields, and o-minimality and its applications. 
@@ -60,8 +60,7 @@ Indraprastha Institute of Information Technology,
 * <a href="https://ffbandf.wordpress.com/about/" target="_blank"> A collective blog on model theory</a>
 * <a href="https://modeltheory.fandom.com/wiki/Special:AllPages" target="_blank"> Model theory wiki</a>
 
-
-<br><br>
+<br>
 ## <kbd id="Teaching"><a href="#Teaching" style="text-decoration: none; color: #326496">Teaching</a></kbd>
 
 Below is a brief profile of my teaching at UIUC.
