@@ -7,7 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
+<script type="text/javascript"
+  src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js">
+ </script>
+ 
 I am a doctoral candidate in mathematics at UIUC. My research interests lie primarily in model theory and its applications. I am part of the <a href="https://math.illinois.edu/research/faculty-research/logic" target="_blank">Logic</a> group, and my advisor is <a href="https://math.illinois.edu/directory/profile/vddries" target="_blank">Lou van den Dries</a>. 
         
 Before coming over to Illinois, I received my undergraduate education at <a href="https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Kanpur" target="_blank"> IIT Kanpur</a>.<br>
@@ -16,12 +19,6 @@ Before coming over to Illinois, I received my undergraduate education at <a href
 Email: nbhard4 [at] illinois.edu
 
 <br><br>
-
-<script type="text/javascript"
-  src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js">
- </script>
-
-
 ##  <kbd id="Research"><a href="#Research" style="text-decoration: none; color: #326496">Research</a></kbd>
 
 My recent work is with the model theory of valued fields, and o-minimality and its applications. 
@@ -51,14 +48,12 @@ MSRI, University of California at Berkeley,
 
 <br>
 `The talks above were recorded.` 
-
 <!-- 
 AMS sectional meeting, Purdue University,
 : <a href="http://www.ams.org/meetings/sectional/2280_program_ss41.html#title" target="_blank"><i>Model Theory Special session</i></a>, Apr 2020. (cancelled due to COVID-19)
 Indraprastha Institute of Information Technology,
 : <a href="https://math.iiitd.ac.in/math-msems19.html" target="_blank"><i>Mathematics Seminar</i></a>, May 2019.
 -->
-
 <br> 
 ### Useful links
 * <a href="https://arxiv.org/list/math.LO/recent" target="_blank"> Logic arXiv</a>
@@ -68,7 +63,6 @@ Indraprastha Institute of Information Technology,
 
 
 <br><br>
-
 ## <kbd id="Teaching"><a href="#Teaching" style="text-decoration: none; color: #326496">Teaching</a></kbd>
 
 Below is a brief profile of my teaching at UIUC.
