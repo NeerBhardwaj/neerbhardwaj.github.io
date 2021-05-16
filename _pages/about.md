@@ -10,7 +10,8 @@ redirect_from:
 
 I am a doctoral candidate in mathematics at UIUC. My research interests lie primarily in model theory and its applications. I am part of the <a href="https://math.illinois.edu/research/faculty-research/logic" target="_blank">Logic</a> group, and my advisor is <a href="https://math.illinois.edu/directory/profile/vddries" target="_blank">Lou van den Dries</a>. 
         
-<!-- I was an NSF sponsored intern at the Argonne National Lab for summer 2020. Before coming over to Illinois, I received my undergraduate education at <a href="https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Kanpur" target="_blank"> IIT Kanpur</a>.<br> -->
+Before coming over to Illinois, I received my undergraduate education at <a href="https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Kanpur" target="_blank"> IIT Kanpur</a>.<br>
+<!--I was an NSF sponsored intern at the Argonne National Lab for summer 2020. -->
 
 Email: `nbhard4 [at] illinois.edu` 
 
@@ -47,7 +48,8 @@ Fields Institute, University of Toronto,
 MSRI, University of California at Berkeley,
 : <a href="https://www.msri.org/web/msri/scientific/colloquia-seminars/fall-2020-seminars/ddc-2020-diophantine-problems" target="_blank"><i>DDC: Diophantine Problems</i></a>, Oct 2020.
 
-<i>*The talks above were recorded</i>
+###### <i>*The talks above were recorded</i> 
+{: .notice}
 
 <!-- 
 AMS sectional meeting, Purdue University,
