@@ -38,7 +38,7 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free. [<
 
 
 ##  Talks 
-`The talks above were recorded.` 
+`The talks below were recorded.` 
 
 Fields Institute, University of Toronto,
 : <a href="http://www.fields.utoronto.ca/activities/20-21/geometry-and-model-theory-seminar" target="_blank"> <i>Geometry and Model Theory Seminar</i></a>, Nov 2020.
@@ -52,6 +52,7 @@ AMS sectional meeting, Purdue University,
 Indraprastha Institute of Information Technology,
 : <a href="https://math.iiitd.ac.in/math-msems19.html" target="_blank"><i>Mathematics Seminar</i></a>, May 2019.
 --> 
+<br>
 ### Useful links
 * <a href="https://arxiv.org/list/math.LO/recent" target="_blank"> Logic arXiv</a>
 * <a href="http://forkinganddividing.com/" target="_blank"> Map of the model theoretic universe</a>
