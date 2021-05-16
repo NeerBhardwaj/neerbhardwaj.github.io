@@ -26,7 +26,7 @@ Email: `nbhard4 [at] illinois.edu`
 
 My recent work is with the model theory of valued fields, and o-minimality and its applications. 
 
-## Papers
+## `Papers`
 
 On the Pila-Wilkie theorem. [<a href="http://neerbhardwaj.github.io/files/On%20the%20Pila-Wilkie%20theorem.pdf" target="_blank">pdf</a>, <a href="https://arxiv.org/abs/2010.14046" target=_blank>arXiv</a>]
 : with Lou van den Dries, <i>Submitted</i>.
@@ -41,7 +41,8 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free. [<
 : View one of our structures in the <a href="http://forkinganddividing.com/#_02_54" target="blank">model theory universe</a>.
 
 
-##  Talks
+##  Talks {: .notice}
+
 Fields Institute, University of Toronto,
 : <a href="http://www.fields.utoronto.ca/activities/20-21/geometry-and-model-theory-seminar" target="_blank"> <i>Geometry and Model Theory Seminar</i></a>, Nov 2020.
 
@@ -49,7 +50,6 @@ MSRI, University of California at Berkeley,
 : <a href="https://www.msri.org/web/msri/scientific/colloquia-seminars/fall-2020-seminars/ddc-2020-diophantine-problems" target="_blank"><i>DDC: Diophantine Problems</i></a>, Oct 2020.
 
 ###### <i>*The talks above were recorded</i> 
-{: .notice}
 
 <!-- 
 AMS sectional meeting, Purdue University,
