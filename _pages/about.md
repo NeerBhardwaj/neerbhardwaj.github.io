@@ -16,7 +16,7 @@ Email: nbhard4 [at] illinois.edu
 <script type="text/javascript"
   src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js">
  </script>
-<br>
+
 ##  <kbd id="Research"><a href="#Research" style="text-decoration: none; color: #326496">Research</a></kbd>
 
 My recent work is with the model theory of valued fields, and o-minimality and its applications. 
@@ -52,15 +52,13 @@ AMS sectional meeting, Purdue University,
 : <a href="http://www.ams.org/meetings/sectional/2280_program_ss41.html#title" target="_blank"><i>Model Theory Special session</i></a>, Apr 2020. (cancelled due to COVID-19)
 Indraprastha Institute of Information Technology,
 : <a href="https://math.iiitd.ac.in/math-msems19.html" target="_blank"><i>Mathematics Seminar</i></a>, May 2019.
--->
-<br> 
+--> 
 ### Useful links
 * <a href="https://arxiv.org/list/math.LO/recent" target="_blank"> Logic arXiv</a>
 * <a href="http://forkinganddividing.com/" target="_blank"> Map of the model theoretic universe</a>
 * <a href="https://ffbandf.wordpress.com/about/" target="_blank"> A collective blog on model theory</a>
 * <a href="https://modeltheory.fandom.com/wiki/Special:AllPages" target="_blank"> Model theory wiki</a>
 
-<br>
 ## <kbd id="Teaching"><a href="#Teaching" style="text-decoration: none; color: #326496">Teaching</a></kbd>
 
 Below is a brief profile of my teaching at UIUC.
@@ -76,7 +74,6 @@ Below is a brief profile of my teaching at UIUC.
 * Math 221, Calculus I
   : Fall 2018.
 
-<br>
 On the  <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> List of Teachers Ranked as Excellent</a> four times.
 : Twice ranked Excellent with <b>_Outstanding_</b> rating - (top 10% of instructors university-wide).
 
