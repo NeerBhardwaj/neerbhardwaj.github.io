@@ -10,7 +10,7 @@ redirect_from:
 
 I am a doctoral candidate in mathematics at UIUC. My research interests lie primarily in model theory and its applications. I am part of the <a href="https://math.illinois.edu/research/faculty-research/logic" target="_blank">Logic</a> group, and my advisor is <a href="https://math.illinois.edu/directory/profile/vddries" target="_blank">Lou van den Dries</a>. 
         
-Before coming over to Illinois, I received my undergraduate education at <a href="https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Kanpur" target="_blank"> IIT Kanpur</a>.
+Before coming over to Illinois, I received my undergraduate education at <a href="https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Kanpur" target="_blank"> IIT Kanpur</a>.<br>
 <!--I was an NSF sponsored intern at the Argonne National Lab for summer 2020. -->
 Email: nbhard4 [at] illinois.edu
 
@@ -26,7 +26,6 @@ Email: nbhard4 [at] illinois.edu
 My recent work is with the model theory of valued fields, and o-minimality and its applications. 
 
 ## Papers
-{: .notice}
 
 On the Pila-Wilkie theorem. [<a href="http://neerbhardwaj.github.io/files/On%20the%20Pila-Wilkie%20theorem.pdf" target="_blank">pdf</a>, <a href="https://arxiv.org/abs/2010.14046" target=_blank>arXiv</a>]
 : with Lou van den Dries, <i>Submitted</i>.
@@ -42,7 +41,6 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free. [<
 
 
 ##  Talks 
-{: .notice}
 
 Fields Institute, University of Toronto,
 : <a href="http://www.fields.utoronto.ca/activities/20-21/geometry-and-model-theory-seminar" target="_blank"> <i>Geometry and Model Theory Seminar</i></a>, Nov 2020.
@@ -50,7 +48,7 @@ Fields Institute, University of Toronto,
 MSRI, University of California at Berkeley,
 : <a href="https://www.msri.org/web/msri/scientific/colloquia-seminars/fall-2020-seminars/ddc-2020-diophantine-problems" target="_blank"><i>DDC: Diophantine Problems</i></a>, Oct 2020.
 
-###### <i>*The talks above were recorded</i> 
+`<i>*The talks above were recorded</i>` 
 
 <!-- 
 AMS sectional meeting, Purdue University,
@@ -74,7 +72,7 @@ Indraprastha Institute of Information Technology,
 Below is a brief profile of my teaching at UIUC.
 
 ## Courses
-{: .notice}
+
 * Math 241, Calculus III
   : Fall 2017, Fall 2019, Fall 2020.
 
