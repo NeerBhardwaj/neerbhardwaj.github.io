@@ -26,7 +26,8 @@ Email: nbhard4 [at] illinois.edu
 
 My recent work is with the model theory of valued fields, and o-minimality and its applications. 
 
-## `Papers`
+## Papers
+{: .notice}
 
 On the Pila-Wilkie theorem. [<a href="http://neerbhardwaj.github.io/files/On%20the%20Pila-Wilkie%20theorem.pdf" target="_blank">pdf</a>, <a href="https://arxiv.org/abs/2010.14046" target=_blank>arXiv</a>]
 : with Lou van den Dries, <i>Submitted</i>.
@@ -41,7 +42,8 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free. [<
 : View one of our structures in the <a href="http://forkinganddividing.com/#_02_54" target="blank">model theory universe</a>.
 
 
-##  Talks {: .notice}
+##  Talks 
+{: .notice}
 
 Fields Institute, University of Toronto,
 : <a href="http://www.fields.utoronto.ca/activities/20-21/geometry-and-model-theory-seminar" target="_blank"> <i>Geometry and Model Theory Seminar</i></a>, Nov 2020.
@@ -73,6 +75,7 @@ Indraprastha Institute of Information Technology,
 Below is a brief profile of my teaching at UIUC.
 
 ## Courses
+{: .notice}
 * Math 241, Calculus III
   : Fall 2017, Fall 2019, Fall 2020.
 
@@ -83,7 +86,6 @@ Below is a brief profile of my teaching at UIUC.
   : Fall 2018.
 
 <br>
-
 On the  <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> List of Teachers Ranked as Excellent</a> four times.
 : Twice ranked Excellent with <b>_Outstanding_</b> rating - (top 10% of instructors university-wide).
 
