@@ -17,6 +17,7 @@ Email: nbhard4 [at] illinois.edu
   src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js">
  </script>
 
+<br>
 ##  <kbd id="Research"><a href="#Research" style="text-decoration: none; color: #326496">Research</a></kbd>
 
 My recent work is with the model theory of valued fields, and o-minimality and its applications. 
@@ -37,15 +38,13 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free. [<
 
 
 ##  Talks 
+`The talks above were recorded.` 
 
 Fields Institute, University of Toronto,
 : <a href="http://www.fields.utoronto.ca/activities/20-21/geometry-and-model-theory-seminar" target="_blank"> <i>Geometry and Model Theory Seminar</i></a>, Nov 2020.
 
 MSRI, University of California at Berkeley,
 : <a href="https://www.msri.org/web/msri/scientific/colloquia-seminars/fall-2020-seminars/ddc-2020-diophantine-problems" target="_blank"><i>DDC: Diophantine Problems</i></a>, Oct 2020.
-
-<br>
-`The talks above were recorded.` 
 
 <!-- 
 AMS sectional meeting, Purdue University,
@@ -59,6 +58,7 @@ Indraprastha Institute of Information Technology,
 * <a href="https://ffbandf.wordpress.com/about/" target="_blank"> A collective blog on model theory</a>
 * <a href="https://modeltheory.fandom.com/wiki/Special:AllPages" target="_blank"> Model theory wiki</a>
 
+<br>
 ## <kbd id="Teaching"><a href="#Teaching" style="text-decoration: none; color: #326496">Teaching</a></kbd>
 
 Below is a brief profile of my teaching at UIUC.
