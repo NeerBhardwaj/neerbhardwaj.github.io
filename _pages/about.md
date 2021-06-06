@@ -62,7 +62,7 @@ Indraprastha Institute of Information Technology,
 <br>
 ## <kbd id="Teaching"><a href="#Teaching" style="text-decoration: none; color: #326496">Teaching</a></kbd>
 
-Below is a brief profile of my teaching at UIUC.
+A brief profile of my teaching at UIUC.
 
 ## Courses
 
