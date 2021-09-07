@@ -61,13 +61,14 @@ AMS sectional meeting, Purdue University,
 : <a href="http://www.ams.org/meetings/sectional/2280_program_ss41.html#title" target="_blank"><i>Model Theory Special session</i></a>, Apr 2020. (cancelled due to COVID-19)
 Indraprastha Institute of Information Technology,
 : <a href="https://math.iiitd.ac.in/math-msems19.html" target="_blank"><i>Mathematics Seminar</i></a>, May 2019.
---> 
+
 <br>
 ### Useful links
 * <a href="https://arxiv.org/list/math.LO/recent" target="_blank"> Logic arXiv</a>
 * <a href="http://forkinganddividing.com/" target="_blank"> Map of the model theoretic universe</a>
 * <a href="https://ffbandf.wordpress.com/about/" target="_blank"> A collective blog on model theory</a>
 * <a href="https://modeltheory.fandom.com/wiki/Special:AllPages" target="_blank"> Model theory wiki</a>
+-->
 
 <br>
 ## <kbd id="Teaching"><a href="#Teaching" style="text-decoration: none; color: #326496">Teaching</a></kbd>
