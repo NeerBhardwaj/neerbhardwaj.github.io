@@ -11,6 +11,7 @@ I am a mathematics doctoral candidate at UIUC. My research interests lie primari
         
 Before coming over to Illinois, I received my undergraduate education at <a href="https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Kanpur" target="_blank"> IIT Kanpur</a>.<br>
 <!--I was an NSF sponsored intern at the Argonne National Lab for summer 2020. -->
+
 I'm on the job market right now, looking for psoitions starting in the latter part of 2022.
 
 Email: nbhard4 [at] illinois.edu
@@ -30,7 +31,7 @@ Ax-Kochen-Ersov theory for restricted analytic functions, including the induced 
 
 
 On the Pila-Wilkie theorem. [<a href="http://neerbhardwaj.github.io/files/On%20the%20Pila-Wilkie%20theorem.pdf" target="_blank">pdf</a>, <a href="https://arxiv.org/abs/2010.14046" target=_blank>arXiv</a>]
-: with Lou van den Dries, <i>Accepted, pending minor revisions</i>.
+: with Lou van den Dries, <i>Accepted</i>, pending minor revisions.
 : <br>
 : <i> This expository paper gives an account of the Pila-Wilkie counting theorem and some of its extensions and generalizations. We use semialgebraic cell decomposition to simplify part of the original proof. Included are complete treatments of a result due to Pila and Bombieri and of the o-minimal Yomdin-Gromov theorem that are used in this proof. </i> 
 
