@@ -70,7 +70,7 @@ Indraprastha Institute of Information Technology,
 * <a href="https://modeltheory.fandom.com/wiki/Special:AllPages" target="_blank"> Model theory wiki</a>
 -->
 
-<br>
+<br><br>
 ## <kbd id="Teaching"><a href="#Teaching" style="text-decoration: none; color: #326496">Teaching</a></kbd>
 
 A brief profile of my teaching at UIUC.
