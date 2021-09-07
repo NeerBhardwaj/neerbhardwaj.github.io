@@ -25,7 +25,7 @@ My recent work is with the model theory of valued fields, and o-minimality and i
 ## Papers
 
 Ax-Kochen-Ersov theory for restricted analytic functions, including the induced structure on residue field and value group. 
-:[In Preparation]
+: [In Preparation]
 
 
 On the Pila-Wilkie theorem. [<a href="http://neerbhardwaj.github.io/files/On%20the%20Pila-Wilkie%20theorem.pdf" target="_blank">pdf</a>, <a href="https://arxiv.org/abs/2010.14046" target=_blank>arXiv</a>]
