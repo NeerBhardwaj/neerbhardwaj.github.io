@@ -77,7 +77,7 @@ A brief profile of my teaching at UIUC.
 
 ## Courses
 
-* Math 241, Calculus III [<a href="https://merit.illinois.edu/about-merit/" target="_blank">Merit</a>]
+* Math 241, Calculus III (<a href="https://merit.illinois.edu/about-merit/" target="_blank">Merit</a> section)
   : Fall 2021 (Current)
 
 * Math 241, Calculus III
