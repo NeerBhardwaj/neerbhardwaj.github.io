@@ -24,8 +24,11 @@ My recent work is with the model theory of valued fields, and o-minimality and i
 
 ## Papers
 
+Ax-Kochen-Ersov theory for restricted analytic functions, including the induced structure on residue field and value group. [In Preparation]
+
+
 On the Pila-Wilkie theorem. [<a href="http://neerbhardwaj.github.io/files/On%20the%20Pila-Wilkie%20theorem.pdf" target="_blank">pdf</a>, <a href="https://arxiv.org/abs/2010.14046" target=_blank>arXiv</a>]
-: with Lou van den Dries, <i>Submitted</i>.
+: with Lou van den Dries, <i>Accepted, pending minor revisions</i>.
 : <br>
 : <i> This expository paper gives an account of the Pila-Wilkie counting theorem and some of its extensions and generalizations. We use semialgebraic cell decomposition to simplify part of the original proof. Included are complete treatments of a result due to Pila and Bombieri and of the o-minimal Yomdin-Gromov theorem that are used in this proof. </i> 
 
@@ -40,8 +43,11 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free. [<
 ##  Talks 
 `These talks were recorded.` 
 
+University of Leeds and Universidad de los Andes,
+: <a href="http://www1.maths.leeds.ac.uk/~pmtpe/TDE/" target="_blank"> <i>Geometry and Model Theory Seminar</i></a>, Nov 2020.
+
 Fields Institute, University of Toronto,
-: <a href="http://www.fields.utoronto.ca/activities/20-21/geometry-and-model-theory-seminar" target="_blank"> <i>Geometry and Model Theory Seminar</i></a>, Nov 2020.
+: <a href="http://www.fields.utoronto.ca/activities/20-21/geometry-and-model-theory-seminar" target="_blank"> <i>Topological and Differential Expansions of O-minimal Structures</i></a>, Aug 2021.
 
 MSRI, University of California at Berkeley,
 : <a href="https://www.msri.org/web/msri/scientific/colloquia-seminars/fall-2020-seminars/ddc-2020-diophantine-problems" target="_blank"><i>DDC: Diophantine Problems</i></a>, Oct 2020.
