@@ -12,7 +12,7 @@ I am a mathematics doctoral candidate at UIUC. My research interests lie primari
 Before coming over to Illinois, I received my undergraduate education at <a href="https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Kanpur" target="_blank"> IIT Kanpur</a>.
 <!--I was an NSF sponsored intern at the Argonne National Lab for summer 2020. -->
 
-I am on the job market, seeking positions starting in the latter half of 2022, and happy to share my CV and research statement upon request.
+> I am on the job market, seeking positions starting in the latter half of 2022, and happy to share my CV and research statement upon request.
 
 Email: nbhard4 [at] illinois.edu
 <script type="text/javascript"
@@ -46,12 +46,12 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free, [<
 ##  <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Talks</a></kbd>
  
 `* --> talks were recorded.`
-## > Seminars 
+## Seminars 
 
 University of Illinois at Chicago,
 : <a href="https://www.math.uic.edu/persisting_utilities/seminars/schedule_by_topic?code=LOG" target="_blank"><i>Logic Seminar</i></a>, Oct 2021.
 
-University of Leeds and Universidad de los Andes,*
+University of Leeds and Universidad de los Andes,<sup>*<sup>
 : <a href="http://www1.maths.leeds.ac.uk/~pmtpe/TDE/" target="_blank"><i>Topological and Differential Expansions of O-minimal Structures</i></a>, Aug 2021.
 
 Fields Institute, University of Toronto,*
