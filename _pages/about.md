@@ -47,7 +47,7 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free, [<
 <!-- `These talks were recorded.` --> 
 ## Seminars 
 
-University of Illinois at Chicago, [<a href="https://www.math.uic.edu/persisting_utilities/seminars/schedule_by_topic?code=LOG" target="_blank">link</a>]
+University of Illinois at Chicago, [<a href="https://www.math.uic.edu/persisting_utilities/seminars/schedule_by_topic?code=LOG" target="_blank">website</a>]
 : <i> Logic Seminar </i>, Oct 2021.
 
 University of Leeds and Universidad de los Andes,
@@ -70,10 +70,10 @@ Indraprastha Institute of Information Technology,
 
 ## Contributed talks
 
-Graduate Student Conference in Logic XXII, [<a href="https://sites.google.com/view/gsclxxii/" target="_blank"> link </a>]
+Graduate Student Conference in Logic XXII, [<a href="https://sites.google.com/view/gsclxxii/" target="_blank">website</a>]
 : <i> University of Illinois at Urbana-Champaign </i>, Mar 2021.
 
-AMS sectional meeting: Model Theory Special session, [<a href="http://www.ams.org/meetings/sectional/2280_program_ss41.html#title" target="_blank">link</a>]
+AMS sectional meeting: Model Theory Special session, [<a href="http://www.ams.org/meetings/sectional/2280_program_ss41.html#title" target="_blank">website</a>]
 : <i>Purdue University</i>, Apr 2020. (cancelled due to COVID-19)
 
 Graduate Student Conference in Logic XIX,
