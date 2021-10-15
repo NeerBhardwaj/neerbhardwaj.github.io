@@ -44,7 +44,11 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free, [<
 
 
 ##  <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Talks</a></kbd>
-`These talks were recorded.` 
+<!-- `These talks were recorded.` --> 
+### Seminar Talks
+
+University of Illinois at Chicago,
+: <a href="https://www.math.uic.edu/persisting_utilities/seminars/schedule_by_topic?code=LOG" target="_blank"> <i> Logic Seminar </i></a>, Oct 2021.
 
 University of Leeds and Universidad de los Andes,
 : <a href="http://www1.maths.leeds.ac.uk/~pmtpe/TDE/" target="_blank"> <i>Topological and Differential Expansions of O-minimal Structures</i></a>, Aug 2021.
@@ -56,11 +60,25 @@ Fields Institute, University of Toronto,
 MSRI, University of California at Berkeley,
 : <a href="https://www.msri.org/web/msri/scientific/colloquia-seminars/fall-2020-seminars/ddc-2020-diophantine-problems" target="_blank"><i>DDC: Diophantine Problems</i></a>, Oct 2020.
 
-<!-- 
-AMS sectional meeting, Purdue University,
-: <a href="http://www.ams.org/meetings/sectional/2280_program_ss41.html#title" target="_blank"><i>Model Theory Special session</i></a>, Apr 2020. (cancelled due to COVID-19)
+### Colloquium Talks
+
+University of Illinois at Urbana-Champaign, 
+: <a href="https://math.illinois.edu/academics/graduate-program/women-mathematics/seminars" target="_blank"><i>AWM Graduate Student Colloquium</i></a>, Feb 2022.  
+
 Indraprastha Institute of Information Technology,
-: <a href="https://math.iiitd.ac.in/math-msems19.html" target="_blank"><i>Mathematics Seminar</i></a>, May 2019.
+: <a href="https://math.iiitd.ac.in/math-msems19.html" target="_blank"><i>Mathematics Seminar</i></a>, May 2019.  
+
+### Contributed Talks
+
+<a href="https://sites.google.com/view/gsclxxii/" target="_blank">Graduate Student Conference in Logic XXII</a>,
+: <i> University of Illinois at Urbana-Champaign </i>, Mar 2021.
+
+AMS sectional meeting, <a href="http://www.ams.org/meetings/sectional/2280_program_ss41.html#title" target="_blank">Model Theory Special session </a>,
+: <i>Purdue University</i>, Apr 2020. (cancelled due to COVID-19)
+
+Graduate Student Conference in Logic XIX,
+: <i> University of Wisconsin at Madison </i>, Mar 2018.
+
 
 <br>
 ### Useful links
