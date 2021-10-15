@@ -44,19 +44,19 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free, [<
 
 
 ##  <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Talks</a></kbd>
-<!-- `These talks were recorded.` --> 
+ `*: talks were recorded.` --> 
 ## Seminars 
 
 University of Illinois at Chicago,
 : <a href="https://www.math.uic.edu/persisting_utilities/seminars/schedule_by_topic?code=LOG" target="_blank"><i>Logic Seminar</i></a>, Oct 2021.
 
-University of Leeds and Universidad de los Andes,
+University of Leeds and Universidad de los Andes *,
 : <a href="http://www1.maths.leeds.ac.uk/~pmtpe/TDE/" target="_blank"><i>Topological and Differential Expansions of O-minimal Structures</i></a>, Aug 2021.
 
-Fields Institute, University of Toronto,
+Fields Institute, University of Toronto *,
 : <a href="http://www.fields.utoronto.ca/activities/20-21/geometry-and-model-theory-seminar" target="_blank"><i>Geometry and Model Theory Seminar</i></a>, Nov 2020.
 
-MSRI, University of California at Berkeley,
+MSRI, University of California at Berkeley *,
 : <a href="https://www.msri.org/web/msri/scientific/colloquia-seminars/fall-2020-seminars/ddc-2020-diophantine-problems" target="_blank"><i>DDC: Diophantine Problems</i></a>, Oct 2020.
 
 ## Colloquiua 
