@@ -47,15 +47,14 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free, [<
 <!-- `These talks were recorded.` --> 
 ## Seminars 
 
-University of Illinois at Chicago, [<a href="https://www.math.uic.edu/persisting_utilities/seminars/schedule_by_topic?code=LOG" target="_blank">website</a>]
-: <i> Logic Seminar </i>, Oct 2021.
+University of Illinois at Chicago,
+: <a href="https://www.math.uic.edu/persisting_utilities/seminars/schedule_by_topic?code=LOG" target="_blank"><i>Logic Seminar</i></a>, Oct 2021.
 
 University of Leeds and Universidad de los Andes,
-: <a href="http://www1.maths.leeds.ac.uk/~pmtpe/TDE/" target="_blank"> <i>Topological and Differential Expansions of O-minimal Structures</i></a>, Aug 2021.
-
+: <a href="http://www1.maths.leeds.ac.uk/~pmtpe/TDE/" target="_blank"><i>Topological and Differential Expansions of O-minimal Structures</i></a>, Aug 2021.
 
 Fields Institute, University of Toronto,
-: <a href="http://www.fields.utoronto.ca/activities/20-21/geometry-and-model-theory-seminar" target="_blank"> <i>Geometry and Model Theory Seminar</i></a>, Nov 2020.
+: <a href="http://www.fields.utoronto.ca/activities/20-21/geometry-and-model-theory-seminar" target="_blank"><i>Geometry and Model Theory Seminar</i></a>, Nov 2020.
 
 MSRI, University of California at Berkeley,
 : <a href="https://www.msri.org/web/msri/scientific/colloquia-seminars/fall-2020-seminars/ddc-2020-diophantine-problems" target="_blank"><i>DDC: Diophantine Problems</i></a>, Oct 2020.
@@ -71,13 +70,13 @@ Indraprastha Institute of Information Technology,
 ## Contributed talks
 
 Graduate Student Conference in Logic XXII, [<a href="https://sites.google.com/view/gsclxxii/" target="_blank">website</a>]
-: <i> University of Illinois at Urbana-Champaign </i>, Mar 2021.
+: <i>University of Illinois at Urbana-Champaign</i>, Mar 2021.
 
 AMS sectional meeting: Model Theory Special session, [<a href="http://www.ams.org/meetings/sectional/2280_program_ss41.html#title" target="_blank">website</a>]
 : <i>Purdue University</i>, Apr 2020. (cancelled due to COVID-19)
 
 Graduate Student Conference in Logic XIX,
-: <i> University of Wisconsin at Madison </i>, Mar 2018.
+: <i>University of Wisconsin at Madison</i>, Mar 2018.
 
 <!--
 <br>
