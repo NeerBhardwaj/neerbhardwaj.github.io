@@ -43,7 +43,7 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free, [<
 : View one of our structures in the <a href="http://forkinganddividing.com/#_02_54" target="blank">model theory universe</a>.
 
 
-##  Talks 
+##  <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Talks</a></kbd>
 `These talks were recorded.` 
 
 University of Leeds and Universidad de los Andes,
