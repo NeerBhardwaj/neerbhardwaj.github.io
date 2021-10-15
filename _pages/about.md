@@ -32,7 +32,7 @@ Ax-Kochen-Ersov theory for restricted analytic functions, including the induced 
 
 On the Pila-Wilkie theorem, [<a href="http://neerbhardwaj.github.io/files/On%20the%20Pila-Wilkie%20theorem.pdf" target="_blank">pdf</a>, <a href="https://arxiv.org/abs/2010.14046" target=_blank>arXiv</a>]
 : with Lou van den Dries, <i>Expositiones Mathematicae</i>, accepted, pending minor revisions.
-: > This expository paper gives an account of the Pila-Wilkie counting theorem and some of its extensions and generalizations. We use semialgebraic cell decomposition to simplify part of the original proof. Included are complete treatments of a result due to Pila and Bombieri and of the o-minimal Yomdin-Gromov theorem that are used in this proof. </i> 
+> This expository paper gives an account of the Pila-Wilkie counting theorem and some of its extensions and generalizations. We use semialgebraic cell decomposition to simplify part of the original proof. Included are complete treatments of a result due to Pila and Bombieri and of the o-minimal Yomdin-Gromov theorem that are used in this proof. </i> 
 
 The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free, [<a href="http://neerbhardwaj.github.io/files/The%20additive%20groups%20of%20ℤ%20and%20%20ℚ%20with%20predicates%20for%20being%20square-free.pdf" target="_blank">pdf</a>, <a href="https://arxiv.org/abs/1707.00096" target="_blank">arXiv</a>, <a href="https://doi.org/10.1017/jsl.2020.30" target="_blank">DOI</a>]
 : with Minh Chieu Tran, <i>The Journal of Symbolic Logic</i>, to appear.
@@ -44,7 +44,7 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free, [<
 
 ##  <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Talks</a></kbd>
  
-`<sup>*</sup> --> talks were recorded.`
+`* --> talks were recorded.`
 ## Seminars 
 
 University of Illinois at Chicago,
