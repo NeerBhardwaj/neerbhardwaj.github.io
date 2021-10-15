@@ -47,8 +47,8 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free, [<
 <!-- `These talks were recorded.` --> 
 ## Seminars 
 
-University of Illinois at Chicago,
-: <a href="https://www.math.uic.edu/persisting_utilities/seminars/schedule_by_topic?code=LOG" target="_blank"> <i> Logic Seminar </i></a>, Oct 2021.
+University of Illinois at Chicago, [<a href="https://www.math.uic.edu/persisting_utilities/seminars/schedule_by_topic?code=LOG" target="_blank">link</a>]
+: <i> Logic Seminar </i>, Oct 2021.
 
 University of Leeds and Universidad de los Andes,
 : <a href="http://www1.maths.leeds.ac.uk/~pmtpe/TDE/" target="_blank"> <i>Topological and Differential Expansions of O-minimal Structures</i></a>, Aug 2021.
@@ -70,10 +70,10 @@ Indraprastha Institute of Information Technology,
 
 ## Contributed talks
 
-<a href="https://sites.google.com/view/gsclxxii/" target="_blank">Graduate Student Conference in Logic XXII</a>,
+Graduate Student Conference in Logic XXII, [<a href="https://sites.google.com/view/gsclxxii/" target="_blank"> link </a>]
 : <i> University of Illinois at Urbana-Champaign </i>, Mar 2021.
 
-AMS sectional meeting: <a href="http://www.ams.org/meetings/sectional/2280_program_ss41.html#title" target="_blank">Model Theory Special session </a>,
+AMS sectional meeting: Model Theory Special session, [<a href="http://www.ams.org/meetings/sectional/2280_program_ss41.html#title" target="_blank">link</a>]
 : <i>Purdue University</i>, Apr 2020. (cancelled due to COVID-19)
 
 Graduate Student Conference in Logic XIX,
