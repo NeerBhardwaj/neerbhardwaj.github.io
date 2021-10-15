@@ -44,7 +44,8 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free, [<
 
 
 ##  <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Talks</a></kbd>
- `*: talks were recorded.`
+ 
+`* --> talks were recorded.`
 ## Seminars 
 
 University of Illinois at Chicago,
