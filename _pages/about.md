@@ -12,7 +12,7 @@ I am a mathematics doctoral candidate at UIUC. My research interests lie primari
 Before coming over to Illinois, I received my undergraduate education at <a href="https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Kanpur" target="_blank"> IIT Kanpur</a>.
 <!--I was an NSF sponsored intern at the Argonne National Lab for summer 2020. -->
 
-> I am on the job market, seeking positions starting in the latter half of 2022, and happy to share my CV and research statement upon request.
+I am on the job market, seeking positions starting in the latter half of 2022, and happy to share my CV and research statement upon request.
 
 Email: nbhard4 [at] illinois.edu
 <script type="text/javascript"
@@ -33,7 +33,7 @@ Ax-Kochen-Ersov theory for restricted analytic functions, including the induced 
 On the Pila-Wilkie theorem, [<a href="http://neerbhardwaj.github.io/files/On%20the%20Pila-Wilkie%20theorem.pdf" target="_blank">pdf</a>, <a href="https://arxiv.org/abs/2010.14046" target=_blank>arXiv</a>]
 : with Lou van den Dries, <i>Expositiones Mathematicae</i>, accepted, pending minor revisions.
 : <br>
-: <i> This expository paper gives an account of the Pila-Wilkie counting theorem and some of its extensions and generalizations. We use semialgebraic cell decomposition to simplify part of the original proof. Included are complete treatments of a result due to Pila and Bombieri and of the o-minimal Yomdin-Gromov theorem that are used in this proof. </i> 
+: > This expository paper gives an account of the Pila-Wilkie counting theorem and some of its extensions and generalizations. We use semialgebraic cell decomposition to simplify part of the original proof. Included are complete treatments of a result due to Pila and Bombieri and of the o-minimal Yomdin-Gromov theorem that are used in this proof. </i> 
 
 The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free, [<a href="http://neerbhardwaj.github.io/files/The%20additive%20groups%20of%20ℤ%20and%20%20ℚ%20with%20predicates%20for%20being%20square-free.pdf" target="_blank">pdf</a>, <a href="https://arxiv.org/abs/1707.00096" target="_blank">arXiv</a>, <a href="https://doi.org/10.1017/jsl.2020.30" target="_blank">DOI</a>]
 : with Minh Chieu Tran, <i>The Journal of Symbolic Logic</i>, to appear.
@@ -109,7 +109,7 @@ A brief profile of my teaching at UIUC.
 
 ## Awards
 
-Twice ranked Excellent with <b>_Outstanding_</b> rating - (top 10%).
+Twice ranked Excellent with <b>_Outstanding_</b> (top 10%) rating. 
 : On the  <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> List of Teachers Ranked as Excellent</a> a total of four times. 
 
 TA Mentor, Fall 2018
