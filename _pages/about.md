@@ -7,7 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-> I am a mathematics doctoral candidate at UIUC. My research interests lie primarily in model theory and its applications. I am part of the <a href="https://math.illinois.edu/research/faculty-research/logic" target="_blank">Logic</a> group, and my advisor is <a href="https://math.illinois.edu/directory/profile/vddries" target="_blank">Lou van den Dries</a>. 
+I am a mathematics doctoral candidate at UIUC. My research interests lie primarily in model theory and its applications. I am part of the <a href="https://math.illinois.edu/research/faculty-research/logic" target="_blank">Logic</a> group, and my advisor is <a href="https://math.illinois.edu/directory/profile/vddries" target="_blank">Lou van den Dries</a>. 
         
 Before coming over to Illinois, I received my undergraduate education at <a href="https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Kanpur" target="_blank"> IIT Kanpur</a>.
 <!--I was an NSF sponsored intern at the Argonne National Lab for summer 2020. -->
@@ -22,7 +22,7 @@ Email: nbhard4 [at] illinois.edu
 <br>
 ##  <kbd id="Research"><a href="#Research" style="text-decoration: none; color: #326496">Research</a></kbd>
 
-> My recent work is with the model theory of valued fields, and o-minimality and its applications. 
+My recent work is with the model theory of valued fields, and o-minimality and its applications. 
 
 ## Papers
 
@@ -36,8 +36,7 @@ On the Pila-Wilkie theorem, [<a href="http://neerbhardwaj.github.io/files/On%20t
 
 The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free, [<a href="http://neerbhardwaj.github.io/files/The%20additive%20groups%20of%20ℤ%20and%20%20ℚ%20with%20predicates%20for%20being%20square-free.pdf" target="_blank">pdf</a>, <a href="https://arxiv.org/abs/1707.00096" target="_blank">arXiv</a>, <a href="https://doi.org/10.1017/jsl.2020.30" target="_blank">DOI</a>]
 : with Minh Chieu Tran, <i>The Journal of Symbolic Logic</i>, to appear.
-: <br>
-: : <i>We consider the four structures $(ℤ;\mbox{Sqf}^ℤ)$, $(ℤ;<,\mbox{Sqf}^ℤ)$, $(ℚ;\mbox{Sqf}^ℚ)$, and $(ℚ;<,\mbox{Sqf}^ℚ)$ where $ℤ$ is the additive group of integers, $\mbox{Sqf}^ℤ$ is the set of $a\in ℤ$ such that $v_p(a)<2$ for every prime $p$ and corresponding $p$-adic valuation $v_p$, $ℚ$ and $\mbox{Sqf}^ℚ$ are defined likewise for rational numbers, and $<$ denotes the natural ordering on each of these domains. We prove that the second structure is model-theoretically wild while the other three structures are model-theoretically tame. Moreover, all these results can be seen as examples where number-theoretic randomness yields model-theoretic consequences.</i>
+> We consider the four structures $(ℤ;\mbox{Sqf}^ℤ)$, $(ℤ;<,\mbox{Sqf}^ℤ)$, $(ℚ;\mbox{Sqf}^ℚ)$, and $(ℚ;<,\mbox{Sqf}^ℚ)$ where $ℤ$ is the additive group of integers, $\mbox{Sqf}^ℤ$ is the set of $a\in ℤ$ such that $v_p(a)<2$ for every prime $p$ and corresponding $p$-adic valuation $v_p$, $ℚ$ and $\mbox{Sqf}^ℚ$ are defined likewise for rational numbers, and $<$ denotes the natural ordering on each of these domains. We prove that the second structure is model-theoretically wild while the other three structures are model-theoretically tame. Moreover, all these results can be seen as examples where number-theoretic randomness yields model-theoretic consequences.
 > View one of our structures in the <a href="http://forkinganddividing.com/#_02_54" target="blank">model theory universe</a>.
 
 
@@ -91,7 +90,7 @@ Graduate Student Conference in Logic XIX,
 <br>
 ## <kbd id="Teaching"><a href="#Teaching" style="text-decoration: none; color: #326496">Teaching</a></kbd>
 
-> A brief profile of my teaching at UIUC.
+A brief profile of my teaching at UIUC.
 
 ## Courses
 
