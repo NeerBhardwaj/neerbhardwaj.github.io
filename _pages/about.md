@@ -107,9 +107,9 @@ A brief profile of my teaching at UIUC.
 
 ## Awards
 
-Twice ranked Excellent with <b>_Outstanding_</b> (top 10%) rating. 
-: On the  <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> List of Teachers Ranked as Excellent</a> a total of four times. 
+* Twice ranked Excellent with <b>_Outstanding_</b> (top 10%) rating. 
+  : On the  <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> List of Teachers Ranked as Excellent</a> a total of four times. 
 
-TA Mentor, Fall 2018
-: Advised 5 graduate students though their first semester of teaching.<br> Co-organized the annual departmental TA orientation.
+* TA Mentor, Fall 2018
+  : Advised 5 graduate students though their first semester of teaching.<br> Co-organized the annual departmental TA orientation.
 
