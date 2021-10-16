@@ -44,38 +44,37 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free, [<
 ##  <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Talks</a></kbd>
  
 
-##  <h2 style="color:#000080">Seminars</h2>
+##  Seminars
 
-University of Illinois at Chicago,
-: <a href="https://www.math.uic.edu/persisting_utilities/seminars/schedule_by_topic?code=LOG" target="_blank"><i>Logic Seminar</i></a>, Oct 2021.
+* University of Illinois at Chicago,
+  : <a href="https://www.math.uic.edu/persisting_utilities/seminars/schedule_by_topic?code=LOG" target="_blank"><i>Logic Seminar</i></a>, Oct 2021.
 
-University of Leeds and Universidad de los Andes,<sup>*</sup>
-: <a href="http://www1.maths.leeds.ac.uk/~pmtpe/TDE/" target="_blank"><i>Topological and Differential Expansions of O-minimal Structures</i></a>, Aug 2021.
+* University of Leeds and Universidad de los Andes,<sup>*</sup>
+  : <a href="http://www1.maths.leeds.ac.uk/~pmtpe/TDE/" target="_blank"><i>Topological and Differential Expansions of O-minimal Structures</i></a>, Aug 2021.
 
-Fields Institute, University of Toronto,<sup>*</sup>
-: <a href="http://www.fields.utoronto.ca/activities/20-21/geometry-and-model-theory-seminar" target="_blank"><i>Geometry and Model Theory Seminar</i></a>, Nov 2020.
+* Fields Institute, University of Toronto,<sup>*</sup>
+  : <a href="http://www.fields.utoronto.ca/activities/20-21/geometry-and-model-theory-seminar" target="_blank"><i>Geometry and Model Theory Seminar</i></a>, Nov 2020.
 
-MSRI, University of California at Berkeley,<sup>*</sup>
-: <a href="https://www.msri.org/web/msri/scientific/colloquia-seminars/fall-2020-seminars/ddc-2020-diophantine-problems" target="_blank"><i>DDC: Diophantine Problems</i></a>, Oct 2020.
+* MSRI, University of California at Berkeley,<sup>*</sup>
+  : <a href="https://www.msri.org/web/msri/scientific/colloquia-seminars/fall-2020-seminars/ddc-2020-diophantine-problems" target="_blank"><i>DDC: Diophantine Problems</i></a>, Oct 2020.
 
 ## Colloquiua 
 
-University of Illinois at Urbana-Champaign, 
-: <a href="https://math.illinois.edu/academics/graduate-program/women-mathematics/seminars" target="_blank"><i>AWM Graduate Student Colloquium</i></a>, Feb 2022.  
-
-Indraprastha Institute of Information Technology,
-: <a href="https://math.iiitd.ac.in/math-msems19.html" target="_blank"><i>Mathematics Seminar</i></a>, May 2019.  
+* University of Illinois at Urbana-Champaign, 
+  : <a href="https://math.illinois.edu/academics/graduate-program/women-mathematics/seminars" target="_blank"><i>AWM Graduate Student Colloquium</i></a>, Feb 2022.  
+* Indraprastha Institute of Information Technology,
+  : <a href="https://math.iiitd.ac.in/math-msems19.html" target="_blank"><i>Mathematics Seminar</i></a>, May 2019.  
 
 ## Contributed talks
 
-Graduate Student Conference in Logic XXII, [<a href="https://sites.google.com/view/gsclxxii/" target="_blank">website</a>]
-: <i>University of Illinois at Urbana-Champaign</i>, Mar 2021.
+* Graduate Student Conference in Logic XXII, [<a href="https://sites.google.com/view/gsclxxii/" target="_blank">website</a>]
+ : <i>University of Illinois at Urbana-Champaign</i>, Mar 2021.
 
-AMS sectional meeting: Model Theory Special session, [<a href="http://www.ams.org/meetings/sectional/2280_program_ss41.html#title" target="_blank">website</a>]
-: <i>Purdue University</i>, Apr 2020. (cancelled due to COVID-19)
+* AMS sectional meeting: Model Theory Special session, [<a href="http://www.ams.org/meetings/sectional/2280_program_ss41.html#title" target="_blank">website</a>]
+ : <i>Purdue University</i>, Apr 2020. (cancelled due to COVID-19)
 
-Graduate Student Conference in Logic XIX,
-: <i>University of Wisconsin at Madison</i>, Mar 2018.
+* Graduate Student Conference in Logic XIX,
+ : <i>University of Wisconsin at Madison</i>, Mar 2018.
 
 `* --> talks were recorded.`
 
