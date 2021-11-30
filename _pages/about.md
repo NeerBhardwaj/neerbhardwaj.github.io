@@ -64,7 +64,10 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free, [<
 * Indraprastha Institute of Information Technology,
   : <a href="https://math.iiitd.ac.in/math-msems19.html" target="_blank"><i>Mathematics Seminar</i></a>, May 2019.  
 
-## Contributed talks
+## Conferences
+
+* Joint Mathematical Meetings 2022, [<a href="https://meetings.ams.org/math/jmm2022/meetingapp.cgi/Paper/7919" target="_blank">website</a>]
+ : <i> Seattle</i>, Jan 2022.
 
 * Graduate Student Conference in Logic XXII, [<a href="https://sites.google.com/view/gsclxxii/" target="_blank">website</a>]
  : <i>University of Illinois at Urbana-Champaign</i>, Mar 2021.
