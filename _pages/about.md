@@ -97,7 +97,7 @@ A brief profile of my teaching at UIUC.
 
 ## Courses
 
-* Math 241, Calculus III (<a href="https://merit.illinois.edu/about-merit/" target="_blank">Merit</a>), [<a href="http://neerbhardwaj.github.io/images/4_head.jpg" target="_blank">class picture</a>]
+* Math 241, Calculus III (<a href="https://merit.illinois.edu/about-merit/" target="_blank">Merit</a>), [<a href="http://neerbhardwaj.github.io/images/Merit.jpg" target="_blank">class picture</a>]
   : Current - Fall 2021.
 
 * Math 241, Calculus III
