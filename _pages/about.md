@@ -93,13 +93,14 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free, [<
 <br>
 ## <kbd id="Teaching"><a href="#Teaching" style="text-decoration: none; color: #326496">Teaching</a></kbd>
 
-A brief profile of my teaching at UIUC.
+A brief profile of my teaching at UIUC. [<a href="http://neerbhardwaj.github.io/images/Merit.jpg" target="_blank">With</a>].
+ my students for Fall 2021!
 
 ## Courses
 
 * Math 241, Calculus III (<a href="https://merit.illinois.edu/about-merit/" target="_blank">Merit</a>) 
-  : Fall 2021 [<a href="http://neerbhardwaj.github.io/images/Merit.jpg" target="_blank">class picture</a>].
-
+  : Fall 2021.
+  
 * Math 241, Calculus III
   : Fall 2017, Fall 2019, Fall 2020.
 
