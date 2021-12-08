@@ -93,8 +93,8 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free, [<
 <br>
 ## <kbd id="Teaching"><a href="#Teaching" style="text-decoration: none; color: #326496">Teaching</a></kbd>
 
-A brief profile of my teaching at UIUC. <a href="http://neerbhardwaj.github.io/images/Merit.jpg" target="_blank">With</a>
- my last batch of students at UIUC!
+A brief profile of my teaching at UIUC. 
+A <a href="http://neerbhardwaj.github.io/images/Merit.jpg" target="_blank">class picture</a> with my Fall 2021 batch, my last at UIUC!
 
 ## Courses
 
