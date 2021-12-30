@@ -22,7 +22,7 @@ Email: nbhard4 [at] illinois.edu
 <br>
 ##  <kbd id="Research"><a href="#Research" style="text-decoration: none; color: #326496">Research</a></kbd>
 
-My recent work is with the model theory of valued fields, and o-minimality and its applications. 
+My recent work is with the algebra and model theory of valued fields, and o-minimality and its applications. 
 
 ## Papers
 
