@@ -67,7 +67,7 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free, [<
 ## Conferences
 
 * Joint Mathematical Meetings 2022, [<a href="https://meetings.ams.org/math/jmm2022/meetingapp.cgi/Paper/7919" target="_blank">website</a>]
- : <i> Seattle</i>, Jan 2022.
+ : <i> Seattle</i>, Jan 2022. (postponed due to COVID-19)
 
 * Graduate Student Conference in Logic XXII, [<a href="https://sites.google.com/view/gsclxxii/" target="_blank">website</a>]
  : <i>University of Illinois at Urbana-Champaign</i>, Mar 2021.
