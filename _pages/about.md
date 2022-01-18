@@ -46,7 +46,7 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free, [<
 ##  Seminars
 
 * Fields Institute, University of Toronto,<sup>*</sup>
-  : <a href="http://www.fields.utoronto.ca/activities/21-22/geometry-and-model-theory-seminar" target="_blank"><i>hematic Program on Tame Geometry, Transseries and Applications to Analysis and Geometry</i></a>, Feb 2022.
+  : <a href="http://www.fields.utoronto.ca/activities/21-22/geometry-and-model-theory-seminar" target="_blank"><i>Thematic Program on Tame Geometry, Transseries and Applications to Analysis and Geometry</i></a>, Feb 2022.
   
 * University of Illinois at Chicago,
   : <a href="https://www.math.uic.edu/persisting_utilities/seminars/schedule_by_topic?code=LOG" target="_blank"><i>Logic Seminar</i></a>, Oct 2021.
