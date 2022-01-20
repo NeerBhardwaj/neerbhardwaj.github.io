@@ -42,6 +42,22 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free, [<
 
 ##  <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Talks</a></kbd>
  
+## Conferences
+
+* Joint Mathematical Meetings 2022, [<a href="https://www.jointmathematicsmeetings.org/meetings/national/jmm2022/2268_program_ss131.html#title" target="_blank">website</a>]
+ : <i> Seattle</i>, Apr 2022.
+ 
+* AMS sectional meeting: Model Theory Special session, [<a href="https://www.ams.org/meetings/sectional/2292_program_ss35.html#title" target="_blank">website</a>]
+ : <i>Purdue University</i>, Mar 2022. 
+
+<!--
+* Graduate Student Conference in Logic XXII, [<a href="https://sites.google.com/view/gsclxxii/" target="_blank">website</a>]
+ : <i>University of Illinois at Urbana-Champaign</i>, Mar 2021.
+
+
+* Graduate Student Conference in Logic XIX,
+ : <i>University of Wisconsin at Madison</i>, Mar 2018.
+-->
 
 ##  Seminars
 
@@ -67,21 +83,6 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free, [<
 * Indraprastha Institute of Information Technology,
   : <a href="https://math.iiitd.ac.in/math-msems19.html" target="_blank"><i>Mathematics Seminar</i></a>, May 2019.  
 
-## Conferences
-
-* Joint Mathematical Meetings 2022, [<a href="https://www.jointmathematicsmeetings.org/meetings/national/jmm2022/2268_program_ss131.html#title" target="_blank">website</a>]
- : <i> Seattle</i>, Apr 2022.
- 
-* AMS sectional meeting: Model Theory Special session, [<a href="https://www.ams.org/meetings/sectional/2292_program_ss35.html#title" target="_blank">website</a>]
- : <i>Purdue University</i>, Mar 2022. 
-
-
-* Graduate Student Conference in Logic XXII, [<a href="https://sites.google.com/view/gsclxxii/" target="_blank">website</a>]
- : <i>University of Illinois at Urbana-Champaign</i>, Mar 2021.
-
-
-* Graduate Student Conference in Logic XIX,
- : <i>University of Wisconsin at Madison</i>, Mar 2018.
 
 <br>
 `* --> talks were recorded.`
