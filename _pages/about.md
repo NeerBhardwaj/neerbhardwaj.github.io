@@ -71,12 +71,14 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free, [<
 
 * Joint Mathematical Meetings 2022, [<a href="https://www.jointmathematicsmeetings.org/meetings/national/jmm2022/2268_program_ss131.html#title" target="_blank">website</a>]
  : <i> Seattle</i>, Apr 2022.
+ 
+* AMS sectional meeting: Model Theory Special session, [<a href="https://www.ams.org/meetings/sectional/2292_program_ss35.html#title" target="_blank">website</a>]
+ : <i>Purdue University</i>, Mar 2022. 
+
 
 * Graduate Student Conference in Logic XXII, [<a href="https://sites.google.com/view/gsclxxii/" target="_blank">website</a>]
  : <i>University of Illinois at Urbana-Champaign</i>, Mar 2021.
 
-* AMS sectional meeting: Model Theory Special session, [<a href="http://www.ams.org/meetings/sectional/2280_program_ss41.html#title" target="_blank">website</a>]
- : <i>Purdue University</i>, Apr 2020. (cancelled due to COVID-19)
 
 * Graduate Student Conference in Logic XIX,
  : <i>University of Wisconsin at Madison</i>, Mar 2018.
