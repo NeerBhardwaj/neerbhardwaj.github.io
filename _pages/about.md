@@ -12,9 +12,8 @@ I am a mathematics doctoral candidate at UIUC. My research interests lie primari
 Before coming over to Illinois, I received my undergraduate education at <a href="https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Kanpur" target="_blank"> IIT Kanpur</a>.
 <!--I was an NSF sponsored intern at the Argonne National Lab for summer 2020. -->
 
-I am on the job market, seeking positions starting in the latter half of 2022, and happy to share my CV and research statement upon request.
+Email: "firstname"."lastname"24[at]gmail.com
 
-Email: nbhard4 [at] illinois.edu
 <script type="text/javascript"
   src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js">
  </script>
@@ -85,7 +84,7 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free, [<
 
 
 <br>
-`* --> talks were recorded.`
+`* --> recordings available.`
 
 <!--
 <br>
