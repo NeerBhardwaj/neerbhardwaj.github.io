@@ -12,7 +12,7 @@ I am a mathematics doctoral candidate at UIUC. My research interests lie primari
 Before coming over to Illinois, I received my undergraduate education at <a href="https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Kanpur" target="_blank"> IIT Kanpur</a>.
 <!--I was an NSF sponsored intern at the Argonne National Lab for summer 2020. -->
 
-Email: neer.bhardwaj24[at]gmail.com
+Email: neer.bhardwaj24 [at] gmail.com
 
 <script type="text/javascript"
   src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js">
