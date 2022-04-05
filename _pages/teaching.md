@@ -28,6 +28,6 @@ Math 221, Calculus I
 * TA Mentor, Fall 2018
   : Advised 5 graduate students though their first semester of teaching.<br> Co-organized the annual departmental TA orientation.
   
-A <a href="http://neerbhardwaj.github.io/images/Merit.jpg" target="_blank">class picture</a> with my last batch at UIUC!  
+A <a href="http://neerbhardwaj.github.io/images/Merit.jpg" target="_blank">class picture</a> with my last batch at UIUC! 
 
   
