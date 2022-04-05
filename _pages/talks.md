@@ -34,7 +34,7 @@ Fields Institute, University of Toronto,<sup>*</sup>
 MSRI, University of California at Berkeley,<sup>*</sup>
  : <a href="https://www.msri.org/web/msri/scientific/colloquia-seminars/fall-2020-seminars/ddc-2020-diophantine-problems" target="_blank"><i>DDC: Diophantine Problems</i></a>, Oct 2020.
 
-Indraprastha Institute of Information Technology,
+* Indraprastha Institute of Information Technology,
  : <a href="https://math.iiitd.ac.in/math-msems19.html" target="_blank"><i>Mathematics Seminar</i></a>, May 2019.  
 
 
