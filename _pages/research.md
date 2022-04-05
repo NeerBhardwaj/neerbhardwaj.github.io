@@ -9,7 +9,7 @@ author_profile: true
 
 O-minimality and its applications; the algebra and model theory of valued fields. 
 
-## Papers
+## <kbd id="Papers"><a href="#Papers" style="text-decoration: none; color: #326496">Papers</a></kbd>
 
 Analytic Ax-Kochen-Ersov theory including induced structure results,
 : in preparation.
