@@ -6,7 +6,7 @@ author_profile: true
 
 A <a href="http://neerbhardwaj.github.io/images/Merit.jpg" target="_blank">class picture</a> with my last batch at UIUC!
 
-## Courses
+## Teaching at UIUC
 
 Math 241, Calculus III (<a href="https://merit.illinois.edu/about-merit/" target="_blank">Merit</a>) 
   : Fall 2021.
