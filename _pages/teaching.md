@@ -7,7 +7,8 @@ author_profile: true
   src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js">
  </script>
 
-## <kbd ><a style="text-decoration: none; color: #326496">UIUC</a></kbd>
+## <kbd id="TeachUIUC"><a href="#TeachUIUC" style="text-decoration: none; color: #326496">UIUC</a></kbd>
+
 
 Math 241, Calculus III (<a href="https://merit.illinois.edu/about-merit/" target="_blank">Merit</a>) 
   : Fall 2021.
@@ -28,6 +29,6 @@ Math 221, Calculus I
 * TA Mentor, Fall 2018
   : Advised 5 graduate students though their first semester of teaching.<br> Co-organized the annual departmental TA orientation.
   
-A <a href="http://neerbhardwaj.github.io/images/Merit.jpg" target="_blank">class picture</a> with my last batch at UIUC! 
+A <a href="http://neerbhardwaj.github.io/images/Merit.jpg" target="_blank">class picture</a> with my last batch at UIUC!
 
   
