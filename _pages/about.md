@@ -23,7 +23,6 @@ Email: neer.bhardwaj24 [at] gmail.com
 
 O-minimality and its applications; the algebra and model theory of valued fields. 
 
-## Papers
 
 Analytic Ax-Kochen-Ersov theory including induced structure results,
 : in preparation.
@@ -40,7 +39,7 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free, [<
 
 ##  <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Talks</a></kbd>
  
-## Conferences
+
 
 * Joint Mathematical Meetings 2022, [<a href="https://www.jointmathematicsmeetings.org/meetings/national/jmm2022/2268_program_ss131.html#title" target="_blank">website</a>]
  : <i> Seattle</i>, Apr 2022.
@@ -48,16 +47,9 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free, [<
 * AMS sectional meeting: Model Theory Special session, [<a href="https://www.ams.org/meetings/sectional/2292_program_ss35.html#title" target="_blank">website</a>]
  : <i>Purdue University</i>, Mar 2022. 
 
-<!--
-* Graduate Student Conference in Logic XXII, [<a href="https://sites.google.com/view/gsclxxii/" target="_blank">website</a>]
- : <i>University of Illinois at Urbana-Champaign</i>, Mar 2021.
+* University of Illinois at Urbana-Champaign, 
+  : <a href="https://math.illinois.edu/academics/graduate-program/women-mathematics/seminars" target="_blank"><i>AWM Graduate Student Colloquium</i></a>, Feb 2022. 
 
-
-* Graduate Student Conference in Logic XIX,
- : <i>University of Wisconsin at Madison</i>, Mar 2018.
--->
-
-##  Seminars
 
 * Fields Institute, University of Toronto,<sup>*</sup>
   : <a href="http://www.fields.utoronto.ca/activities/21-22/geometry-and-model-theory-seminar" target="_blank"><i>Thematic Program on Tame Geometry, Transseries and Applications to Analysis and Geometry</i></a>, Feb 2022.
@@ -74,10 +66,6 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free, [<
 * MSRI, University of California at Berkeley,<sup>*</sup>
   : <a href="https://www.msri.org/web/msri/scientific/colloquia-seminars/fall-2020-seminars/ddc-2020-diophantine-problems" target="_blank"><i>DDC: Diophantine Problems</i></a>, Oct 2020.
 
-## Colloquiua 
-
-* University of Illinois at Urbana-Champaign, 
-  : <a href="https://math.illinois.edu/academics/graduate-program/women-mathematics/seminars" target="_blank"><i>AWM Graduate Student Colloquium</i></a>, Feb 2022.  
 * Indraprastha Institute of Information Technology,
   : <a href="https://math.iiitd.ac.in/math-msems19.html" target="_blank"><i>Mathematics Seminar</i></a>, May 2019.  
 
@@ -85,21 +73,26 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free, [<
 <br>
 `* --> recordings available.`
 
-<!--
-<br>
-### Useful links
-* <a href="https://arxiv.org/list/math.LO/recent" target="_blank"> Logic arXiv</a>
-* <a href="http://forkinganddividing.com/" target="_blank"> Map of the model theoretic universe</a>
-* <a href="https://ffbandf.wordpress.com/about/" target="_blank"> A collective blog on model theory</a>
-* <a href="https://modeltheory.fandom.com/wiki/Special:AllPages" target="_blank"> Model theory wiki</a>
--->
 
-<br>
 ## <kbd id="Teaching"><a href="#Teaching" style="text-decoration: none; color: #326496">Teaching</a></kbd>
 
 A <a href="http://neerbhardwaj.github.io/images/Merit.jpg" target="_blank">class picture</a> with my last batch at UIUC!
 
-* Twice ranked Excellent with <b>_Outstanding_</b> (top 10%) rating. 
+## Courses
+
+* Math 241, Calculus III (<a href="https://merit.illinois.edu/about-merit/" target="_blank">Merit</a>) 
+  : Fall 2021.
+  
+* Math 241, Calculus III
+  : Fall 2017, Fall 2019, Fall 2020.
+
+* Math 231, Calculus II
+  : Spring 2018, Spring 2019.
+
+* Math 221, Calculus I
+  : Fall 2018.
+
+Twice ranked Excellent with <b>_Outstanding_</b> (top 10%) rating. 
   : On the  <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> List of Teachers Ranked as Excellent</a> a total of four times. 
 
 
