@@ -12,6 +12,9 @@ author_profile: true
 Analytic Ax-Kochen-Ersov theory including induced structure results,
 : coming soon.
 
+<br>
+<br>
+
 ## <kbd id="Publications"><a href="#Publications" style="text-decoration: none; color: #326496">Publications</a></kbd>
 
 
