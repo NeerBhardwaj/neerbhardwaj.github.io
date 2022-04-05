@@ -12,7 +12,7 @@ author_profile: true
 Joint Mathematical Meetings 2022, [<a href="https://www.jointmathematicsmeetings.org/meetings/national/jmm2022/2268_program_ss131.html#title" target="_blank">website</a>]
  : <i> Seattle</i>, Apr 2022.
  
-* AMS sectional meeting: Model Theory Special session, [<a href="https://www.ams.org/meetings/sectional/2292_program_ss35.html#title" target="_blank">website</a>]
+AMS sectional meeting: Model Theory Special session, [<a href="https://www.ams.org/meetings/sectional/2292_program_ss35.html#title" target="_blank">website</a>]
  : <i>Purdue University</i>, Mar 2022. 
 
 University of Illinois at Urbana-Champaign, 
