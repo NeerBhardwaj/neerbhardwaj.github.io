@@ -3,6 +3,10 @@ title: ""
 permalink: /teaching/
 author_profile: true
 ---
+<script type="text/javascript"
+  src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js">
+ </script>
+
 
 A <a href="http://neerbhardwaj.github.io/images/Merit.jpg" target="_blank">class picture</a> with my last batch at UIUC!
 
