@@ -19,7 +19,7 @@ More precisely, recent work has been with o-minimality and its applications, and
 
 
 <br>
-`Email: neer.bhardwaj24 [at] gmail.com`
+`Email`: neer.bhardwaj24 [at] gmail.com
 
 <script type="text/javascript"
   src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js">
