@@ -7,12 +7,12 @@ author_profile: true
   src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js">
  </script>
 
-O-minimality and its applications; the algebra and model theory of valued fields. 
-
-## <kbd id="Papers"><a href="#Papers" style="text-decoration: none; color: #326496">Papers</a></kbd>
+## <kbd id="Preprints"><a href="#Preprints" style="text-decoration: none; color: #326496">Preprints</a></kbd>
 
 Analytic Ax-Kochen-Ersov theory including induced structure results,
-: in preparation.
+: coming soon.
+
+## <kbd id="Publications"><a href="#Publications" style="text-decoration: none; color: #326496">Publications</a></kbd>
 
 
 On the Pila-Wilkie theorem, [<a href="http://neerbhardwaj.github.io/files/On%20the%20Pila-Wilkie%20theorem.pdf" target="_blank">pdf</a>, <a href="https://arxiv.org/abs/2010.14046" target=_blank>arXiv</a>, <a href="https://doi.org/10.1016/j.exmath.2022.03.001" target="_blank">DOI</a>]
