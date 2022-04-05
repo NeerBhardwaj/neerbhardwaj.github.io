@@ -25,7 +25,7 @@ O-minimality and its applications; the algebra and model theory of valued fields
 
 ## Papers
 
-Ax-Kochen-Ersov theory for restricted analytic functions, including the induced structure on residue field and value group,
+Analytic Ax-Kochen-Ersov theory including induced structure results,
 : in preparation.
 
 
