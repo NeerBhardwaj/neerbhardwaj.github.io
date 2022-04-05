@@ -21,7 +21,7 @@ Email: neer.bhardwaj24 [at] gmail.com
 <br>
 ##  <kbd id="Research"><a href="#Research" style="text-decoration: none; color: #326496">Research</a></kbd>
 
-O-minimality and its applications; model theory of valued fields. 
+O-minimality and its applications; the algebra and model theory of valued fields. 
 
 ## Papers
 
