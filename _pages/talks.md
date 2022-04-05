@@ -9,7 +9,7 @@ author_profile: true
 </script>
 
 
-## Past Talks
+## <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Past Talks</a></kbd>
 
 Joint Mathematical Meetings 2022, [<a href="https://www.jointmathematicsmeetings.org/meetings/national/jmm2022/2268_program_ss131.html#title" target="_blank">website</a>]
  : <i> Seattle</i>, Apr 2022.
