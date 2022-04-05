@@ -18,7 +18,7 @@ I work broadly with the interactions of model theory with algebra and number the
 More precisely, recent work has been with o-minimality and its applications, and the algebra and model theory of valued fields.
 
 
-
+<br>
 `Email: neer.bhardwaj24 [at] gmail.com`
 
 <script type="text/javascript"
