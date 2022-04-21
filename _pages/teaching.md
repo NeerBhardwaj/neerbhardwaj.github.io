@@ -11,9 +11,6 @@ author_profile: true
 
 A <a href="http://neerbhardwaj.github.io/images/Merit.jpg" target="_blank">class picture</a> with my last batch at UIUC!
 
-* Featured on the  <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> List of Teachers Ranked as Excellent</a> four times. 
-  : Twice ranked Excellent with <b>_Outstanding_</b> (top 10%) rating. 
-
 Math 241, Calculus III (<a href="https://merit.illinois.edu/about-merit/" target="_blank">Merit</a>) 
   : Fall 2021.
   
@@ -25,6 +22,10 @@ Math 231, Calculus II
 
 Math 221, Calculus I
   : Fall 2018.
+  
+  
+* Featured on the  <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> List of Teachers Ranked as Excellent</a> four times. 
+  : Twice ranked Excellent with <b>_Outstanding_</b> (top 10%) rating.   
 
 
 
