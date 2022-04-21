@@ -23,10 +23,10 @@ Math 231, Calculus II
 Math 221, Calculus I
   : Fall 2018.
   
-<pre>  
+ 
 Featured on the  <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> List of Teachers Ranked as Excellent</a> four times.
-  : Twice ranked Excellent with <b>_Outstanding_</b> (top 10%) rating.
-</pre>
+  : `Twice ranked Excellent with <b>_Outstanding_</b> (top 10%) rating.`
+
 
 
 
