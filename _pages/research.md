@@ -10,7 +10,7 @@ author_profile: true
 ## <kbd id="Preprints"><a href="#Preprints" style="text-decoration: none; color: #326496">Preprints</a></kbd>
 
 Analytic Ax-Kochen-Ersov theory including induced structure results,
-: coming soon.
+: with Lou van den Dries, coming soon.
 
 <br>
 
