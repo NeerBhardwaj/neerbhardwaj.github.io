@@ -9,7 +9,7 @@ redirect_from:
 ---
 I will be starting a postdoctoral fellowship  at the Weizmann Institute of Science in Fall 2022, where I will work with <a href="https://binyamini.wordpress.com/" target="_blank">Gal Binyamini</a>.
 
-I recieved my PhD from the University of Illinois at Urbana-Champaign, where my advisor was <a href="https://math.illinois.edu/directory/profile/vddries" target="_blank">Lou van den Dries</a>. 
+I received my PhD from the University of Illinois at Urbana-Champaign, where my advisor was <a href="https://math.illinois.edu/directory/profile/vddries" target="_blank">Lou van den Dries</a>. 
         
 
 
