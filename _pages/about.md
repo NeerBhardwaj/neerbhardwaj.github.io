@@ -7,9 +7,11 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a mathematics doctoral candidate at UIUC. I am part of the <a href="https://math.illinois.edu/research/faculty-research/logic" target="_blank">Logic</a> group, and my advisor is <a href="https://math.illinois.edu/directory/profile/vddries" target="_blank">Lou van den Dries</a>. 
+I will be starting a postdoctoral fellowship  at the Weizmann Institute of Science in Fall 2022, where I will work with <a href="https://binyamini.wordpress.com/" target="_blank">Gal Binyamini</a>.
+
+I recieved my PhD from the University of Illinois at Urbana-Champaign, where my advisor was <a href="https://math.illinois.edu/directory/profile/vddries" target="_blank">Lou van den Dries</a>. 
         
-Before coming over to Illinois, I got my undergraduate degree from <a href="https://en.wikipedia.org/wiki/Indian_Institute_of_Technology_Kanpur" target="_blank"> IIT Kanpur</a>.
+
 
 ### Research
 
