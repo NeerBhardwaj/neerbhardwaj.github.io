@@ -11,10 +11,10 @@ author_profile: true
 
 ## <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Past</a></kbd>
 
-Joint Mathematical Meetings 2022,
+Joint Mathematical Meetings 2022,<sup>*</sup>
  : <a href="https://meetings.ams.org/math/jmm2022/meetingapp.cgi/Paper/7919" target="_blank"><i> ASL Special Session on Model-theoretic Classification Program</i></a>, Apr 2022.
  
-AMS Spring Central Sectional Meeting 2022,
+AMS Spring Central Sectional Meeting 2022,<sup>*</sup>
  : <a href="https://meetings.ams.org/math/spring2022c/meetingapp.cgi/Paper/12732" target="_blank"><i>Special Session on Model Theory and its Applications</i></a>, Mar 2022. 
 
 University of Illinois at Urbana-Champaign, 
