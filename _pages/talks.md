@@ -8,6 +8,13 @@ author_profile: true
   src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js">
 </script>
 
+## <kbd id="Talksi"><a href="#Talksi" style="text-decoration: none; color: #326496">Future</a></kbd>
+
+Mathematical Sciences Research Institute,
+ :  <a href="https://www.msri.org/seminars/26809" target="_blank"><i>DDC-II Seminar</i></a>, Aug 2022.
+
+Online Logic Seminar,
+ : <a href="http://lagrange.math.siu.edu/calvert/OnlineLogicSeminar.html" target="_blank"><i>Series link</i></a>, Sep 2022.
 
 ## <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Past</a></kbd>
 
