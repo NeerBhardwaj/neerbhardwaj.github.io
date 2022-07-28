@@ -16,6 +16,8 @@ Mathematical Sciences Research Institute,
 Online Logic Seminar,
  : <a href="http://lagrange.math.siu.edu/calvert/OnlineLogicSeminar.html" target="_blank"><i>Seminar series link</i></a>, Sep 2022.
 
+<br>
+
 ## <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Past</a></kbd>
 
 Joint Mathematical Meetings 2022,
