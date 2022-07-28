@@ -21,7 +21,7 @@ University of Illinois at Urbana-Champaign,
  : <a href="https://math.illinois.edu/academics/graduate-program/women-mathematics/seminars" target="_blank"><i>AWM Graduate Student Colloquium</i></a>, Feb 2022. 
 
 
-Fields Institute,<sup>*</sup>
+The Fields Institute,<sup>*</sup>
  : <a href="http://www.fields.utoronto.ca/talks/Pila-Wilkie-theorem" target="_blank"><i>Thematic Program on Tame Geometry, Transseries and Applications to Analysis and Geometry</i></a>, Feb 2022.
   
 University of Illinois at Chicago,
@@ -30,10 +30,10 @@ University of Illinois at Chicago,
 University of Leeds and Universidad de los Andes,<sup>*</sup>
  : <a href="http://www1.maths.leeds.ac.uk/~pmtpe/TDE/" target="_blank"><i>Topological and Differential Expansions of O-minimal Structures</i></a>, Aug 2021.
 
-Fields Institute,<sup>*</sup>
+The Fields Institute,<sup>*</sup>
  : <a href="http://www.fields.utoronto.ca/talks/Pila-Wilkie-Theorem" target="_blank"><i>Geometry and Model Theory Seminar</i></a>, Nov 2020.
 
-Mathematical Sciences Reserach Institute<sup>*</sup>
+Mathematical Sciences Research Institute<sup>*</sup>
  : <a href="https://www.msri.org/seminars/25170" target="_blank"><i>DDC: Diophantine Problems</i></a>, Oct 2020.
 
 Indraprastha Institute of Information Technology,
