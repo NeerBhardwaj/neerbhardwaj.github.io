@@ -33,7 +33,7 @@ University of Leeds and Universidad de los Andes,
 The Fields Institute,
  : <a href="http://www.fields.utoronto.ca/talks/Pila-Wilkie-Theorem" target="_blank"><i>Geometry and Model Theory Seminar</i></a>, Nov 2020<sup>*</sup>.
 
-Mathematical Sciences Research Institute
+Mathematical Sciences Research Institute,
  : <a href="https://www.msri.org/seminars/25170" target="_blank"><i>DDC: Diophantine Problems</i></a>, Oct 2020<sup>*</sup>.
 
 Indraprastha Institute of Information Technology,
