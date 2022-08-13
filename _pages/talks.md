@@ -19,7 +19,7 @@ Online Logic Seminar,
 
 ## <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Past</a></kbd>
 
-Mathematical Sciences Research Institute,
+Simons Laufer Mathematical Sciences Institute,
  :  <a href="https://www.msri.org/seminars/26809" target="_blank"><i>DDC-II Seminar</i></a>, Aug 2022<sup>*</sup>.
 
 Joint Mathematical Meetings 2022,
