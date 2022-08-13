@@ -82,12 +82,12 @@ analytics:
 author:
   name             : 
   avatar           : "UIUC directory.png" #"phily_5.jpg"
-  bio              : "PhD, Mathematics"
-  location         : "University of Illinois"
-  employer         : "Urbana, IL"
+  bio              : #"PhD, Mathematics"
+  location         : #"University of Illinois"
+  employer         : #"Urbana, IL"
   pubmed           : 
   googlescholar    : 
-  email            : nbhard4@illinois.edu
+  email            : nbhardwaj@msri.org
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
