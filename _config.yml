@@ -87,8 +87,8 @@ author:
   employer         : #"Urbana, IL"
   pubmed           : 
   googlescholar    : 
-  email            : nbhardwaj@msri.org
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  email            : # nbhardwaj@msri.org
+  researchgate     : # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
   codepen          :
