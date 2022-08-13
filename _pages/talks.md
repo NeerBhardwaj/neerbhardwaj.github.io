@@ -10,8 +10,7 @@ author_profile: true
 
 ## <kbd id="Talksi"><a href="#Talksi" style="text-decoration: none; color: #326496">Future</a></kbd>
 
-Mathematical Sciences Research Institute,
- :  <a href="https://www.msri.org/seminars/26809" target="_blank"><i>DDC-II Seminar</i></a>, Aug 2022.
+
 
 Online Logic Seminar,
  : <a href="http://lagrange.math.siu.edu/calvert/OnlineLogicSeminar.html" target="_blank"><i>Seminar series link</i></a>, Sep 2022.
@@ -19,6 +18,9 @@ Online Logic Seminar,
 <br>
 
 ## <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Past</a></kbd>
+
+Mathematical Sciences Research Institute,
+ :  <a href="https://www.msri.org/seminars/26809" target="_blank"><i>DDC-II Seminar</i></a>, Aug 2022.
 
 Joint Mathematical Meetings 2022,
  : <a href="https://meetings.ams.org/math/jmm2022/meetingapp.cgi/Paper/7919" target="_blank"><i> ASL Special Session on Model-theoretic Classification Program</i></a>, Apr 2022<sup>*</sup>.
