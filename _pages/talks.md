@@ -20,7 +20,7 @@ Online Logic Seminar,
 ## <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Past</a></kbd>
 
 Mathematical Sciences Research Institute,
- :  <a href="https://www.msri.org/seminars/26809" target="_blank"><i>DDC-II Seminar</i></a>, Aug 2022.
+ :  <a href="https://www.msri.org/seminars/26809" target="_blank"><i>DDC-II Seminar</i></a>, Aug 2022<sup>*</sup>.
 
 Joint Mathematical Meetings 2022,
  : <a href="https://meetings.ams.org/math/jmm2022/meetingapp.cgi/Paper/7919" target="_blank"><i> ASL Special Session on Model-theoretic Classification Program</i></a>, Apr 2022<sup>*</sup>.
