@@ -20,7 +20,7 @@ I am interested in the interactions of model theory with algebra and number theo
 More precisely, recent work has been with o-minimality and its applications, and the algebra and model theory of valued fields.
 
 <br>
-`Email:` neer.bhardwaj [at] weizmann.ac.il, 
+`Email:` neer.bhardwaj [at] weizmann.ac.il, <br>
          nbhardwaj [at] msri.org
 <br>
 <script type="text/javascript"
