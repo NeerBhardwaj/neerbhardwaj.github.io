@@ -21,7 +21,7 @@ More precisely, recent work has been with o-minimality and its applications, and
 
 <br>
 `Email:` neer.bhardwaj [at] weizmann.ac.il <br>
- &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; nbhardwaj [at] msri.org
+ &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp;  &nbsp; &nbsp; &nbsp; nbhardwaj [at] msri.org
 <br>
 <script type="text/javascript"
   src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js">
