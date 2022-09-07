@@ -9,7 +9,7 @@ author_profile: true
 
 ## <kbd id="Preprints"><a href="#Preprints" style="text-decoration: none; color: #326496">Preprints</a></kbd>
 
-Analytic Ax-Kochen-Ersov theory including induced structure on coefficient field and monomial group.
+Analytic Ax-Kochen-Ersov theory including induced structure results on coefficient field and monomial group.
 : with Lou van den Dries, coming soon.
 > We develop an extension theory for analytic valuation rings in order  to establish Ax-Kochen-Ersov type results for these structures. New is that we can add in salient cases lifts of the residue field and the value group and show that the induced structure on the lifted residue field is just its field structure, and on the lifted value group is just its ordered abelian group structure. This restores an analogy with the non-analytic AKE-setting that was missing in earlier treatments of analytic AKE-theory. 
 
