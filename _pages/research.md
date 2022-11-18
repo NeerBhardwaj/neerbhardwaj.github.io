@@ -34,7 +34,7 @@ The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free.
 ## <kbd id="Dissertation"><a href="#Dissertation" style="text-decoration: none; color: #326496">Dissertation</a></kbd>
 
 The Pila-Wilkie theorem and analytic Ax-Kochen-Ersov theory.
-: University of Illinois at Urbana-Champaign (2022). [<a href="https://neerbhardwaj.github.io/files/Thesis.pdf" target="_blank">pdf</a>, <a href="https://www.ideals.illinois.edu/items/125298" target="_blank">DOI</a>]
+: University of Illinois at Urbana-Champaign (2022). [<a href="https://neerbhardwaj.github.io/files/Thesis.pdf" target="_blank">pdf</a>, <a href="[https://www.ideals.illinois.edu/items/125298](https://hdl.handle.net/2142/116173)" target="_blank">DOI</a>]
 
 
 
