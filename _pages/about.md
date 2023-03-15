@@ -8,6 +8,7 @@ redirect_from:
   - /about.html
 ---
 I am a postdoc at the Weizmann Institute of Science, where I work with <a href="https://binyamini.wordpress.com/" target="_blank">Gal Binyamini</a>.
+{: .notice}
 
 I got my PhD from the University of Illinois at Urbana-Champaign. Advisor: <a href="https://math.illinois.edu/directory/profile/vddries" target="_blank">Lou van den Dries</a>. 
         
@@ -35,12 +36,11 @@ More precisely, recent work has been with o-minimality and its applications, and
  * `Arizona Winter School 2023: Unlikely Intersections; University of Arizona (March 2023)`
  * `The 23rd Midrasha Mathematicae: o-minimality and its applications in diophantine geometry and Hodge theory; Israel Institute for Advanced Studies, The Hebrew University of Jerusalem (December 2022)`
  * `Definability, Decidability, and Computability in Number Theory, part II; Simons Laufer Mathematical Sciences Institute (July -- August 2022)`
- * `Tame Geometry, Transseries and Applications to Analysis and Geometry; Fields Institute (June 2022)`
+ * `Thematic Program on Tame Geometry, Transseries and Applications to Analysis and Geometry; Fields Institute (June 2022)`
  * `ASL special session on Model-theoretic Classification Program; Joint Mathematical Meetings (April 2022) (virtual)`
- * Special session on Model Theory and its Applications; AMS Spring Central Sectional Meeting (March 2022) (virtual)
- * ASL North American Annual Meeting; Western Illinois University (May 2019)
- {: .notice}
-
+ * `Special session on Model Theory and its Applications; AMS Spring Central Sectional Meeting (March 2022) (virtual)`
+ * `ASL North American Annual Meeting; Western Illinois University (May 2019)`
+ 
 <!-- * Sparsity of Algebraic Points; Mathematical Sciences Research Institute (June 2021) (virtual)
  * Graduate Student Conference in Logic XXII; University of Illinois at Urbana-Champaign (March 2021) (virtual)
  * Graduate Student Conference in Logic XIX; University of Wisconsin at Madison (March 2018)-->
