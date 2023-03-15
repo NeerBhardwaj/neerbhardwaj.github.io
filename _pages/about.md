@@ -40,9 +40,9 @@ You may have met me at...
  * Special Session on Model Theory and its Applications; AMS Spring Central Sectional Meeting 2022 (March 2022) (virtual)
  * ASL North American Annual Meeting; Western Illinois University (May 2019)
 
-/* * Sparsity of Algebraic Points; Mathematical Sciences Research Institute (June 2021) (virtual)
+<!-- * Sparsity of Algebraic Points; Mathematical Sciences Research Institute (June 2021) (virtual)
  * Graduate Student Conference in Logic XXII; University of Illinois at Urbana-Champaign (March 2021) (virtual)
- * Graduate Student Conference in Logic XIX; University of Wisconsin at Madison (March 2018) */
+ * Graduate Student Conference in Logic XIX; University of Wisconsin at Madison (March 2018)-->
  
 
 
