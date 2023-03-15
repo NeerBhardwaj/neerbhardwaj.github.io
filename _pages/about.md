@@ -15,7 +15,7 @@ I got my PhD from the University of Illinois at Urbana-Champaign. Advisor: <a hr
 
 ### Research
 
-I am interested in the variations and analogues of the Pila-Wilkie Counting Theorem, and pursuing subsequent applications, both in the Archimedean and non-Archimedean settings.
+I am interested in the variations and analogues of the Pila-Wilkie Counting Theorem, and pursuing subsequent applications, both in the Archimedean and non-Archimedean contexts.
 
 My work involves ideas and tools from arithmetic, algebra, complex analysis, geometry, o-minimality, and the model theory of valued fiels.
 
