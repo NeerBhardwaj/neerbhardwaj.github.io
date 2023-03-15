@@ -26,6 +26,12 @@ More precisely, recent work has been with o-minimality and its applications, and
   src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js"> 
  </script>
  
+ 
+<br>
+<br>
+<br>
+<br>
+
 ### You may have met me at...
  
  * Arizona Winter School 2023: Unlikely Intersections; University of Arizona (March 2023)
