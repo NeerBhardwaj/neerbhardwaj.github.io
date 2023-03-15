@@ -34,7 +34,7 @@ You may have met me at...
  : * Arizona Winter School 2023: Unlikely Intersections; University of Arizona (March 2023)
  * The 23rd Midrasha Mathematicae: o-minimality and its applications in diophantine geometry and Hodge theory; Israel Institute for Advanced Studies, The Hebrew University of Jerusalem (December 2022)
  * Definability, Decidability, and Computability in Number Theory, part II; Simons Laufer Mathematical Sciences Institute (July -- August 2022)
- * Thematic Program on Tame Geometry, Transseries and Applications to Analysis & Geometry; Fields Institute (June 2022)
+ * Tame Geometry, Transseries and Applications to Analysis & Geometry; Fields Institute (June 2022)
  * ASL special session on Model-theoretic Classification Program; Joint Mathematical Meetings (April 2022) (virtual)
  * Special session on Model Theory and its Applications; AMS Spring Central Sectional Meeting (March 2022) (virtual)
  * ASL North American Annual Meeting; Western Illinois University (May 2019)
