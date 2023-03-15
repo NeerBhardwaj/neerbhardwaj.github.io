@@ -23,8 +23,22 @@ More precisely, recent work has been with o-minimality and its applications, and
 `Email:` &nbsp; neer.bhardwaj [at] weizmann.ac.il,  &nbsp;   nbhardwaj [at] msri.org.
 <br>
 <script type="text/javascript"
-  src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js">
+  src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js"> 
  </script>
+ 
+ ### You may have met me at...
+ 
+ * Arizona Winter School 2023: Unlikely Intersections; University of Arizona (March 2023)
+ * The 23rd Midrasha Mathematicae: o-minimality and its applications in diophantine geometry and Hodge theory; Israel Institute for Advanced Studies, The Hebrew University of Jerusalem (December 2022)
+ * Definability, Decidability, and Computability in Number Theory, part II; Simons Laufer Mathematical Sciences Institute (July -- August 2022)
+ * Thematic Program on Tame Geometry, Transseries and Applications to Analysis and Geometry; Fields Institute (June 2022)
+ * Sparsity of Algebraic Points; Mathematical Sciences Research Institute (June 2021) (virtual)
+ * Special Session on Model Theory and its Applications; AMS Spring Central Sectional Meeting 2022 (March 2022) (virtual)
+ * ASL Special Session on Model-theoretic Classification Program; Joint Mathematical Meetings 2022 (April 2022) (virtual)
+ * Graduate Student Conference in Logic XXII; University of Illinois at Urbana-Champaign (March 2021) (virtual)
+ * ASL North American Annual Meeting; Western Illinois University (May 2019)
+ * Graduate Student Conference in Logic XIX; University of Wisconsin at Madison (March 2018)
+ 
 
 
 
