@@ -15,10 +15,11 @@ I got my PhD from the University of Illinois at Urbana-Champaign. Advisor: <a hr
 
 ### Research
 
-I am interested in the interactions of model theory with algebra and number theory. 
+I am interested in the variations and analogues of the Pila-Wilkie Counting Theorem, the and pursuing subsequent applications, both in the Archimedean and non-Archimedean settings.
+My work involves ideas and tools from arithmetic, algebra, complex analysis, geometry, o-minimality and 
+<!-- I am interested in the interactions of model theory with algebra and number theory. 
 
-
-More precisely, recent work has been with o-minimality and its applications, and the algebra and model theory of valued fields.
+More precisely, recent work has been with o-minimality and its applications, and the algebra and model theory of valued fields.-->
 
 <br>
 `Email:` &nbsp; neer.bhardwaj [at] weizmann.ac.il,  &nbsp;   nbhardwaj [at] msri.org.
@@ -35,8 +36,7 @@ More precisely, recent work has been with o-minimality and its applications, and
 
  * `Arizona Winter School 2023: Unlikely Intersections; University of Arizona (March 2023)`
  
- * The 23rd Midrasha Mathematicae: o-minimality and its applications in diophantine geometry and Hodge theory; Israel Institute for Advanced Studies, The Hebrew University of Jerusalem (December 2022)
-{: .notice}
+ * The 23rd Midrasha Mathematicae: o-minimality and its applications in diophantine geometry and Hodge theory; Israel Institute for Advanced Studies, The Hebrew University of Jerusalem (December 2022) {: .notice}
 
  * `Definability, Decidability, and Computability in Number Theory, part II; Simons Laufer Mathematical Sciences Institute (July -- August 2022)`
  * `Thematic Program on Tame Geometry, Transseries and Applications to Analysis and Geometry; Fields Institute (June 2022)`
