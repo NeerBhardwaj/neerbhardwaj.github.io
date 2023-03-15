@@ -17,6 +17,7 @@ I got my PhD from the University of Illinois at Urbana-Champaign. Advisor: <a hr
 ### Research
 
 I am interested in the interactions of model theory with algebra and number theory. 
+{: .notice}
 
 More precisely, recent work has been with o-minimality and its applications, and the algebra and model theory of valued fields.
 
