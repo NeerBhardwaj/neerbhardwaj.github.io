@@ -17,8 +17,7 @@ author_profile: true
 
 ## <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Past</a></kbd>
 
-Géométrie et Théorie des Modèles Seminar,
-  : Jun '23.
+### Géométrie et Théorie des Modèles Seminar, Jun '23.
 
 Logic Colloquium,
  : Jun '23.
@@ -62,6 +61,6 @@ Indraprastha Institute of Information Technology,
 
 
 <br>
-`* --> recordings available.`
+`* recordings available.`
 
 -->
