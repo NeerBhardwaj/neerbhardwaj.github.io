@@ -27,12 +27,10 @@ author_profile: true
 | | online | Joint Mathematical Meetings|
 | | online | AMS Spring Central Sectional Meeting|
 | | The Fields Institute| Thematic Program on Tame Geometry [<a href="http://www.fields.utoronto.ca/talks/Pila-Wilkie-theorem" target="_blank">rec</a>]|
-| | | |
+| 2021 | University of Illinois at Chicago| Logic Seminar|
+| | University of Leeds and Universidad de los Andes (online)| Topological and Differential Expansions of o-minimal Structures Seminar [<a href="http://www1.maths.leeds.ac.uk/~pmtpe/TDE/" target="_blank">rec</a>] |
 
-### Géométrie et Théorie des Modèles Seminar, Jun '23.
 
-Logic Colloquium,
- : Jun '23.
 
 
 <!--
