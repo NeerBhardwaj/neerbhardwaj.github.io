@@ -44,7 +44,7 @@ More precisely, recent work has been with o-minimality and its applications, and
  * `Logic Colloquium (June 2023)`
  * `Model theory of valued fields; CIRM (May 2023)`
  * `Arizona Winter School 2023: Unlikely Intersections (March 2023)`
- * `The 23rd Midrasha Mathematicae: o-minimality and its applications (December 2022)`
+ * `The 23rd Midrasha Mathematicae: O-minimality and its applications (December 2022)`
  * `DDC part II; Simons Laufer Mathematical Sciences Institute (July -- August 2022)`
  * `Thematic Program on Tame Geometry; Fields Institute (June 2022)`
  * `Joint Mathematical Meetings (April 2022) (virtual)`
