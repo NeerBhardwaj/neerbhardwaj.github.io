@@ -35,7 +35,6 @@ More precisely, recent work has been with o-minimality and its applications, and
   src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js"> 
  </script>
   
-<br>
 
 ### You may have met me at...
 
