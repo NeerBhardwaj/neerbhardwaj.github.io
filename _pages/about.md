@@ -36,7 +36,6 @@ More precisely, recent work has been with o-minimality and its applications, and
  
  
 <br>
-<br>
 
 ### You may have met me at...
 
