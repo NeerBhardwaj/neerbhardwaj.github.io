@@ -17,9 +17,9 @@ author_profile: true
 
 <!-- ## <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Past</a></kbd>-->
 
-| Event                                | Place   |    Year                                 |
+| Year    | Host                      |    Event                                 |
 | --------         | ------ | ------------------------------------------------------------ |
-| Logic Colloquium    | Milan     | 2023                         |
+| 2023    | University of Milan       | Logic Colloquium                         |
 | [Jane Doe](#)    | 2019   | Description of the item in the list                          |
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 
