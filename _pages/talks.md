@@ -17,9 +17,9 @@ author_profile: true
 
 <!-- ## <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Past</a></kbd>-->
 
-| Entry            | Item   |                                                              |
+| Event                                | Place   |    Year                                 |
 | --------         | ------ | ------------------------------------------------------------ |
-| [John Doe](#)    | 2016     | Description of the item in the list                          |
+| Logic Colloquium    | Milan     | 2023                         |
 | [Jane Doe](#)    | 2019   | Description of the item in the list                          |
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
 
