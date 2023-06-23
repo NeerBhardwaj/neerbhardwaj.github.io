@@ -17,18 +17,18 @@ author_profile: true
 
 <!-- ## <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Past</a></kbd>-->
 
-| Year    | Host                      |    Event                                 |
+| Year    | Host                             |    Event                                 |
 | --------         | ------ | ------------------------------------------------------------ |
 | 2023 | University of Manchester | Model theory and related topics|
 |      | Sorbonne University | Géométrie et Théorie des Modèles Seminar|
 |     | University of Milan       | Logic Colloquium                         |
 | 2022 | online   | Online Logic Seminar                          |
-| | Simons Laufer Mathematical Sciences Institute| DDC-II Seminar [<a href="https://www.msri.org/seminars/26809" target="_blank">rec</a>]|
+| | SL Mathematical Sciences Institute| DDC-II Seminar [<a href="https://www.msri.org/seminars/26809" target="_blank">rec</a>]|
 | | online | Joint Mathematical Meetings|
 | | online | AMS Spring Central Sectional Meeting|
 | | The Fields Institute| Thematic Program on Tame Geometry [<a href="http://www.fields.utoronto.ca/talks/Pila-Wilkie-theorem" target="_blank">rec</a>]|
 | 2021 | University of Illinois at Chicago| Logic Seminar|
-| | University of Leeds and Universidad de los Andes (online)| Topological and Differential Expansions of o-minimal Structures Seminar [<a href="http://www1.maths.leeds.ac.uk/~pmtpe/TDE/" target="_blank">rec</a>] |
+| | University of Leeds and Universidad de los Andes (online)| TDE Seminar [<a href="http://www1.maths.leeds.ac.uk/~pmtpe/TDE/" target="_blank">rec</a>] |
 
 
 
