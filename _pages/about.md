@@ -51,7 +51,8 @@ More precisely, recent work has been with o-minimality and its applications, and
  * `AMS Spring Central Sectional Meeting (March 2022) (virtual)`
  * `ASL North American Annual Meeting (May 2018)`
 
- <!-- * `Arizona Winter School 2023: Unlikely Intersections; University of Arizona (March 2023)`
+ <!-- 
+ * `Arizona Winter School 2023: Unlikely Intersections; University of Arizona (March 2023)`
  * `The 23rd Midrasha Mathematicae: o-minimality and its applications in diophantine geometry and Hodge theory; Israel Institute for Advanced Studies (December 2022)`
  * `Definability, Decidability, and Computability in Number Theory, part II; Simons Laufer Mathematical Sciences Institute (July -- August 2022)`
  * `Thematic Program on Tame Geometry, Transseries and Applications to Analysis and Geometry; Fields Institute (June 2022)`
