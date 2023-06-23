@@ -40,16 +40,16 @@ More precisely, recent work has been with o-minimality and its applications, and
 
 ### You may have met me at...
 
- * `Model theory and related topics; University of Manchester (July 2023)`
- * `Logic Colloquium (June 2023)`
- * `Model theory of valued fields; CIRM (May 2023)`
- * `Arizona Winter School 2023: Unlikely Intersections (March 2023)`
- * `The 23rd Midrasha Mathematicae: O-minimality and its applications (December 2022)`
- * `DDC part II; Simons Laufer Mathematical Sciences Institute (July -- August 2022)`
- * `Thematic Program on Tame Geometry; Fields Institute (June 2022)`
- * `Joint Mathematical Meetings (April 2022) (virtual)`
- * `AMS Spring Central Sectional Meeting (March 2022) (virtual)`
- * `ASL North American Annual Meeting (May 2018)`
+ * `Model theory and related topics; University of Manchester (Jul '23)`
+ * `Logic Colloquium (Jun '23)`
+ * `Model theory of valued fields; CIRM (May '23)`
+ * `Arizona Winter School 2023: Unlikely Intersections (Mar '23)`
+ * `The 23rd Midrasha Mathematicae: O-minimality and its applications (Dec '22)`
+ * `DDC part II; Simons Laufer Mathematical Sciences Institute (Aug '22)`
+ * `Thematic Program on Tame Geometry; Fields Institute (Jun '22)`
+ * `Joint Mathematical Meetings (Apr '22) (virtual)`
+ * `AMS Spring Central Sectional Meeting (Mar '22) (virtual)`
+ * `ASL North American Annual Meeting (May '18)`
 
 <!-- 
  `* `Arizona Winter School 2023: Unlikely Intersections; University of Arizona (March 2023)`
