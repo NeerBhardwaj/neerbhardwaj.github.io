@@ -22,8 +22,12 @@ author_profile: true
 | 2023 | University of Manchester | Model theory and related topics|
 |      | Sorbonne University | Géométrie et Théorie des Modèles Seminar|
 |     | University of Milan       | Logic Colloquium                         |
-| 2022    | online   | Online Logic Seminar                          |
-|     | Simons Laufer Mathematical Sciences Institute| DDC-II Seminar [<a href="https://www.msri.org/seminars/26809" target="_blank">rec</a>]                      |
+| 2022 | online   | Online Logic Seminar                          |
+| | Simons Laufer Mathematical Sciences Institute| DDC-II Seminar [<a href="https://www.msri.org/seminars/26809" target="_blank">rec</a>]|
+| | online | Joint Mathematical Meetings|
+| | online | AMS Spring Central Sectional Meeting|
+| | The Fields Institute| Thematic Program on Tame Geometry [<a href="http://www.fields.utoronto.ca/talks/Pila-Wilkie-theorem" target="_blank">rec</a>]|
+| | | |
 
 ### Géométrie et Théorie des Modèles Seminar, Jun '23.
 
