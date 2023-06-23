@@ -17,7 +17,7 @@ author_profile: true
 
 <!-- ## <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Past</a></kbd>-->
 
-| Year    | Host                             |    Event                                 |
+| Year    | Host                       |    Event                                 |
 | --------         | ------ | ------------------------------------------------------------ |
 | 2023 | University of Manchester | Model theory and related topics|
 |      | Sorbonne University | Géométrie et Théorie des Modèles Seminar|
@@ -41,7 +41,7 @@ author_profile: true
  Online Logic Seminar,
  : <a href="http://lagrange.math.siu.edu/calvert/OnlineLogicSeminar.html" target="_blank"><i>Seminar series link</i></a>, Sep 2022.
 
-Simons Laufer Mathematical Sciences Institute,
+SLMath (MSRI),
  :  <a href="https://www.msri.org/seminars/26809" target="_blank"><i>DDC-II Seminar</i></a>, Aug 2022<sup>*</sup>.
 
 Joint Mathematical Meetings 2022,
@@ -66,7 +66,7 @@ University of Leeds and Universidad de los Andes,
 The Fields Institute,
  : <a href="http://www.fields.utoronto.ca/talks/Pila-Wilkie-Theorem" target="_blank"><i>Geometry and Model Theory Seminar</i></a>, Nov 2020<sup>*</sup>.
 
-Mathematical Sciences Research Institute,
+MSRI,
  : <a href="https://www.msri.org/seminars/25170" target="_blank"><i>DDC: Diophantine Problems</i></a>, Oct 2020<sup>*</sup>.
 
 Indraprastha Institute of Information Technology,
