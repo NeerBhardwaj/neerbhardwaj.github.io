@@ -22,7 +22,7 @@ author_profile: true
 | 2023 | University of Manchester | Model theory and related topics|
 |      | Sorbonne University | Géométrie et Théorie des Modèles Seminar|
 |     | University of Milan       | Logic Colloquium                         |
-| 2022 | `virtual`   | Online Logic Seminar                          |
+| 2022 | <kbd>virtual</kbd>   | Online Logic Seminar                          |
 | | SLMath (MSRI)| DDC-II Seminar [<a href="https://www.msri.org/seminars/26809" target="_blank">rec</a>]|
 | | `virtual`  | Joint Mathematical Meetings|
 | | `virtual`  | AMS Spring Central Sectional Meeting|
