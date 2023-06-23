@@ -18,12 +18,15 @@ author_profile: true
 ## <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Past</a></kbd>
 
 Géométrie et Théorie des Modèles Seminar,
-  : Paris. 
+  : Jun '23.
 
-Logic Colloquium 2023,
- : <a href="[http://lagrange.math.siu.edu/calvert/OnlineLogicSeminar.html](https://lc2023.unimi.it/)" target="_blank"><i>Milan</i></a>, Jun 2023.
+Logic Colloquium,
+ : Jun '23.
 
-Online Logic Seminar,
+
+<!--
+ 
+ Online Logic Seminar,
  : <a href="http://lagrange.math.siu.edu/calvert/OnlineLogicSeminar.html" target="_blank"><i>Seminar series link</i></a>, Sep 2022.
 
 Simons Laufer Mathematical Sciences Institute,
@@ -60,3 +63,5 @@ Indraprastha Institute of Information Technology,
 
 <br>
 `* --> recordings available.`
+
+-->
