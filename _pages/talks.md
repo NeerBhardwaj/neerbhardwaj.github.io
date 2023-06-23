@@ -23,14 +23,14 @@ author_profile: true
 |      | Sorbonne University | Géométrie et Théorie des Modèles Seminar|
 |     | University of Milan       | Logic Colloquium                         |
 | 2022 | `virtual` | Online Logic Seminar                          |
-| | SLMath (MSRI)| DDC-II Seminar [<a href="https://www.msri.org/seminars/26809" target="_blank">rec</a>]|
+| | SLMath/MSRI| DDC-II Seminar [<a href="https://www.msri.org/seminars/26809" target="_blank">rec</a>]|
 | | `virtual`  | Joint Mathematical Meetings|
 | |   | AMS Spring Central Sectional Meeting|
 | | The Fields Institute| Thematic Program on Tame Geometry [<a href="http://www.fields.utoronto.ca/talks/Pila-Wilkie-theorem" target="_blank">rec</a>]|
 | 2021 | University of Illinois at Chicago| Logic Seminar|
 | | University of Leeds| TDE Seminar [<a href="http://www1.maths.leeds.ac.uk/~pmtpe/TDE/" target="_blank">rec</a>] |
 |2020 |The Fields Institute |Geometry and Model Theory Seminar [<a href="http://www.fields.utoronto.ca/talks/Pila-Wilkie-Theorem" target="_blank">rec</a>]|
-| | SLMath (MSRI)| DDC: Diophantine Problems [<a href="https://www.msri.org/seminars/25170" target="_blank">rec</a>]|
+| | SLMath/MSRI| DDC: Diophantine Problems [<a href="https://www.msri.org/seminars/25170" target="_blank">rec</a>]|
 | 2019| IIIT Delhi| Mathematics Seminar|
 
 
