@@ -17,12 +17,12 @@ author_profile: true
 
 <!-- ## <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Past</a></kbd>-->
 
-| Year    | Host                         |    Event                                 |
+| Year    | Host                            |    Event                                 |
 | --------         | ------ | ------------------------------------------------------------ |
 | 2023 | University of Manchester | Model theory and related topics|
 |      | Sorbonne University | Géométrie et Théorie des Modèles Seminar|
 |     | University of Milan       | Logic Colloquium                         |
-| 2022 | <kbd>virtual</kbd>   | Online Logic Seminar                          |
+| 2022 | `virtual`   | Online Logic Seminar                          |
 | | SLMath (MSRI)| DDC-II Seminar [<a href="https://www.msri.org/seminars/26809" target="_blank">rec</a>]|
 | | `virtual`  | Joint Mathematical Meetings|
 | | `virtual`  | AMS Spring Central Sectional Meeting|
