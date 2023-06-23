@@ -19,6 +19,7 @@ author_profile: true
 
 | Year    | Host                      |    Event                                 |
 | --------         | ------ | ------------------------------------------------------------ |
+|  2023    | Sorbonne University | Géométrie et Théorie des Modèles Seminar|
 | 2023    | University of Milan       | Logic Colloquium                         |
 | [Jane Doe](#)    | 2019   | Description of the item in the list                          |
 | [Doe Doe](#)     | 2022   | Description of the item in the list                          |
