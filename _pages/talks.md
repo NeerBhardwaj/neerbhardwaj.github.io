@@ -17,7 +17,7 @@ author_profile: true
 
 <!-- ## <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Past</a></kbd>-->
 
-| Year    | Host                        |    Event                                 |
+| Year    | Host                         |    Event                                 |
 | --------         | ------ | ------------------------------------------------------------ |
 | 2023 | University of Manchester | Model theory and related topics|
 |      | Sorbonne University | Géométrie et Théorie des Modèles Seminar|
