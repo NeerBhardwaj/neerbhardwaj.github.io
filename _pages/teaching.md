@@ -7,10 +7,7 @@ author_profile: true
   src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js">
  </script>
 
-## <kbd id="TeachUIUC"><a href="#TeachUIUC" style="text-decoration: none; color: #326496">UIUC</a></kbd>
-
-Four times on the list of teachers <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> Ranked as Excellent</a>.
-  : Twice ranked Excellent with <b>_Outstanding_</b> (top 10%) rating. 
+## <kbd id="TeachUIUC"><a href="#TeachUIUC" style="text-decoration: none; color: #326496">UIUC</a></kbd> 
   
 <pre>
 + Fall 2021   | Math 241, Calculus III (<a href="https://merit.illinois.edu/about-merit/" target="_blank">Merit</a>)
@@ -22,6 +19,9 @@ Four times on the list of teachers <a href="https://citl.illinois.edu/citl-101/m
 + Fall 2017   | Math 241, Calculus III 
 </pre>
 
+Four times on the list of teachers <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> Ranked as Excellent</a>.
+  : Twice ranked Excellent with <b>_Outstanding_</b> (top 10%) rating.
+  
 A <a href="http://neerbhardwaj.github.io/images/Merit.jpg" target="_blank">class picture</a> with my last batch at UIUC! 
 
   
