@@ -17,7 +17,7 @@ I got my PhD from the University of Illinois at Urbana-Champaign. Advisor: <a hr
 
 My research involves an interplay of ideas from algebra, model theory, and number theory.
 
-More precisely, I work on developing counting strategies using ideas from arithmetic, complex analysis, o-minimality, and the model theory of valued fields, and pursuing ensuing applications.
+More precisely, I work on developing counting strategies using ideas from arithmetic, complex analysis, o-minimality, and model theory of valued fields, and pursuing ensuing applications.
 
 <!--  my work revolves around the variations and analogues of the Pila-Wilkie Counting Theorem, both in the Archimedean and non-Archimedean contexts, and pursing the subse applications from such results.
 
