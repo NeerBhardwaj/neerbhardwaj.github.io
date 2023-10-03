@@ -22,7 +22,7 @@ author_profile: true
 + Fall 2017   | Math 241, Calculus III 
 </pre>
 
-With my last <a href="http://neerbhardwaj.github.io/images/Merit.jpg" target="_blank"> batch </a>  at UIUC! 
+With my last <a href="http://neerbhardwaj.github.io/images/Merit.jpg" target="_blank">batch</a> at UIUC! 
 
   
 
