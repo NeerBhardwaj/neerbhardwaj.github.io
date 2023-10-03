@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /teaching/
+permalink: /teaching0/
 author_profile: true
 ---
 <script type="text/javascript"
