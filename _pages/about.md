@@ -13,7 +13,7 @@ I got my PhD from the University of Illinois at Urbana-Champaign. Advisor: <a hr
         
 
 
-### Research Interests
+### Interests
 
 My research involves an interplay of ideas from algebra, model theory, and number theory.
 
