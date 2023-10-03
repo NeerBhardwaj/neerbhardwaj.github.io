@@ -11,7 +11,7 @@ author_profile: true
 
 * Fall 2021 &emsp;&nbsp; \| Math 241, Calculus III (<a href="https://merit.illinois.edu/about-merit/" target="_blank">Merit</a>)
 * Fall 2021 &emsp;&nbsp; \| Math 241, Calculus III
-* Fall 2019 &emsp;&nbsp; \| Math 241, Calculus III
+* Fall 2019 &emsp;&ensp; \| Math 241, Calculus III
 * Spring 2019 &nbsp;\| Math 231, Calculus II
 * Fall 2018 &emsp;&nbsp; \| Math 221, Calculus I 
 * Spring 2018 &nbsp;\| Math 231, Calculus II 
