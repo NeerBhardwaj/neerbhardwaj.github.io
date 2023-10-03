@@ -9,7 +9,7 @@ author_profile: true
 
 ## <kbd id="TeachUIUC"><a href="#TeachUIUC" style="text-decoration: none; color: #326496">UIUC</a></kbd> 
 
-Four times on the list of teachers <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> Ranked as Excellent</a>.
+<a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> Ranked Excellent</a> four times.
   : Twice ranked Excellent with <b>_Outstanding_</b> (top 10%) rating.
   
 <pre>
