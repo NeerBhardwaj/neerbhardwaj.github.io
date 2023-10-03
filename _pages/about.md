@@ -15,7 +15,7 @@ I got my PhD from the University of Illinois at Urbana-Champaign. Advisor: <a hr
 
 ### Research
 
-My work involves an interplay of ideas from algebra, model theory and number theory.
+My work involves an interplay of ideas from algebra, model theory, and number theory.
 
 More precisely, I am interested in developing counting strategies using ideas from arithmetic, complex analysis, o-minimality, model theory of valued fields; and pursuing ensuing applications.
 
