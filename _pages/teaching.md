@@ -9,8 +9,8 @@ author_profile: true
 
 ## <kbd id="TeachUIUC"><a href="#TeachUIUC" style="text-decoration: none; color: #326496">UIUC</a></kbd>
 
-* Fall 2021 &emsp; \| Math 241, Calculus III (<a href="https://merit.illinois.edu/about-merit/" target="_blank">Merit</a>)
-* Fall 2021 &emsp; \| Math 241, Calculus III
+* Fall 2021 &emsp;&nbsp; \| Math 241, Calculus III (<a href="https://merit.illinois.edu/about-merit/" target="_blank">Merit</a>)
+* Fall 2021 &ensp;&ensp; \| Math 241, Calculus III
 * Fall 2019 &emsp; \| Math 241, Calculus III
 * Spring 2019 \| Math 231, Calculus II
 * Fall 2018 &emsp; \| Math 221, Calculus I 
