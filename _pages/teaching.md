@@ -14,9 +14,9 @@ author_profile: true
 
 <br>
 
-| Semester  | Course               | 
-|:--------|:-----------------------------------|
-|<img width=200/>|<img width=500/>|
+| Semester  | Course      | 
+|:--------|:--------------|
+|<img width=200/>|<img width=200/>|
 | Fall 2021 | Math 241, Calculus III (<a href="https://merit.illinois.edu/about-merit/" target="_blank">Merit</a>) |
 | Fall 2020 | Math 241, Calculus III |
 | Fall 2019 | Math 241, Calculus III |
