@@ -22,10 +22,10 @@ author_profile: true
 | Fall 2017 | Math 241, Calculus III |
 
 <br>
-Four times on the list of <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> Teachers Ranked as Excellent</a>.
+* Four times on the list of <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> Teachers Ranked as Excellent</a>.
   : Twice ranked Excellent with <b>_Outstanding_</b> (top 10%) rating. 
   
-* A <a href="http://neerbhardwaj.github.io/images/Merit.jpg" target="_blank">class picture</a> with my last batch at UIUC!
+A <a href="http://neerbhardwaj.github.io/images/Merit.jpg" target="_blank">class picture</a> with my last batch at UIUC!
   
 
 
