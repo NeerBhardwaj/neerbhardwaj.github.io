@@ -9,7 +9,7 @@ author_profile: true
 
 ## <kbd id="TeachUIUC"><a href="#TeachUIUC" style="text-decoration: none; color: #326496">UIUC</a></kbd>
 
-* Featured on the <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> List of Teachers Ranked as Excellent</a> four times.
+* Four times on the list of <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> Teachers Ranked as Excellent</a>.
   : Twice ranked Excellent with <b>_Outstanding_</b> (top 10%) rating.  
 
 Math 241, Calculus III (<a href="https://merit.illinois.edu/about-merit/" target="_blank">Merit</a>) 
