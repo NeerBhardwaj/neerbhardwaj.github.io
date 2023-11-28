@@ -35,7 +35,7 @@ More precisely, recent work has been with o-minimality and its applications, and
 
 ### Academic visits
 
-Research Member, MSRI/SLMath.
+Research Member, MSRI / SLMath.
 : for <a href="https://www.slmath.org/programs/364#overview_programs" target="_blank">DDC II</a>, July-August 2022.
  
 Member, Fields Institute.
