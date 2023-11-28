@@ -37,7 +37,8 @@ More precisely, recent work has been with o-minimality and its applications, and
 
 Research Member, SLMath/MSRI.
  : for <a href="https://www.slmath.org/programs/364#overview_programs" target="_blank">DDC II </a>, July-August 2022.
-* Member, Fields Institute.
+ 
+Member, Fields Institute.
  : for <a href="http://www.fields.utoronto.ca/activities/21-22/tame" target="_blank">Tame Geometry</a>, June 2022.
 
 ### You may have met me at...
