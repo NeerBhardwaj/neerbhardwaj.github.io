@@ -7,6 +7,10 @@ redirect_from:
   - /about/
   - /about.html
 ---
+<script type="text/javascript"
+  src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js"> 
+ </script>
+
 I am a postdoc at the Weizmann Institute of Science, where I work with <a href="https://binyamini.wordpress.com/" target="_blank">Gal Binyamini</a>.
 
 I got my PhD from the University of Illinois at Urbana-Champaign. Advisor: <a href="https://math.illinois.edu/directory/profile/vddries" target="_blank">Lou van den Dries</a>. 
@@ -28,27 +32,29 @@ More precisely, recent work has been with o-minimality and its applications, and
 <br>
 `Email:` &nbsp; neer.bhardwaj [at] weizmann.ac.il,  &nbsp;   nbhardwaj [at] msri.org.
 
-<br>
-<script type="text/javascript"
-  src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js"> 
- </script>
 
-### Visits  
+### Academic visits
+
+* Research Member, Simons Laufer Mathematical Sciences Institute, July-August '22.
+* Member, Fields Institite, June '22.
 
 ### You may have met me at...
 
+ * `2023 Geomod conference; Albert Ludwig University of Freiburg (Nov '23)`
  * `Model theory and related topics; University of Manchester (Jul '23)`
  * `Logic Colloquium (Jun '23)`
  * `Model theory of valued fields; CIRM (May-Jun '23)`
  * `Arizona Winter School 2023: Unlikely Intersections (Mar '23)`
  * `The 23rd Midrasha Mathematicae: O-minimality and its applications (Dec '22)`
- * `DDC part II; Simons Laufer Mathematical Sciences Institute (Jul-Aug '22)`
- * `Thematic Program on Tame Geometry; Fields Institute (Jun '22)`
  * `Joint Mathematical Meetings (Apr '22) (virtual)`
  * `AMS Spring Central Sectional Meeting (Mar '22) (virtual)`
  * `ASL North American Annual Meeting (May '18)`
 
 <!-- 
+ * `DDC part II; Simons Laufer Mathematical Sciences Institute (Jul-Aug '22)`
+ * `Thematic Program on Tame Geometry; Fields Institute (Jun '22)`
+
+ 
  `* `Arizona Winter School 2023: Unlikely Intersections; University of Arizona (March 2023)`
  * `The 23rd Midrasha Mathematicae: o-minimality and its applications in diophantine geometry and Hodge theory; Israel Institute for Advanced Studies (December 2022)`
  * `Definability, Decidability, and Computability in Number Theory, part II; Simons Laufer Mathematical Sciences Institute (July -- August 2022)`
