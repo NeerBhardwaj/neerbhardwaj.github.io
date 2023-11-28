@@ -35,8 +35,8 @@ More precisely, recent work has been with o-minimality and its applications, and
 
 ### Academic visits
 
-* Research Member, Simons Laufer Mathematical Sciences Institute, July-August 2022.
-* Member, Fields Institite, June 2022.
+* Research Member, SLMath/MSRI, July-August 2022.
+* Member, Fields Institute, June 2022.
 
 ### You may have met me at...
 
