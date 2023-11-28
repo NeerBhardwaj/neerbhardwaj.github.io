@@ -15,7 +15,7 @@ I am a postdoc at the Weizmann Institute of Science, where I work with <a href="
 
 I got my PhD from the University of Illinois at Urbana-Champaign. Advisor: <a href="https://math.illinois.edu/directory/profile/vddries" target="_blank">Lou van den Dries</a>. 
         
-**Interests:** My work involves an interplay of ideas from algebra, model theory, and number theory.
+My work involves an interplay of ideas from algebra, model theory, and number theory.
 
 <!-- ### Interests
 
@@ -35,8 +35,10 @@ More precisely, recent work has been with o-minimality and its applications, and
 
 ### Academic visits
 
-* Research Member, SLMath/MSRI, for <a href="https://www.slmath.org/programs/364#overview_programs" target="_blank">DDC II </a>.
-* Member, Fields Institute, for <a href="http://www.fields.utoronto.ca/activities/21-22/tame" target="_blank">Tame Geometry</a>.
+Research Member, SLMath/MSRI.
+ : for <a href="https://www.slmath.org/programs/364#overview_programs" target="_blank">DDC II </a>, July-August 2022.
+* Member, Fields Institute.
+ : for <a href="http://www.fields.utoronto.ca/activities/21-22/tame" target="_blank">Tame Geometry</a>, June 2022.
 
 ### You may have met me at...
 
