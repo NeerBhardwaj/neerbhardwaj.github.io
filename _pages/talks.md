@@ -20,7 +20,7 @@ author_profile: true
 
 
 | Year    | Host                                     |    Event                                 |
-| --------         | ------ | ------------------------------------------------------------ |
+| :--------:         | :------: | :------------------------------------------------------------: |
 | 2023| Radboud University | Geometry Seminar|
 |  | University of Freiburg| Geomod Conference|
 |  | University of Manchester | Model theory and related topics|
