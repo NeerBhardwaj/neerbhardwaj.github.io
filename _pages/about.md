@@ -34,7 +34,7 @@ More precisely, recent work has been with o-minimality and its applications, and
 
 <br>
 
-## Visits
+## ## <kbd id="visits"><a href="#visits" style="text-decoration: none; color: #326496">Visits</a></kbd>
 
 Research Member, MSRI / SLMath.
 : for [DDC II](https://www.slmath.org/programs/364#overview_programs), July-August 2022.
