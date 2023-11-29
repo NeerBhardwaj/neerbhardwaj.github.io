@@ -40,6 +40,7 @@ author_profile: true
 
 
  <!--
+ 
  Online Logic Seminar,
  : <a href="http://lagrange.math.siu.edu/calvert/OnlineLogicSeminar.html" target="_blank"><i>Seminar series link</i></a>, Sep 2022.
 
