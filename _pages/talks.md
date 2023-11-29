@@ -13,15 +13,17 @@ author_profile: true
 
 
 <br>
+
+
+ ## <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Past</a></kbd>
 -->
 
-## <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Past</a></kbd>
-
-<!--
 
 | Year    | Host                                     |    Event                                 |
 | --------         | ------ | ------------------------------------------------------------ |
-| 2023 | University of Manchester | Model theory and related topics|
+| 2023| Radboud University | Geometry Seminar|
+|  | University of Freiburg| Geomod Conference|
+|  | University of Manchester | Model theory and related topics|
 |      | Sorbonne University | Géométrie et Théorie des Modèles Seminar|
 |     | University of Milan       | Logic Colloquium                         |
 | 2022 | `virtual` | Online Logic Seminar                          |
@@ -35,9 +37,9 @@ author_profile: true
 | | MSRI / SLMath| DDC: Diophantine Problems [<a href="https://www.msri.org/seminars/25170" target="_blank">rec</a>]|
 | 2019| IIIT Delhi| Mathematics Seminar|
 
--->
 
- 
+
+ <!--
  Online Logic Seminar,
  : <a href="http://lagrange.math.siu.edu/calvert/OnlineLogicSeminar.html" target="_blank"><i>Seminar series link</i></a>, Sep 2022.
 
@@ -76,4 +78,4 @@ Indraprastha Institute of Information Technology,
 <br>
 `* recordings available.`
 
-
+-->
