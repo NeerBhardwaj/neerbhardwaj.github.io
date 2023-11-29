@@ -34,7 +34,7 @@ More precisely, recent work has been with o-minimality and its applications, and
 
 <br>
 
-## Academic travel
+## Visits
 
 Research Member, MSRI / SLMath.
 : for [DDC II](https://www.slmath.org/programs/364#overview_programs), July-August 2022.
