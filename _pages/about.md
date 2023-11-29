@@ -35,8 +35,8 @@ More precisely, recent work has been with o-minimality and its applications, and
 
 ## <kbd id="visits"><a href="#visits" style="text-decoration: none; color: #326496">Visits</a></kbd>
 
-`Research Member, MSRI / SLMath.`
-: _for [DDC II](https://www.slmath.org/programs/364#overview_programs), July-August 2022_.
+`Research Member, MSRI.`
+: `_for [DDC II](https://www.slmath.org/programs/364#overview_programs), July-August 2022_`.
  
 `Member, Fields Institute.`
 : _for <a href="http://www.fields.utoronto.ca/activities/21-22/tame" target="_blank">Tame Geometry</a>, June 2022_.
