@@ -42,6 +42,8 @@ Research Member, MSRI / SLMath.
 Member, Fields Institute.
 : for <a href="http://www.fields.utoronto.ca/activities/21-22/tame" target="_blank">Tame Geometry</a>, June 2022.
 
+<br>
+
 <kbd> You may have also met me at... </kbd>
 
  * `2023 Geomod conference; Albert Ludwig University of Freiburg (Nov '23)`
