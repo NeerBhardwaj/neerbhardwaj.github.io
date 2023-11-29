@@ -29,7 +29,6 @@ More precisely, I work on developing counting strategies using ideas from arithm
 
 More precisely, recent work has been with o-minimality and its applications, and the algebra and model theory of valued fields.-->
 
-<br>
 `Email:` &nbsp; neer.bhardwaj [at] weizmann.ac.il,  &nbsp;   nbhardwaj [at] msri.org.
 
 <br>
