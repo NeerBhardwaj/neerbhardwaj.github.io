@@ -33,15 +33,16 @@ More precisely, recent work has been with o-minimality and its applications, and
 `Email:` &nbsp; neer.bhardwaj [at] weizmann.ac.il,  &nbsp;   nbhardwaj [at] msri.org.
 
 
-### Academic visits
+## Academic visits
 
 **Research Member, MSRI / SLMath**.
+
 _for [DDC II](https://www.slmath.org/programs/364#overview_programs), July-August 2022_.
  
 #### Member, Fields Institute.
 _for <a href="http://www.fields.utoronto.ca/activities/21-22/tame" target="_blank">Tame Geometry</a>, June 2022_.
 
-### You may have met me at...
+### You may have also met me at...
 
  * `2023 Geomod conference; Albert Ludwig University of Freiburg (Nov '23)`
  * `Model theory and related topics; University of Manchester (Jul '23)`
