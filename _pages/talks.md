@@ -15,7 +15,9 @@ author_profile: true
 <br>
 -->
 
-<!-- ## <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Past</a></kbd>-->
+## <kbd id="Talks"><a href="#Talks" style="text-decoration: none; color: #326496">Past</a></kbd>
+
+<!--
 
 | Year    | Host                                     |    Event                                 |
 | --------         | ------ | ------------------------------------------------------------ |
@@ -33,8 +35,8 @@ author_profile: true
 | | MSRI / SLMath| DDC: Diophantine Problems [<a href="https://www.msri.org/seminars/25170" target="_blank">rec</a>]|
 | 2019| IIIT Delhi| Mathematics Seminar|
 
+-->
 
-<!--
  
  Online Logic Seminar,
  : <a href="http://lagrange.math.siu.edu/calvert/OnlineLogicSeminar.html" target="_blank"><i>Seminar series link</i></a>, Sep 2022.
@@ -74,4 +76,4 @@ Indraprastha Institute of Information Technology,
 <br>
 `* recordings available.`
 
--->
+
