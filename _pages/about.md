@@ -39,7 +39,7 @@ More precisely, recent work has been with o-minimality and its applications, and
 : `July-August '22`.
  
 `Member, Fields Institute.`
-: `Jun '22`.
+: `June '22`.
 
 <br>
 
