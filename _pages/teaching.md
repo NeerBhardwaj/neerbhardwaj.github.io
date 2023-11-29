@@ -13,12 +13,12 @@ author_profile: true
   : Twice ranked Excellent with <b>_Outstanding_</b> rating.
 
 * Fall 2021   \| Math 241, Calculus III (<a href="https://merit.illinois.edu/about-merit/" target="_blank">Merit</a>)
-* Fall 2021   || Math 241, Calculus III
-* Fall 2019   | Math 241, Calculus III
-* Spring 2019 | Math 231, Calculus II
-* Fall 2018   | Math 221, Calculus I 
-* Spring 2018 | Math 231, Calculus II 
-* Fall 2017   | Math 241, Calculus III 
+* Fall 2021   \|| Math 241, Calculus III
+* Fall 2019   \| Math 241, Calculus III
+* Spring 2019 \| Math 231, Calculus II
+* Fall 2018   \| Math 221, Calculus I 
+* Spring 2018 \| Math 231, Calculus II 
+* Fall 2017   \| Math 241, Calculus III 
 
 <!--  
 <pre>
