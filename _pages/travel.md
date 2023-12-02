@@ -9,23 +9,9 @@ author_profile: true
 </script>
 
 
-## <kbd id="visits"><a href="#visits" style="text-decoration: none; color: #326496">Visits</a></kbd>
-
-`Radboud University.`
-: `November-December '23.`
-
-`MSRI/SLMath.`
-: `July-August '22`.
- 
-`Fields Institute.`
-: `June '22`.
-
-<br>
-
 <!-- ## <kbd id="Talksi"><a href="#Talksi" style="text-decoration: none; color: #326496">Future</a></kbd> -->
 
 ## <kbd id="talks"><a href="#talks" style="text-decoration: none; color: #326496">Talks</a></kbd>
-
 
 
 | Year    | Host                                     |    Event                                 |
@@ -45,6 +31,19 @@ author_profile: true
 |2020 |The Fields Institute |Geometry and Model Theory Seminar |
 | | MSRI| DDC: Diophantine Problems |
 | 2019| IIIT Delhi| Mathematics Seminar|
+
+<br>
+
+## <kbd id="visits"><a href="#visits" style="text-decoration: none; color: #326496">Visits</a></kbd>
+
+`Radboud University.`
+: `November-December '23.`
+
+`MSRI/SLMath.`
+: `July-August '22`.
+ 
+`Fields Institute.`
+: `June '22`.
 
 <br>
 
