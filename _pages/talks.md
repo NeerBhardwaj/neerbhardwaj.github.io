@@ -56,6 +56,8 @@ author_profile: true
  * `Model theory of valued fields; CIRM (May '23)`
  * `Arizona Winter School 2023: Unlikely Intersections (Mar '23)`
  * `The 23rd Midrasha Mathematicae: O-minimality and its applications (Dec '22)`
+ * `DDC part II; MSRI/SLMath (Jul-Aug '22)`
+ * `Thematic Program on Tame Geometry; Fields Institute (Jun '22)`
  * `Joint Mathematical Meetings (Apr '22) (virtual)`
  * `AMS Spring Central Sectional Meeting (Mar '22) (virtual)`
  * `ASL North American Annual Meeting (May '18)`
@@ -63,8 +65,7 @@ author_profile: true
 
 <!-- 
  
-* `DDC part II; MSRI/SLMath (Jul-Aug '22)`
- * `Thematic Program on Tame Geometry; Fields Institute (Jun '22)`
+
 
  
  `* `Arizona Winter School 2023: Unlikely Intersections; University of Arizona (March 2023)`
