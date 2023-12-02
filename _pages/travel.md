@@ -14,10 +14,10 @@ author_profile: true
 `Radboud University.`
 : `November-December '23.`
 
-`Research Member, MSRI.`
+`MSRI.`
 : `July-August '22`.
  
-`Member, Fields Institute.`
+`Fields Institute.`
 : `June '22`.
 
 <br>
