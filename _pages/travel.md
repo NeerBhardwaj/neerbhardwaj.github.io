@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /talks/
+permalink: /travel/
 author_profile: true
 ---
 
