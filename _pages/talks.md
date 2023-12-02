@@ -11,7 +11,7 @@ author_profile: true
 
 ## <kbd id="visits"><a href="#visits" style="text-decoration: none; color: #326496">Visits</a></kbd>
 
-`Visiting Researcher, Radboud University.`
+`Guest Researcher, Radboud University.`
 : `November-December '23.`
 
 `Research Member, MSRI.`
