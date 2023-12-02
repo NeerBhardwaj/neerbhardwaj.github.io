@@ -12,6 +12,9 @@ author_profile: true
 
 ## <kbd id="visits"><a href="#visits" style="text-decoration: none; color: #326496">Visits</a></kbd>
 
+`Visitor, Radboud University.`
+: `November-December '23.`
+
 `Research Member, MSRI.`
 : `July-August '22`.
  
@@ -20,17 +23,7 @@ author_profile: true
 
 <br>
 
-<kbd> You may have also met me at... </kbd>
 
- * `2023 Geomod conference; Albert Ludwig University of Freiburg (Nov '23)`
- * `Model theory and related topics; University of Manchester (Jul '23)`
- * `Logic Colloquium (Jun '23)`
- * `Model theory of valued fields; CIRM (May '23)`
- * `Arizona Winter School 2023: Unlikely Intersections (Mar '23)`
- * `The 23rd Midrasha Mathematicae: O-minimality and its applications (Dec '22)`
- * `Joint Mathematical Meetings (Apr '22) (virtual)`
- * `AMS Spring Central Sectional Meeting (Mar '22) (virtual)`
- * `ASL North American Annual Meeting (May '18)`
 
 <!-- 
  * `DDC part II; Simons Laufer Mathematical Sciences Institute (Jul-Aug '22)`
@@ -76,6 +69,20 @@ author_profile: true
 |2020 |The Fields Institute |Geometry and Model Theory Seminar |
 | | MSRI| DDC: Diophantine Problems |
 | 2019| IIIT Delhi| Mathematics Seminar|
+
+
+<kbd> You may have met me at... </kbd>
+
+ * `2023 Geomod conference; Albert Ludwig University of Freiburg (Nov '23)`
+ * `Model theory and related topics; University of Manchester (Jul '23)`
+ * `Logic Colloquium (Jun '23)`
+ * `Model theory of valued fields; CIRM (May '23)`
+ * `Arizona Winter School 2023: Unlikely Intersections (Mar '23)`
+ * `The 23rd Midrasha Mathematicae: O-minimality and its applications (Dec '22)`
+ * `Joint Mathematical Meetings (Apr '22) (virtual)`
+ * `AMS Spring Central Sectional Meeting (Mar '22) (virtual)`
+ * `ASL North American Annual Meeting (May '18)`
+
 
 
 <!-- 
