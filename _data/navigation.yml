@@ -16,7 +16,7 @@ main:
     url: /research
     
   - title: "Travel"
-    url: /talks 
+    url: /travel 
   
   - title: "Teaching"
     url: /teaching   
