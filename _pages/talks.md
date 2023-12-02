@@ -46,36 +46,7 @@ author_profile: true
 | | MSRI| DDC: Diophantine Problems |
 | 2019| IIIT Delhi| Mathematics Seminar|
 
-<br>
-<kbd> You may have met me at... </kbd>
 
- * `2023 Geomod conference; Albert Ludwig University of Freiburg (Nov '23)`
- * `Model theory and related topics; University of Manchester (Jul '23)`
- * `Logic Colloquium (Jun '23)`
- * `Model theory of valued fields; CIRM (May '23)`
- * `Arizona Winter School 2023: Unlikely Intersections (Mar '23)`
- * `The 23rd Midrasha Mathematicae: O-minimality and its applications (Dec '22)`
- * `Joint Mathematical Meetings (Apr '22) (virtual)`
- * `AMS Spring Central Sectional Meeting (Mar '22) (virtual)`
- * `ASL North American Annual Meeting (May '18)`
-
-
-<!-- 
- * `DDC part II; Simons Laufer Mathematical Sciences Institute (Jul-Aug '22)`
- * `Thematic Program on Tame Geometry; Fields Institute (Jun '22)`
-
- 
- `* `Arizona Winter School 2023: Unlikely Intersections; University of Arizona (March 2023)`
- * `The 23rd Midrasha Mathematicae: o-minimality and its applications in diophantine geometry and Hodge theory; Israel Institute for Advanced Studies (December 2022)`
- * `Definability, Decidability, and Computability in Number Theory, part II; Simons Laufer Mathematical Sciences Institute (July -- August 2022)`
- * `Thematic Program on Tame Geometry, Transseries and Applications to Analysis and Geometry; Fields Institute (June 2022)`
- * `ASL special session on Model-theoretic Classification Program; Joint Mathematical Meetings (April 2022) (virtual)`
- * `Special session on Model Theory and its Applications; AMS Spring Central Sectional Meeting (March 2022) (virtual)`
- * `ASL North American Annual Meeting; Western Illinois University (May 2018)`
- 
- * Sparsity of Algebraic Points; Mathematical Sciences Research Institute (June 2021) (virtual)
- * Graduate Student Conference in Logic XXII; University of Illinois at Urbana-Champaign (March 2021) (virtual)
- * Graduate Student Conference in Logic XIX; University of Wisconsin at Madison (March 2018)-->
 
 <!-- 
  Online Logic Seminar,
