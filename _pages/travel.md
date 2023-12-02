@@ -8,9 +8,6 @@ author_profile: true
   src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js">
 </script>
 
-
-<!-- ## <kbd id="Talksi"><a href="#Talksi" style="text-decoration: none; color: #326496">Future</a></kbd> -->
-
 ## <kbd id="talks"><a href="#talks" style="text-decoration: none; color: #326496">Talks</a></kbd>
 
 
