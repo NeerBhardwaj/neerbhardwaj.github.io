@@ -32,7 +32,7 @@ author_profile: true
 </pre>
 -->
 
-With my last <a href="http://neerbhardwaj.github.io/images/Merit.jpg" target="_blank">batch</a> at UIUC! 
+-- with my last <a href="http://neerbhardwaj.github.io/images/Merit.jpg" target="_blank">batch</a> at UIUC! 
 
   
 
