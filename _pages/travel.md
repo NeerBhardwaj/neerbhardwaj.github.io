@@ -14,7 +14,7 @@ author_profile: true
 `Radboud University.`
 : `November-December '23.`
 
-`MSRI.`
+`MSRI/ SLMath.`
 : `July-August '22`.
  
 `Fields Institute.`
