@@ -11,7 +11,7 @@ redirect_from:
   src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js"> 
  </script>
 
-I am a postdoc at the Weizmann Institute of Science, where I work with Gal Binyamini. Previously, I earned my PhD at the University of Illinois at Urbana-Champaign, where my advisor was Lou van den Dries. 
+I am a postdoc at the Weizmann Institute of Science, where I work with Gal Binyamini. In 2022, I earned my PhD at the University of Illinois at Urbana-Champaign, where my advisor was Lou van den Dries. 
         
 My work involves an interplay of ideas from algebra, model theory, and number theory.
 
