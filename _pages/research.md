@@ -20,7 +20,7 @@ Analytic Ax-Kochen-Ersov theory including induced structure results on lifts.
 
 On the Pila-Wilkie theorem.
 : with Lou van den Dries. 
-: <i>Expositiones Mathematicae</i>, vol. 40 (2022). [ <a href="https://arxiv.org/abs/2010.14046" target=_blank></a>, <a href="https://doi.org/10.1016/j.exmath.2022.03.001" target="_blank">DOI</a>]
+: <i>Expositiones Mathematicae</i>, vol. 40 (2022). [ <a href="https://arxiv.org/abs/2010.14046" target=_blank>arXiv</a>, <a href="https://doi.org/10.1016/j.exmath.2022.03.001" target="_blank">DOI</a>]
 > <small> This expository paper gives an account of the Pila-Wilkie counting theorem and some of its extensions and generalizations. We use semialgebraic cell decomposition to simplify part of the original proof. We also include complete treatments of a result due to Pila and Bombieri and of the o-minimal Yomdin-Gromov theorem that are used in this proof. For the latter we follow Binyamini and Novikov.</small>
 
 The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free.
