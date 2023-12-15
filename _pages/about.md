@@ -12,7 +12,7 @@ redirect_from:
  </script>
 
 I am a postdoc at the Weizmann Institute of Science, where I work with Gal Binyamini.<br /> 
-I earned my PhD at the University of Illinois at Urbana-Champaign with Lou van den Dries. 
+My PhD was obtained at the University of Illinois at Urbana-Champaign, where my advisor was Lou van den Dries. 
         
 My work involves an interplay of ideas from algebra, model theory, and number theory.
 
