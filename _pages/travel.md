@@ -33,9 +33,6 @@ author_profile: true
 
 ## <kbd id="visits"><a href="#visits" style="text-decoration: none; color: #326496">Visits</a></kbd>
 
-`Radboud University.`
-: `November-December '23.`
-
 `MSRI/SLMath.`
 : `July-August '22`.
  
