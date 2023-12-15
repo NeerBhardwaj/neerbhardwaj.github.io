@@ -12,7 +12,6 @@ redirect_from:
  </script>
 
 I am a postdoc at the Weizmann Institute of Science, where I work with <a href="https://binyamini.wordpress.com/" target="_blank">Gal Binyamini</a>.
-
 I earned my PhD at the University of Illinois at Urbana-Champaign. Advisor: <a href="https://math.illinois.edu/directory/profile/vddries" target="_blank">Lou van den Dries</a>. 
         
 My work involves an interplay of ideas from algebra, model theory, and number theory.
