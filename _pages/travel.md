@@ -43,6 +43,8 @@ author_profile: true
 
 ## <kbd id="conf"><a href="#conf" style="text-decoration: none; color: #326496">Conferences</a></kbd>
 
+ * `Exponential Fields; BIRS (Feb '24)` 
+ * `Hodge theory and o-minimality; CIRM (Jan '24)`
  * `2023 Geomod conference; Albert Ludwig University of Freiburg (Nov '23)`
  * `Model theory and related topics; University of Manchester (Jul '23)`
  * `Logic Colloquium (Jun '23)`
