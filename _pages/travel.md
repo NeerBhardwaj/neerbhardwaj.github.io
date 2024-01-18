@@ -34,10 +34,10 @@ author_profile: true
 ## <kbd id="visits"><a href="#visits" style="text-decoration: none; color: #326496">Visits</a></kbd>
 
 `MSRI/SLMath.`
-: `July-August '22`.
+: `Research Member, July-August '22`.
  
 `Fields Institute.`
-: `June '22`.
+: `Member, June '22`.
 
 <br>
 
