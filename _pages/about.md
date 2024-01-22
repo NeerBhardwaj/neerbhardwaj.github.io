@@ -11,8 +11,8 @@ redirect_from:
   src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js"> 
  </script>
 
-I am a postdoc at the Weizmann Institute of Science, where I work with <a href="https://binyamini.wordpress.com/" target=blank>Gal Binyamini</a>. <br/>
-Previously, I was at the University of Illinois at Urbana-Champaign, where my PhD advisor was <a href="https://math.illinois.edu/directory/profile/vddries" target=blank>Lou van den Dries</a>. 
+I am a postdoc at the Weizmann Institute of Science, where I work with <a href="https://binyamini.wordpress.com/" target= blank>Gal Binyamini</a>. <br/>
+Previously, I was at the University of Illinois at Urbana-Champaign, where my PhD advisor was <a href="https://math.illinois.edu/directory/profile/vddries" target= blank>Lou van den Dries</a>. 
         
 My work involves an interplay of ideas from algebra, model theory, and number theory.
 
