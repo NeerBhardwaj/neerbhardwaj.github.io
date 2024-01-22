@@ -11,7 +11,7 @@ author_profile: true
 
 Analytic Ax-Kochen-Ersov theory with lifts of the residue field and value group.
 : with Lou van den Dries.
-: submitted. [<a href="https://arxiv.org/abs/2401.04094" target=blank>arXiv</a>]
+: submitted. [<a href="https://arxiv.org/abs/2401.04094" target="_blank">arXiv</a>]
 > <small> We develop an extension theory for analytic valuation rings in order  to establish Ax-Kochen-Ersov type results for these structures. New is that we can add in salient cases lifts of the residue field and the value group and show that the induced structure on the lifted residue field is just its field structure, and on the lifted value group is just its ordered abelian group structure. This restores an analogy with the non-analytic AKE-setting that was missing in earlier treatments of analytic AKE-theory.</small> 
 
 <br>
@@ -21,7 +21,7 @@ Analytic Ax-Kochen-Ersov theory with lifts of the residue field and value group.
 
 On the Pila-Wilkie theorem.
 : with Lou van den Dries. 
-: <i>Expositiones Mathematicae</i>, vol. 40 (2022). [<a href="https://arxiv.org/abs/2010.14046" target=_blank>arXiv</a>, <a href="https://doi.org/10.1016/j.exmath.2022.03.001" target="_blank">DOI</a>]
+: <i>Expositiones Mathematicae</i>, vol. 40 (2022). [<a href="https://arxiv.org/abs/2010.14046" target="_blank">arXiv</a>, <a href="https://doi.org/10.1016/j.exmath.2022.03.001" target="_blank">DOI</a>]
 > <small> This expository paper gives an account of the Pila-Wilkie counting theorem and some of its extensions and generalizations. We use semialgebraic cell decomposition to simplify part of the original proof. We also include complete treatments of a result due to Pila and Bombieri and of the o-minimal Yomdin-Gromov theorem that are used in this proof. For the latter we follow Binyamini and Novikov.</small>
 
 The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free.
