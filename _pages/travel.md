@@ -55,7 +55,7 @@ author_profile: true
  * `Thematic Program on Tame Geometry; Fields Institute (Jun '22)`
  * `Joint Mathematical Meetings (Apr '22)`
  * `AMS Spring Central Sectional Meeting (Mar '22)`
- * `Sparsity of Algebraic Points; MSRI Jun '21)` 
+ * `Sparsity of Algebraic Points; MSRI (Jun '21)` 
  * `ASL North American Annual Meeting (May '18)`
 
 
