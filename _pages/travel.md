@@ -53,8 +53,9 @@ author_profile: true
  * `The 23rd Midrasha Mathematicae: O-minimality and its applications (Dec '22)`
  * `DDC part II; MSRI/SLMath (Jul-Aug '22)`
  * `Thematic Program on Tame Geometry; Fields Institute (Jun '22)`
- * `Joint Mathematical Meetings (Apr '22) (virtual)`
- * `AMS Spring Central Sectional Meeting (Mar '22) (virtual)`
+ * `Joint Mathematical Meetings (Apr '22)`
+ * `AMS Spring Central Sectional Meeting (Mar '22)`
+ * `Sparsity of Algebraic Points; MSRI Jun '21)` 
  * `ASL North American Annual Meeting (May '18)`
 
 
@@ -71,7 +72,7 @@ author_profile: true
  * `Special session on Model Theory and its Applications; AMS Spring Central Sectional Meeting (March 2022) (virtual)`
  * `ASL North American Annual Meeting; Western Illinois University (May 2018)`
  
- * Sparsity of Algebraic Points; Mathematical Sciences Research Institute (June 2021) (virtual)
+ * Sparsity of Algebraic Points; Mathematical Sciences Research Institute (June 2021)
  * Graduate Student Conference in Logic XXII; University of Illinois at Urbana-Champaign (March 2021) (virtual)
  * Graduate Student Conference in Logic XIX; University of Wisconsin at Madison (March 2018)-->
 
