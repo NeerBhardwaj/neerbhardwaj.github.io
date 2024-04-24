@@ -15,8 +15,8 @@ main:
   - title: "Research"
     url: /research
     
-  - title: "Travel"
-    url: /travel 
+  - title: "CV"
+    url: /CV 
   
   - title: "Teaching"
     url: /teaching   
