@@ -1,6 +1,6 @@
 ---
 title: ""
-permalink: /travel/
+permalink: /CVT/
 author_profile: true
 ---
 
