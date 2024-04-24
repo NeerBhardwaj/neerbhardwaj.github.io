@@ -58,9 +58,11 @@ author_profile: true
  * `Sparsity of Algebraic Points; MSRI (Jun '21)` 
  * `ASL North American Annual Meeting (May '18)`
 
+<br>
+
 ## <kbd id="TeachUIUC"><a href="#TeachUIUC" style="text-decoration: none; color: #326496">Teaching</a></kbd> 
 
-### Illinois
+## Illinois
 
 <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> Ranked Excellent</a> four times.
   : Twice ranked Excellent with <b>_Outstanding_</b> rating.
