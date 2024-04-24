@@ -63,8 +63,6 @@ author_profile: true
 
 ## <kbd id="TeachUIUC"><a href="#TeachUIUC" style="text-decoration: none; color: #326496">Teaching</a></kbd> 
 
-<br>
-
 ## Illinois
 
 <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> Ranked Excellent</a> four times.
