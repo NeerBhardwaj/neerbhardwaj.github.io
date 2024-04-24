@@ -9,7 +9,7 @@ author_profile: true
 
 ## <kbd id="Papers"><a href="#Papers" style="text-decoration: none; color: #326496">Papers</a></kbd>
 
-Inetger-valued o-minimal functions.
+Integer-valued o-minimal functions.
 : with R. McCulloch, N. Ramachandran, and K. Woo. [<a href="https://arxiv.org/abs/2404.10737" target="_blank">arXiv</a>]
 
 
