@@ -14,8 +14,7 @@ Integer-valued o-minimal functions.
 
 
 Analytic Ax-Kochen-Ersov theory with lifts of the residue field and value group.
-: with L. van den Dries. [<a href="https://arxiv.org/abs/2401.04094" target="_blank">arXiv</a>]
-: accepted, pending minor revisions, to the Transactions of the AMS. 
+: with L. van den Dries. [<a href="https://arxiv.org/abs/2401.04094" target="_blank">arXiv</a>] 
 
 
 On the Pila-Wilkie theorem.
