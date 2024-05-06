@@ -24,8 +24,8 @@ On the Pila-Wilkie theorem
 
 The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free
 : with C.-M. Tran [<a href="https://arxiv.org/abs/1707.00096" target="_blank">arXiv</a>]
-: View one of our structures on a mapping of the <a href="http://forkinganddividing.com/#_02_54" target="_blank">model theoretic universe</a>.
 : <a href="https://doi.org/10.1017/jsl.2020.30" target="_blank">The Journal of Symbolic Logic</a> (2021)
+: View one of our structures on a mapping of the <a href="http://forkinganddividing.com/#_02_54" target="_blank">model theoretic universe</a>.
 
 
 
