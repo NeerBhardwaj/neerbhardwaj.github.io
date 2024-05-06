@@ -11,7 +11,10 @@ author_profile: true
 ## <kbd id="Acad"><a href="#Acad" style="text-decoration: none; color: #326496">Academic history</a></kbd>
 
 * 2022-- , Postdoctoral Fellow, Weizmann Institute of Science, Advisor: Gal Binyamini.
-* PhD, 2022, University of Illinois at Urbana-Champaign, Advisor: Lou van den Dries.
+* PhD, University of Illinois at Urbana-Champaign, Advisor: Lou van den Dries.
+* BS-MS, Mathematics & Scientific Computing, Indian Institute of Technology Kanpur.
+
+<br>
 
 ## <kbd id="talks"><a href="#talks" style="text-decoration: none; color: #326496">Talks</a></kbd>
 
