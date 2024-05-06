@@ -8,8 +8,8 @@ author_profile: true
   src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js">
 </script>
 
-2022--; Postdoctoral Fellow, Weizmann Institute of Science, Israel; Advisor: Gal Binyamini. <br>
-PhD, 2022; University of Illinois at Urbana-Champaign; Advisor: Lou van den Dries. <br>
+* 2022-- , Postdoctoral Fellow, Weizmann Institute of Science, Advisor: Gal Binyamini.
+* PhD, 2022, University of Illinois at Urbana-Champaign, Advisor: Lou van den Dries.
 
 ## <kbd id="talks"><a href="#talks" style="text-decoration: none; color: #326496">Talks</a></kbd>
 
