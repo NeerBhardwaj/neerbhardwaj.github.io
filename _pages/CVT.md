@@ -8,6 +8,8 @@ author_profile: true
   src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js">
 </script>
 
+## <kbd id="Acad"><a href="#Acad" style="text-decoration: none; color: #326496">Academic history</a></kbd>
+
 * 2022-- , Postdoctoral Fellow, Weizmann Institute of Science, Advisor: Gal Binyamini.
 * PhD, 2022, University of Illinois at Urbana-Champaign, Advisor: Lou van den Dries.
 
