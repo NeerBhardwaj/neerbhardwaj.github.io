@@ -9,23 +9,23 @@ author_profile: true
 
 ## <kbd id="Papers"><a href="#Papers" style="text-decoration: none; color: #326496">Papers</a></kbd>
 
-Integer-valued o-minimal functions.
-: with R. McCulloch, N. Ramachandran, and K. Woo. [<a href="https://arxiv.org/abs/2404.10737" target="_blank">arXiv</a>]
+Integer-valued o-minimal functions
+: with R. McCulloch, N. Ramachandran, and K. Woo [<a href="https://arxiv.org/abs/2404.10737" target="_blank">arXiv</a>]
 
 
-Analytic Ax-Kochen-Ersov theory with lifts of the residue field and value group.
-: with L. van den Dries. [<a href="https://arxiv.org/abs/2401.04094" target="_blank">arXiv</a>] 
+Analytic Ax-Kochen-Ersov theory with lifts of the residue field and value group
+: with L. van den Dries [<a href="https://arxiv.org/abs/2401.04094" target="_blank">arXiv</a>] 
+: _Transactions of the AMS_ (to appear)
+
+On the Pila-Wilkie theorem
+: with L. van den Dries [<a href="https://arxiv.org/abs/2010.14046" target="_blank">arXiv</a>]
+: <a href="https://doi.org/10.1016/j.exmath.2022.03.001" target="_blank">Expositiones Mathematicae</a> (2022)
 
 
-On the Pila-Wilkie theorem.
-: with L. van den Dries. [<a href="https://arxiv.org/abs/2010.14046" target="_blank">arXiv</a>]
-: <a href="https://doi.org/10.1016/j.exmath.2022.03.001" target="_blank">Expositiones Mathematicae</a> (2022). 
-
-
-The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free.
-: with C.-M. Tran. [<a href="https://arxiv.org/abs/1707.00096" target="_blank">arXiv</a>]
+The additive groups of $ℤ$ and $ℚ$ with predicates for being square-free
+: with C.-M. Tran [<a href="https://arxiv.org/abs/1707.00096" target="_blank">arXiv</a>]
 : View one of our structures on a mapping of the <a href="http://forkinganddividing.com/#_02_54" target="_blank">model theoretic universe</a>.
-: <a href="https://doi.org/10.1017/jsl.2020.30" target="_blank">The Journal of Symbolic Logic</a> (2021). 
+: <a href="https://doi.org/10.1017/jsl.2020.30" target="_blank">The Journal of Symbolic Logic</a> (2021)
 
 
 
