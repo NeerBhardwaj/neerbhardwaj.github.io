@@ -21,7 +21,7 @@ author_profile: true
 
 | Year    | Host                                     |    Event                                 |
 | --------         | ------ | ------------------------------------------------------------ |
-| 2024| IIT Gandhinagar | GANIT Seminar|
+| 2024| IIT Gandhinagar | Departmental Seminar|
 | | University of Amsterdam | LLAMA Seminar|
 | 2023| Radboud University | Geometry Seminar|
 |  | University of Freiburg| Geomod Conference|
@@ -37,7 +37,7 @@ author_profile: true
 | | University of Leeds| TDE Seminar |
 |2020 |The Fields Institute |Geometry and Model Theory Seminar |
 | | MSRI| DDC: Diophantine Problems |
-| 2019| IIIT Delhi| Mathematics Seminar|
+| 2019| IIIT Delhi| Departmental Seminar|
 
 <br>
 
