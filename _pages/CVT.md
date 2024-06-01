@@ -77,13 +77,13 @@ author_profile: true
 <a href="https://citl.illinois.edu/citl-101/measurement-evaluation/teaching-evaluation/teaching-evaluations-(ices)/teachers-ranked-as-excellent" target="_blank"> Ranked Excellent</a> four times.
   : Twice ranked Excellent with <b>_Outstanding_</b> rating.
 
-* Fall 2021   \|\| Math 241, Calculus III (<a href="https://merit.illinois.edu/about-merit/" target="_blank">Merit</a>)
-* Fall 2021   \|\| Math 241, Calculus III
-* Fall 2019   \|\| Math 241, Calculus III
-* Spring 2019 \|\| Math 231, Calculus II
-* Fall 2018   \|\| Math 221, Calculus I 
-* Spring 2018 \|\| Math 231, Calculus II 
-* Fall 2017   \|\| Math 241, Calculus III 
+* Fall 2021   \|\| Calculus III (<a href="https://merit.illinois.edu/about-merit/" target="_blank">Merit</a>)
+* Fall 2021   \|\| Calculus III
+* Fall 2019   \|\| Calculus III
+* Spring 2019 \|\| Calculus II
+* Fall 2018   \|\| Calculus I 
+* Spring 2018 \|\| Calculus II 
+* Fall 2017   \|\| Calculus III 
 
 <!--  
 <pre>
