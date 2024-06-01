@@ -21,7 +21,8 @@ author_profile: true
 
 | Year    | Host                                     |    Event                                 |
 | --------         | ------ | ------------------------------------------------------------ |
-| 2024| University of Amsterdam | LLAMA Seminar|
+| 2024| IIT Gandhinagar | GANIT Seminar|
+| | University of Amsterdam | LLAMA Seminar|
 | 2023| Radboud University | Geometry Seminar|
 |  | University of Freiburg| Geomod Conference|
 |  | University of Manchester | Model theory and related topics|
