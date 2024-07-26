@@ -10,8 +10,9 @@ author_profile: true
 
 ## <kbd id="Acad"><a href="#Acad" style="text-decoration: none; color: #326496">Academic history</a></kbd>
 
-* 2022-- , Postdoctoral Fellow, Weizmann Institute of Science, Advisor: Gal Binyamini.
-* PhD, University of Illinois at Urbana-Champaign, Advisor: Lou van den Dries.
+* '24-'25, postdoctoral fellow, KU Leuven, advisor: Raf Cluckers.
+* '22-'24, postdoctoral fellow, Weizmann Institute of Science, supervisor: Gal Binyamini.
+* PhD, University of Illinois at Urbana-Champaign, advisor: Lou van den Dries.
 * BS-MS, Mathematics & Scientific Computing, Indian Institute of Technology Kanpur.
 
 <br>
