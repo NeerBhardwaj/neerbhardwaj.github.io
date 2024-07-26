@@ -12,8 +12,8 @@ author_profile: true
 
 * '24-'25, postdoctoral fellow, _KU Leuven_, advisor: Raf Cluckers.
 * '22-'24, postdoctoral fellow, _Weizmann Institute of Science_, advisor: Gal Binyamini.
-* PhD, _University of Illinois at Urbana-Champaign_, advisor: Lou van den Dries.
-* BS-MS, Mathematics & Scientific Computing, _Indian Institute of Technology Kanpur_.
+* PhD in Mathematics, _University of Illinois at Urbana-Champaign_, advisor: Lou van den Dries.
+* 5-year MSc in Mathematics & Scientific Computing, _Indian Institute of Technology Kanpur_.
 
 <br>
 
