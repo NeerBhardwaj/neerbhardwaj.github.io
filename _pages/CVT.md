@@ -89,7 +89,9 @@ author_profile: true
 * Spring 2019 \|\| Calculus II
 * Fall 2018   \|\| Calculus I 
 * Spring 2018 \|\| Calculus II 
-* Fall 2017   \|\| Calculus III 
+* Fall 2017   \|\| Calculus III
+
+\- with my last <a href="http://neerbhardwaj.github.io/images/Merit.jpg" target="_blank">batch</a> at UIUC! 
 
 <br>
 
@@ -125,14 +127,11 @@ author_profile: true
 </pre>
 -->
 
-\- with my last <a href="http://neerbhardwaj.github.io/images/Merit.jpg" target="_blank">batch</a> at UIUC! 
+
 
 
 
 <!-- 
-
-
-
 
 
  
@@ -147,8 +146,6 @@ author_profile: true
  * Sparsity of Algebraic Points; Mathematical Sciences Research Institute (June 2021)
  * Graduate Student Conference in Logic XXII; University of Illinois at Urbana-Champaign (March 2021) (virtual)
  * Graduate Student Conference in Logic XIX; University of Wisconsin at Madison (March 2018)-->
-
-
 
 
 
