@@ -21,23 +21,20 @@ author_profile: true
 
 ## Invited talks
 
-IIT Gandginagar
-: `Departmental Seminar`
+* IIT Gandginagar, `Departmental Seminar`
 
-University of Amsterdam 
-: `LLAMA Seminar`
+* University of Amsterdam `LLAMA Seminar`
 
 Radboud University 
-: `Geometry Seminar, Nov '23`
+: `Geometry Seminar`
 
 University of Manchester
-: `Model theory and related topics, Jul '23`
+: `Model theory and related topics`
 
 Sorbonne University 
-: `Géométrie et Théorie des Modèles Seminar, Jun '23`
+: `Géométrie et Théorie des Modèles Seminar`
 
-The Online Logic Seminar
-: <a href="http://lagrange.math.siu.edu/calvert/OnlineLogicSeminar.html" target="_blank">Seminar webpage</a>
+* The Online Logic Seminar
 
 MSRI / SLMath
 : `DDC-II Seminar` [<a href="https://www.msri.org/seminars/26809" target="_blank">rec</a>]
@@ -68,16 +65,16 @@ IIIT Delhi
 ## Contributed talks
 
 University of Freiburg
-: `Geomod Conference, Nov '23`
+: `Geomod Conference`
 
 University of Milan  
-: `Logic Colloquium, Jun '23`
+: `Logic Colloquium`
 
 Joint Mathematical Meetings 2022
-: Model-theoretic Classification Program 
+: `Model-theoretic Classification Program` 
 
 AMS Spring Central Sectional Meeting
-: Model Theory and its Applications
+: `Model Theory and its Applications`
 
 
 
