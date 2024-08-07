@@ -21,7 +21,7 @@ author_profile: true
 
 ### Invited talks
 
-* Departmental Seminar `IIT Gandginagar`
+* GANIT Seminar `IIT Gandginagar`
 
 * LLAMA Seminar `University of Amsterdam`
 
