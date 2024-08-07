@@ -10,10 +10,10 @@ author_profile: true
 
 ## <kbd id="Acad"><a href="#Acad" style="text-decoration: none; color: #326496">Academic history</a></kbd>
 
-* '24-'25, postdoctoral fellow, _KU Leuven_, advisor: Raf Cluckers.
-* '22-'24, postdoctoral fellow, _Weizmann Institute of Science_, advisor: Gal Binyamini.
-* PhD in Mathematics, _University of Illinois at Urbana-Champaign_, advisor: Lou van den Dries.
-* 5-year MSc in Mathematics & Scientific Computing, _Indian Institute of Technology Kanpur_.
+* 2024--, Postdoc `KU Leuven`
+* 2022--2024, Postdoc `Weizmann Institute of Science`
+* PhD in Mathematics `University of Illinois at Urbana-Champaign`
+* 5-year MSc in Mathematics & Scientific Computing, `Indian Institute of Technology Kanpur`
 
 <br>
 
