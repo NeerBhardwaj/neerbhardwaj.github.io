@@ -66,11 +66,11 @@ author_profile: true
 
 ## <kbd id="visits"><a href="#visits" style="text-decoration: none; color: #326496">Visits</a></kbd>
 
-`MSRI/SLMath.`
-: `Research Member, July-August '22`.
+MSRI/SLMath
+: `Research Member, July-August '22`
  
-`Fields Institute.`
-: `Member, June '22`.
+Fields Institute
+: `Member, June '22`
 
 <br>
 
