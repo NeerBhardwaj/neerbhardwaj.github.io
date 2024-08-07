@@ -19,10 +19,10 @@ author_profile: true
 
 ## <kbd id="talks"><a href="#talks" style="text-decoration: none; color: #326496">Talks</a></kbd>
 
-### Conference talks
+##Conference talks
 
 IIT Gandginagar
-: `Departmental Seminar, May '24`
+: Departmental Seminar
 
 University of Amsterdam 
 : `LLAMA Seminar, May '24`
@@ -40,7 +40,38 @@ Sorbonne University
 : `Géométrie et Théorie des Modèles Seminar, Jun '23`
 
 University of Milan  
-: `Logic Colloquium, Jun '23`                    
+: `Logic Colloquium, Jun '23`
+
+The Online Logic Seminar       
+
+MSRI / SLMath
+: `DDC-II Seminar [<a href="https://www.msri.org/seminars/26809" target="_blank">rec</a>]`
+
+Joint Mathematical Meetings 2022
+: Model-theoretic Classification Program 
+
+AMS Spring Central Sectional Meeting
+: Model Theory and its Applications
+
+The Fields Institute
+: Thematic Program on Tame Geometry [<a href="http://www.fields.utoronto.ca/talks/Pila-Wilkie-theorem" target="_blank">rec</a>]
+
+University of Illinois at Chicago
+: Logic Seminar
+
+University of Leeds 
+:TDE Seminar 
+
+The Fields Institute 
+: Geometry and Model Theory Seminar 
+
+MSRI
+: DDC: Diophantine Problems 
+
+IIIT Delhi
+: Departmental Seminar
+
+
 
 
 
