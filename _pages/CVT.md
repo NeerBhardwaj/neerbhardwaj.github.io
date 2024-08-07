@@ -19,7 +19,7 @@ author_profile: true
 
 ## <kbd id="talks"><a href="#talks" style="text-decoration: none; color: #326496">Talks</a></kbd>
 
-## Invited talks
+### Invited talks
 
 * IIT Gandginagar, `Departmental Seminar`
 
