@@ -19,19 +19,16 @@ author_profile: true
 
 ## <kbd id="talks"><a href="#talks" style="text-decoration: none; color: #326496">Talks</a></kbd>
 
-##Conference talks
+## Invited talks
 
 IIT Gandginagar
-: Departmental Seminar
+: `Departmental Seminar`
 
 University of Amsterdam 
-: `LLAMA Seminar, May '24`
+: `LLAMA Seminar`
 
 Radboud University 
 : `Geometry Seminar, Nov '23`
-
-University of Freiburg
-: `Geomod Conference, Nov '23`
 
 University of Manchester
 : `Model theory and related topics, Jul '23`
@@ -39,43 +36,47 @@ University of Manchester
 Sorbonne University 
 : `Géométrie et Théorie des Modèles Seminar, Jun '23`
 
-University of Milan  
-: `Logic Colloquium, Jun '23`
-
 The Online Logic Seminar       
 
 MSRI / SLMath
-: `DDC-II Seminar [<a href="https://www.msri.org/seminars/26809" target="_blank">rec</a>]`
+: `DDC-II Seminar` [<a href="https://www.msri.org/seminars/26809" target="_blank">rec</a>]
+
+
+University of Illinois at Urbana-Champaign
+: AWM Graduate Student Colloquium 
+
+The Fields Institute
+: `Thematic Program on Tame Geometry` [<a href="http://www.fields.utoronto.ca/talks/Pila-Wilkie-theorem" target="_blank">rec</a>]
+
+University of Illinois at Chicago
+: `Logic Seminar`
+
+University of Leeds 
+: `TDE Seminar`
+
+The Fields Institute 
+: `Geometry and Model Theory Seminar`
+
+MSRI
+: `DDC: Diophantine Problems` 
+
+IIIT Delhi
+: `Departmental Seminar`
+
+
+## Contributed talks
+
+University of Freiburg
+: `Geomod Conference, Nov '23`
+
+University of Milan  
+: `Logic Colloquium, Jun '23`
 
 Joint Mathematical Meetings 2022
 : Model-theoretic Classification Program 
 
 AMS Spring Central Sectional Meeting
 : Model Theory and its Applications
-
-The Fields Institute
-: Thematic Program on Tame Geometry [<a href="http://www.fields.utoronto.ca/talks/Pila-Wilkie-theorem" target="_blank">rec</a>]
-
-University of Illinois at Chicago
-: Logic Seminar
-
-University of Leeds 
-:TDE Seminar 
-
-The Fields Institute 
-: Geometry and Model Theory Seminar 
-
-MSRI
-: DDC: Diophantine Problems 
-
-IIIT Delhi
-: Departmental Seminar
-
-
-
-
-
-
 
 
 
