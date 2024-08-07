@@ -10,10 +10,10 @@ author_profile: true
 
 ## <kbd id="Acad"><a href="#Acad" style="text-decoration: none; color: #326496">Academic history</a></kbd>
 
-* 2024--, Postdoc `KU Leuven`
-* 2022--2024, Postdoc `Weizmann Institute of Science`
-* PhD in Mathematics `University of Illinois at Urbana-Champaign`
-* 5-year MSc in Mathematics & Scientific Computing, `Indian Institute of Technology Kanpur`
+* 2024-- , Postdoc, `KU Leuven`
+* 2022--2024, Postdoc, `Weizmann Institute of Science`
+* PhD in Mathematics, `University of Illinois at Urbana-Champaign`
+* BS/MS in Mathematics & Scientific Computing, `Indian Institute of Technology Kanpur`
 
 <br>
 
