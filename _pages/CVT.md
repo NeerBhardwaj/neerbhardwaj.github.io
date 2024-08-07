@@ -33,19 +33,19 @@ author_profile: true
 
 * The Online Logic Seminar
 
-* DDC-II Seminar `MSRI/SLMath` [<a href="https://www.msri.org/seminars/26809" target="_blank">rec</a>]
+* DDC-II Seminar `MSRI/SLMath, Berkeley` [<a href="https://www.msri.org/seminars/26809" target="_blank">rec</a>]
 
 * AWM Graduate Student Colloquium `University of Illinois at Urbana-Champaign`
 
-* Thematic Program on Tame Geometry `The Fields Institute` [<a href="http://www.fields.utoronto.ca/talks/Pila-Wilkie-theorem" target="_blank">rec</a>]
+* Thematic Program on Tame Geometry `The Fields Institute, Toronto` [<a href="http://www.fields.utoronto.ca/talks/Pila-Wilkie-theorem" target="_blank">rec</a>]
 
 * Logic Seminar `University of Illinois at Chicago`
 
 * TDE Seminar `University of Leeds` 
 
-* Geometry and Model Theory Seminar `The Fields Institute` 
+* Geometry and Model Theory Seminar `The Fields Institute, Toronto` 
 
-* DDC: Diophantine Problems Seminar `MSRI`
+* DDC: Diophantine Problems Seminar `MSRI, Berkeley`
 
 * Departmental Seminar, `IIIT Delhi`
 
