@@ -91,6 +91,28 @@ author_profile: true
 * Spring 2018 \|\| Calculus II 
 * Fall 2017   \|\| Calculus III 
 
+<br>
+
+## <kbd id="conf"><a href="#conf" style="text-decoration: none; color: #326496">Conferences</a></kbd>
+
+ * `Exponential Fields; BIRS (Feb '24)` 
+ * `Hodge theory and o-minimality; CIRM (Jan '24)`
+ * `2023 Geomod conference; Albert Ludwig University of Freiburg (Nov '23)`
+ * `Model theory and related topics; University of Manchester (Jul '23)`
+ * `Logic Colloquium (Jun '23)`
+ * `Model theory of valued fields; CIRM (May '23)`
+ * `Arizona Winter School 2023: Unlikely Intersections (Mar '23)`
+ * `The 23rd Midrasha Mathematicae: O-minimality and its applications (Dec '22)`
+ * `DDC part II; MSRI/SLMath (Jul-Aug '22)`
+ * `Thematic Program on Tame Geometry; Fields Institute (Jun '22)`
+ * `Joint Mathematical Meetings (Apr '22)`
+ * `AMS Spring Central Sectional Meeting (Mar '22)`
+ * `Sparsity of Algebraic Points; MSRI (Jun '21)` 
+ * `ASL North American Annual Meeting (May '18)`
+
+
+
+
 <!--  
 <pre>
 + Fall 2021   | Math 241, Calculus III (<a href="https://merit.illinois.edu/about-merit/" target="_blank">Merit</a>)
@@ -110,24 +132,7 @@ author_profile: true
 <!-- 
 
 
-## <kbd id="conf"><a href="#conf" style="text-decoration: none; color: #326496">Conferences</a></kbd>
 
- * `Exponential Fields; BIRS (Feb '24)` 
- * `Hodge theory and o-minimality; CIRM (Jan '24)`
- * `2023 Geomod conference; Albert Ludwig University of Freiburg (Nov '23)`
- * `Model theory and related topics; University of Manchester (Jul '23)`
- * `Logic Colloquium (Jun '23)`
- * `Model theory of valued fields; CIRM (May '23)`
- * `Arizona Winter School 2023: Unlikely Intersections (Mar '23)`
- * `The 23rd Midrasha Mathematicae: O-minimality and its applications (Dec '22)`
- * `DDC part II; MSRI/SLMath (Jul-Aug '22)`
- * `Thematic Program on Tame Geometry; Fields Institute (Jun '22)`
- * `Joint Mathematical Meetings (Apr '22)`
- * `AMS Spring Central Sectional Meeting (Mar '22)`
- * `Sparsity of Algebraic Points; MSRI (Jun '21)` 
- * `ASL North American Annual Meeting (May '18)`
-
-<br>
 
 
  
