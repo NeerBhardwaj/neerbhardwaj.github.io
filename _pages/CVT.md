@@ -33,9 +33,9 @@ author_profile: true
 
 * `The Online Logic Seminar`
 
-* DDC-II Seminar `MSRI / SLMath`[<a href="https://www.msri.org/seminars/26809" target="_blank">rec</a>]
+* DDC-II Seminar `MSRI/SLMath` [<a href="https://www.msri.org/seminars/26809" target="_blank">rec</a>]
 
-* AWM Graduate Student Colloquium, `University of Illinois at Urbana-Champaign`
+* AWM Graduate Student Colloquium `University of Illinois at Urbana-Champaign`
 
 * Thematic Program on Tame Geometry `The Fields Institute` [<a href="http://www.fields.utoronto.ca/talks/Pila-Wilkie-theorem" target="_blank">rec</a>]
 
@@ -66,10 +66,10 @@ author_profile: true
 
 ## <kbd id="visits"><a href="#visits" style="text-decoration: none; color: #326496">Visits</a></kbd>
 
-MSRI/SLMath
+`MSRI/SLMath`
 : `Research Member, July-August '22`
  
-Fields Institute
+`Fields Institute`
 : `Member, June '22`
 
 <br>
