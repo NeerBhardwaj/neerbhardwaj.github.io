@@ -21,60 +21,44 @@ author_profile: true
 
 ### Invited talks
 
-* IIT Gandginagar, `Departmental Seminar`
+* Departmental Seminar `IIT Gandginagar`
 
-* University of Amsterdam `LLAMA Seminar`
+* LLAMA Seminar `University of Amsterdam`
 
-Radboud University 
-: `Geometry Seminar`
+* Geometry Seminar `Radboud University` 
 
-University of Manchester
-: `Model theory and related topics`
+* Model theory and related topics `University of Manchester`
 
-Sorbonne University 
-: `Géométrie et Théorie des Modèles Seminar`
+* Géométrie et Théorie des Modèles Seminar `Sorbonne University`
 
-* The Online Logic Seminar
+* `The Online Logic Seminar`
 
-MSRI / SLMath
-: `DDC-II Seminar` [<a href="https://www.msri.org/seminars/26809" target="_blank">rec</a>]
+* DDC-II Seminar `MSRI / SLMath`[<a href="https://www.msri.org/seminars/26809" target="_blank">rec</a>]
 
+* AWM Graduate Student Colloquium, `University of Illinois at Urbana-Champaign`
 
-University of Illinois at Urbana-Champaign
-: AWM Graduate Student Colloquium 
+* Thematic Program on Tame Geometry `The Fields Institute` [<a href="http://www.fields.utoronto.ca/talks/Pila-Wilkie-theorem" target="_blank">rec</a>]
 
-The Fields Institute
-: `Thematic Program on Tame Geometry` [<a href="http://www.fields.utoronto.ca/talks/Pila-Wilkie-theorem" target="_blank">rec</a>]
+* Logic Seminar `University of Illinois at Chicago`
 
-University of Illinois at Chicago
-: `Logic Seminar`
+* TDE Seminar `University of Leeds` 
 
-University of Leeds 
-: `TDE Seminar`
+* Geometry and Model Theory Seminar `The Fields Institute` 
 
-The Fields Institute 
-: `Geometry and Model Theory Seminar`
+* DDC: Diophantine Problems Seminar `MSRI`
 
-MSRI
-: `DDC: Diophantine Problems` 
-
-IIIT Delhi
-: `Departmental Seminar`
+* Departmental Seminar, `IIIT Delhi`
 
 
-## Contributed talks
+###  Contributed talks
 
-University of Freiburg
-: `Geomod Conference`
+* Geomod Conference `University of Freiburg`
 
-University of Milan  
-: `Logic Colloquium`
+* Logic Colloquium `University of Milan`  
 
-Joint Mathematical Meetings 2022
-: `Model-theoretic Classification Program` 
+* Model-theoretic Classification Program `Joint Mathematical Meetings 2022`
 
-AMS Spring Central Sectional Meeting
-: `Model Theory and its Applications`
+* Model Theory and its Applications `AMS Spring Central Sectional Meeting 2022`
 
 
 
