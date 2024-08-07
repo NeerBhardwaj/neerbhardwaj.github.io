@@ -19,11 +19,31 @@ author_profile: true
 
 ## <kbd id="talks"><a href="#talks" style="text-decoration: none; color: #326496">Talks</a></kbd>
 
+### Conference talks
+
 IIT Gandginagar
-: Departmental Seminar `May '24`
+: `Departmental Seminar, May '24`
 
 University of Amsterdam 
-: LLAMA Seminar `May '24`
+: `LLAMA Seminar, May '24`
+
+Radboud University 
+: `Geometry Seminar, Nov '23`
+
+University of Freiburg
+: `Geomod Conference, Nov '23`
+
+University of Manchester
+: `Model theory and related topics, Jul '23`
+
+Sorbonne University 
+: `Géométrie et Théorie des Modèles Seminar, Jun '23`
+
+University of Milan  
+: `Logic Colloquium, Jun '23`                    
+
+
+
 
 
 
