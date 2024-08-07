@@ -36,7 +36,8 @@ University of Manchester
 Sorbonne University 
 : `Géométrie et Théorie des Modèles Seminar, Jun '23`
 
-The Online Logic Seminar       
+The Online Logic Seminar
+: <a href="http://lagrange.math.siu.edu/calvert/OnlineLogicSeminar.html" target="_blank">Seminar webpage</a>
 
 MSRI / SLMath
 : `DDC-II Seminar` [<a href="https://www.msri.org/seminars/26809" target="_blank">rec</a>]
