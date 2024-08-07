@@ -19,26 +19,14 @@ author_profile: true
 
 ## <kbd id="talks"><a href="#talks" style="text-decoration: none; color: #326496">Talks</a></kbd>
 
+IIT Gandginagar
+: Departmental Seminar `May '24`
 
-| Year    | Host                                     |    Event                                 |
-| --------         | ------ | ------------------------------------------------------------ |
-| 2024| IIT Gandhinagar | Departmental Seminar|
-| | University of Amsterdam | LLAMA Seminar|
-| 2023| Radboud University | Geometry Seminar|
-|  | University of Freiburg| Geomod Conference|
-|  | University of Manchester | Model theory and related topics|
-|      | Sorbonne University | Géométrie et Théorie des Modèles Seminar|
-|     | University of Milan       | Logic Colloquium                         |
-| 2022 | `virtual` | Online Logic Seminar                          |
-| | MSRI / SLMath| DDC-II Seminar [<a href="https://www.msri.org/seminars/26809" target="_blank">rec</a>]|
-| | `virtual`  | Joint Mathematical Meetings|
-| | `virtual`  | AMS Spring Central Sectional Meeting|
-| | The Fields Institute| Thematic Program on Tame Geometry [<a href="http://www.fields.utoronto.ca/talks/Pila-Wilkie-theorem" target="_blank">rec</a>]|
-| 2021 | University of Illinois at Chicago| Logic Seminar|
-| | University of Leeds| TDE Seminar |
-|2020 |The Fields Institute |Geometry and Model Theory Seminar |
-| | MSRI| DDC: Diophantine Problems |
-| 2019| IIIT Delhi| Departmental Seminar|
+University of Amsterdam 
+: LLAMA Seminar `May '24`
+
+
+
 
 <br>
 
@@ -119,7 +107,37 @@ author_profile: true
  * Graduate Student Conference in Logic XXII; University of Illinois at Urbana-Champaign (March 2021) (virtual)
  * Graduate Student Conference in Logic XIX; University of Wisconsin at Madison (March 2018)-->
 
+
+
+
+
 <!-- 
+
+
+| Year    | Host                                     |    Event                                 |
+| --------         | ------ | ------------------------------------------------------------ |
+| 2024| IIT Gandhinagar | Departmental Seminar|
+| | University of Amsterdam | LLAMA Seminar|
+| 2023| Radboud University | Geometry Seminar|
+|  | University of Freiburg| Geomod Conference|
+|  | University of Manchester | Model theory and related topics|
+|      | Sorbonne University | Géométrie et Théorie des Modèles Seminar|
+|     | University of Milan       | Logic Colloquium                         |
+| 2022 | `virtual` | Online Logic Seminar                          |
+| | MSRI / SLMath| DDC-II Seminar [<a href="https://www.msri.org/seminars/26809" target="_blank">rec</a>]|
+| | `virtual`  | Joint Mathematical Meetings|
+| | `virtual`  | AMS Spring Central Sectional Meeting|
+| | The Fields Institute| Thematic Program on Tame Geometry [<a href="http://www.fields.utoronto.ca/talks/Pila-Wilkie-theorem" target="_blank">rec</a>]|
+| 2021 | University of Illinois at Chicago| Logic Seminar|
+| | University of Leeds| TDE Seminar |
+|2020 |The Fields Institute |Geometry and Model Theory Seminar |
+| | MSRI| DDC: Diophantine Problems |
+| 2019| IIIT Delhi| Departmental Seminar|
+
+
+
+
+
  Online Logic Seminar,
  : <a href="http://lagrange.math.siu.edu/calvert/OnlineLogicSeminar.html" target="_blank"><i>Seminar series link</i></a>, Sep 2022.
 
