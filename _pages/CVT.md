@@ -8,14 +8,7 @@ author_profile: true
   src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js">
 </script>
 
-## <kbd id="Acad"><a href="#Acad" style="text-decoration: none; color: #326496">Academic history</a></kbd>
 
-* 2024-- ;  Postdoc `KU Leuven`
-* 2022--2024; Postdoc `Weizmann Institute of Science`
-* PhD in Mathematics `University of Illinois at Urbana-Champaign`
-* BS/MS in Mathematics & Scientific Computing `Indian Institute of Technology Kanpur`
-
-<br>
 
 ## <kbd id="talks"><a href="#talks" style="text-decoration: none; color: #326496">Talks</a></kbd>
 
@@ -116,6 +109,19 @@ author_profile: true
 
 
 <!--  
+## <kbd id="Acad"><a href="#Acad" style="text-decoration: none; color: #326496">Academic history</a></kbd>
+
+* 2024-- ;  Postdoc `KU Leuven`
+* 2022--2024; Postdoc `Weizmann Institute of Science`
+* PhD in Mathematics `University of Illinois at Urbana-Champaign`
+* BS/MS in Mathematics & Scientific Computing `Indian Institute of Technology Kanpur`
+
+<br>
+
+
+
+
+
 <pre>
 + Fall 2021   | Math 241, Calculus III (<a href="https://merit.illinois.edu/about-merit/" target="_blank">Merit</a>)
 + Fall 2021   | Math 241, Calculus III
