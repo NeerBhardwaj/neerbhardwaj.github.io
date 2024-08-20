@@ -14,7 +14,7 @@ redirect_from:
 I am a postdoc at the Weizmann Institute of Science, where my host is <a href="https://binyamini.wordpress.com/" target="_blank">Gal Binyamini</a>. <br/>
 Previously, I was at the University of Illinois at Urbana-Champaign, where my PhD advisor was <a href="https://math.illinois.edu/directory/profile/vddries/" target="_blank">Lou van den Dries</a>. 
         
-My work involves an interplay of ideas from algebra, model theory, and number theory.
+I am interested in o-minimality and the model theory of valued fields, and my work involves an interplay of ideas from algebra, model theory, and number theory.
 
 <!-- ### Interests
 
@@ -28,7 +28,7 @@ More precisely, I work on developing counting strategies using ideas from arithm
 More precisely, recent work has been with o-minimality and its applications, and the algebra and model theory of valued fields.-->
 
 <br>
-`Email:` &nbsp; neer.bhardwaj [at] weizmann.ac.il,  &nbsp;   nbhardwaj [at] msri.org.
+`Email:` &nbsp; neervimal.bhardwaj [at] kuleuven.be,  &nbsp;   nbhardwaj [at] msri.org.
 
 
 
