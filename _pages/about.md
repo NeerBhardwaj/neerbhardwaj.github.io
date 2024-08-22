@@ -14,7 +14,7 @@ redirect_from:
 I am a postdoc at KU Leuven, where my host is <a href="https://rcluckers.perso.math.cnrs.fr/" target="_blank">Raf Cluckers</a>.
 <br> 
 
-Previously, I was a postodc with <a href="https://binyamini.wordpress.com/" target="_blank">Gal Binyamini</a> at the Weizmann Institute of Science. <br/>
+Previously, I was a postdoc with <a href="https://binyamini.wordpress.com/" target="_blank">Gal Binyamini</a> at the Weizmann Institute of Science. <br/>
 I received my PhD from the University of Illinois at Urbana-Champaign, where my advisor was <a href="https://math.illinois.edu/directory/profile/vddries/" target="_blank">Lou van den Dries</a>. 
 
 ### Research interests
