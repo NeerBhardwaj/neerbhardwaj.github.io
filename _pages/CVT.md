@@ -8,6 +8,12 @@ author_profile: true
   src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js">
 </script>
 
+## <kbd id="Acad"><a href="#Acad" style="text-decoration: none; color: #326496">Academic history</a></kbd>
+
+* 2024-- ;  Postdoc `KU Leuven`
+* 2022--2024; Postdoc `Weizmann Institute of Science`
+* PhD in Mathematics `University of Illinois at Urbana-Champaign`
+* BS/MS in Mathematics & Scientific Computing `Indian Institute of Technology Kanpur`
 
 
 ## <kbd id="talks"><a href="#talks" style="text-decoration: none; color: #326496">Talks</a></kbd>
