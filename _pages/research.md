@@ -9,6 +9,14 @@ author_profile: true
 
 ## <kbd id="Papers"><a href="#Papers" style="text-decoration: none; color: #326496">Papers</a></kbd>
 
+Grothendieck rings of localizations of integers as ordered abelian groups
+: with Frodo Moonen
+
+Effective and approximate Pila-Wilkie type counting with complex-analytic sets
+: with Gal Binyamini
+
+
+
 Integer-valued o-minimal functions
 : with R. McCulloch, N. Ramachandran, and K. Woo [<a href="https://arxiv.org/abs/2404.10737" target="_blank">arXiv</a>]
 
