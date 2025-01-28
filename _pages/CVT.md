@@ -32,7 +32,7 @@ author_profile: true
 
 * Géométrie et Théorie des Modèles Seminar `Sorbonne University`
 
-* The Online Logic Seminar
+* The Online Logic Seminar `Southern Illinois University`
 
 * DDC-II Seminar `MSRI/SLMath, Berkeley` [<a href="https://www.msri.org/seminars/26809" target="_blank">rec</a>]
 
