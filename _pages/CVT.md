@@ -20,6 +20,8 @@ author_profile: true
 
 ### Invited talks
 
+* Manchester Logic Seminar `University of Manchester`
+  
 * GANIT Seminar `IIT Gandginagar`
 
 * LLAMA Seminar `University of Amsterdam`
@@ -95,7 +97,7 @@ author_profile: true
 <br>
 
 ## <kbd id="conf"><a href="#conf" style="text-decoration: none; color: #326496">Conferences</a></kbd>
-
+ * `Tame Geometry; CIRM (Feb '25)`
  * `Exponential Fields; BIRS (Feb '24)` 
  * `Hodge theory and o-minimality; CIRM (Jan '24)`
  * `2023 Geomod conference; Albert Ludwig University of Freiburg (Nov '23)`
