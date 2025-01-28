@@ -15,6 +15,7 @@ author_profile: true
 * PhD in Mathematics `University of Illinois at Urbana-Champaign`
 * BS/MS in Mathematics & Scientific Computing `Indian Institute of Technology Kanpur`
 
+<br>
 
 ## <kbd id="talks"><a href="#talks" style="text-decoration: none; color: #326496">Talks</a></kbd>
 
