@@ -23,7 +23,7 @@ author_profile: true
 
 * Logic Seminar (March 2025) `University of Manchester`
 
-* Number Theory and Algebraic Geometry Seminar (Mar 2025) `KU Leuven`
+* Number Theory and Algebraic Geometry Seminar (March 2025) `KU Leuven`
   
 * GANIT Seminar `IIT Gandginagar`
 
