@@ -53,8 +53,7 @@ author_profile: true
 
 * Departmental Seminar `IIIT Delhi`
 
-<br>
-`<sup>*</sup> = future talk`
+
 
 ###  Contributed talks
 
@@ -122,6 +121,10 @@ author_profile: true
 
 
 <!--  
+
+<br>
+`<sup>*</sup> = future talk`
+
 ## <kbd id="Acad"><a href="#Acad" style="text-decoration: none; color: #326496">Academic history</a></kbd>
 
 * 2024-- ;  Postdoc `KU Leuven`
