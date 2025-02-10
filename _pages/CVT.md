@@ -21,9 +21,9 @@ author_profile: true
 
 ### Invited talks
 
-* Logic Seminar<sup>*</sup> `University of Manchester`
+* Logic Seminar (March 2025) `University of Manchester`
 
-* Number Theory and Algebraic Geometry Seminar<sup>*</sup> `KU Leuven`
+* Number Theory and Algebraic Geometry Seminar (Mar 2025) `KU Leuven`
   
 * GANIT Seminar `IIT Gandginagar`
 
@@ -54,7 +54,7 @@ author_profile: true
 * Departmental Seminar `IIIT Delhi`
 
 <br>
-`<sup>*</sup> = future talk.`
+`<sup>*</sup> = future talk`
 
 ###  Contributed talks
 
