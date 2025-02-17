@@ -18,10 +18,12 @@ Previously, I was a postdoc with <a href="https://binyamini.wordpress.com/" targ
 I received my PhD from the University of Illinois at Urbana-Champaign, where my advisor was <a href="https://math.illinois.edu/directory/profile/vddries/" target="_blank">Lou van den Dries</a>. 
 
 ### Research interests
-        
-I am interested in o-minimality and the model theory of valued fields, and my work involves an interplay of ideas from algebra, model theory, and number theory.
+
+My work involves an interplay of ideas from algebra, analytic geometry, model theory, and number theory.
 
 <!-- ### Interests
+
+I am interested in o-minimality and the model theory of valued fields, and 
 
 More precisely, I work on developing counting strategies using ideas from arithmetic, complex analysis, o-minimality, and model theory of valued fields, and pursuing ensuing applications.-->
 
