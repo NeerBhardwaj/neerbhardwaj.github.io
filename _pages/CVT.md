@@ -21,7 +21,7 @@ author_profile: true
 
 ### Invited talks
 
-* Logic Seminar (March 2025) `University of Manchester`
+* Logic Seminar `University of Manchester`
 
 * Number Theory and Algebraic Geometry Seminar (March 2025) `KU Leuven`
   
