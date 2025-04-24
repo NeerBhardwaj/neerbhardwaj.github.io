@@ -10,6 +10,9 @@ author_profile: true
 ## <kbd id="Papers"><a href="#Papers" style="text-decoration: none; color: #326496">Papers</a></kbd>
 
 
+Grothendieck rings of subgroups of $ℚ$
+: with Frodo Moonen
+
 Effective and approximate Pila-Wilkie type counting with complex-analytic sets
 : with Gal Binyamini
 
