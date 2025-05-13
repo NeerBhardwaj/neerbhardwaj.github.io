@@ -21,6 +21,8 @@ author_profile: true
 
 ### Invited talks
 
+* Logik Oberseminar `University of Bonn`
+
 * Logic Seminar `University of Manchester`
 
 * Number Theory and Algebraic Geometry Seminar `KU Leuven`
