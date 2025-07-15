@@ -19,6 +19,7 @@ Grothendieck rings of ordered subgroups of $ℚ$
 
 Integer-valued o-minimal functions
 : with R. McCulloch, N. Ramachandran, and K. Woo [<a href="https://arxiv.org/abs/2404.10737" target="_blank">arXiv</a>]
+: The Quarterly Journal of Mathematics (to appear)
 
 
 Analytic Ax-Kochen-Ersov theory with lifts of the residue field and value group
