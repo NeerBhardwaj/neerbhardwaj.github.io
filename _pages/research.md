@@ -15,11 +15,11 @@ Effective and approximate Pila-Wilkie type counting with complex-analytic sets
 
 Grothendieck rings of ordered subgroups of $ℚ$
 : with F. Moonen [<a href="https://arxiv.org/abs/2503.00440" target=" blank">arXiv</a>]
-: <a href="https://zml.international/index" target=" blank">ZML</a>: Zeitschrift für Mathematische Logik und Grundlagen der Mathematik (to appear)
+: <a href="https://zml.international/index" target=" blank">ZML: Zeitschrift für Mathematische Logik</a> und Grundlagen der Mathematik (to appear)
 
 Integer-valued o-minimal functions
 : with R. McCulloch, N. Ramachandran, and K. Woo [<a href="https://arxiv.org/abs/2404.10737" target="_blank">arXiv</a>]
-: <a href="https://doi.org/10.1093/qmath/haaf027" target="_blank">The Quarterly Journal of Mathematics (to appear)
+: <a href="https://doi.org/10.1093/qmath/haaf027" target="_blank">The Quarterly Journal of Mathematics</a> (to appear)
 
 
 Analytic Ax-Kochen-Ersov theory with lifts of the residue field and value group
