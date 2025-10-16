@@ -22,7 +22,7 @@ Then I held postdoc positions with <a href="https://binyamini.wordpress.com/" ta
 
 ### Research interests
 
-I worked on the interactions of tame analytic geometry and algebra, model theory, and number theory.
+I am interested in the interactions of tame analytic geometry with algebra, model theory, and number theory.
 
 <br>
 `Email:` &nbsp; neerbhardwaj.math [at] gmail.com
