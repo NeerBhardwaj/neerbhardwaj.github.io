@@ -11,15 +11,21 @@ redirect_from:
   src="https://www.maths.nottingham.ac.uk/plp/pmadw/LaTeXMathML.js"> 
  </script>
 
-I am a postdoc at KU Leuven, where my host is <a href="https://rcluckers.perso.math.cnrs.fr/" target="_blank">Raf Cluckers</a>.
+I now work as a data scientist, and I will keep these pages as a log of my professional activities as a mathematician. 
+
+I had started my mathematics research journey during my PhD at the University of Illinois at Urbana-Champaign, where my advisor was <a href="https://math.illinois.edu/directory/profile/vddries/" target="_blank">Lou van den Dries</a>. 
 <br> 
 
-Previously, I was a postdoc with <a href="https://binyamini.wordpress.com/" target="_blank">Gal Binyamini</a> at the Weizmann Institute of Science. <br/>
-I received my PhD from the University of Illinois at Urbana-Champaign, where my advisor was <a href="https://math.illinois.edu/directory/profile/vddries/" target="_blank">Lou van den Dries</a>. 
+Then I held postdoc positions with <a href="https://binyamini.wordpress.com/" target="_blank">Gal Binyamini</a> at the Weizmann Institute of Science, and at KU Leuven with <a href="https://rcluckers.perso.math.cnrs.fr/" target="_blank">Raf Cluckers</a>. 
+<br> 
+
 
 ### Research interests
 
-My work involves an interplay of ideas from algebra, analytic geometry, model theory, and number theory.
+I worked on the interactions of tame analytic geometry and algebra, model theory, and number theory.
+
+<br>
+`Email:` &nbsp; neerbhardwaj.math [at] gmail.com
 
 <!-- ### Interests
 
@@ -34,8 +40,7 @@ More precisely, I work on developing counting strategies using ideas from arithm
 
 More precisely, recent work has been with o-minimality and its applications, and the algebra and model theory of valued fields.-->
 
-<br>
-`Email:` &nbsp; neerbhardwaj.math [at] gmail.com
+
 
 
 
