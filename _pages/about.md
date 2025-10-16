@@ -13,7 +13,7 @@ redirect_from:
 
 I now work as a data scientist, and I will keep these pages as a log of my professional activities as a mathematician. 
 
-I had started my mathematics research journey during my PhD at the University of Illinois at Urbana-Champaign, where my advisor was <a href="https://math.illinois.edu/directory/profile/vddries/" target="_blank">Lou van den Dries</a>. 
+I received my PhD at the University of Illinois at Urbana-Champaign, where my advisor was <a href="https://math.illinois.edu/directory/profile/vddries/" target="_blank">Lou van den Dries</a>. 
 <br> 
 
 Then I held postdoc positions with <a href="https://binyamini.wordpress.com/" target="_blank">Gal Binyamini</a> at the Weizmann Institute of Science, and at KU Leuven with <a href="https://rcluckers.perso.math.cnrs.fr/" target="_blank">Raf Cluckers</a>. 
