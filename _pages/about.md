@@ -13,7 +13,7 @@ redirect_from:
 
 I now work as a data scientist, and I will keep these pages as a log of my professional activities as a mathematician. 
 
-I received my PhD from the University of Illinois at Urbana-Champaign; my advisor was <a href="https://math.illinois.edu/directory/profile/vddries/" target="_blank">Lou van den Dries</a>. Then I held postdoc positions with <a href="https://binyamini.wordpress.com/" target="_blank">Gal Binyamini</a> at the Weizmann Institute of Science, and with <a href="https://rcluckers.perso.math.cnrs.fr/" target="_blank">Raf Cluckers</a> at KU Leuven. 
+I received my PhD from the University of Illinois at Urbana-Champaign, where my advisor was <a href="https://math.illinois.edu/directory/profile/vddries/" target="_blank">Lou van den Dries</a>. Then I held postdoc positions with <a href="https://binyamini.wordpress.com/" target="_blank">Gal Binyamini</a> at the Weizmann Institute of Science, and with <a href="https://rcluckers.perso.math.cnrs.fr/" target="_blank">Raf Cluckers</a> at KU Leuven. 
 <br> 
 
 
