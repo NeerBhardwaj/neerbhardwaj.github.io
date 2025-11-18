@@ -15,7 +15,7 @@ Effective and approximate Pila-Wilkie type counting with complex-analytic sets
 
 Grothendieck rings of ordered subgroups of $ℚ$
 : with F. Moonen [<a href="https://arxiv.org/abs/2503.00440" target=" blank">arXiv</a>]
-: <a href="[https://zml.international/index](https://diamond-oa.lib.cam.ac.uk/entities/publication/f1f7d1de-4a62-4b4d-8caa-9e0c7de47a22)" target=" blank">ZML</a>: Zeitschrift für Mathematische Logik und Grundlagen der Mathematik
+: <a href="https://diamond-oa.lib.cam.ac.uk/entities/publication/f1f7d1de-4a62-4b4d-8caa-9e0c7de47a22" target=" blank">ZML</a>: Zeitschrift für Mathematische Logik und Grundlagen der Mathematik
 
 Integer-valued o-minimal functions
 : with R. McCulloch, N. Ramachandran, and K. Woo [<a href="https://arxiv.org/abs/2404.10737" target="_blank">arXiv</a>]
