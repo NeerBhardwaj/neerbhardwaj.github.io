@@ -21,7 +21,7 @@ author_profile: true
 
 ### Invited talks
 
-* LENT seminar `Utrecht University`
+* LENT Seminar `Utrecht University`
 
 * Logik Oberseminar `University of Bonn`
 
